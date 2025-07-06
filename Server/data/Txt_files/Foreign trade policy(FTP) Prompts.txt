@@ -1,0 +1,657 @@
+Prompt 1
+What is the legal basis of the Foreign Trade Policy 2023?
+
+Ans
+The Foreign Trade Policy (FTP) 2023 is notified by the Central Government under Section 5 of the Foreign Trade (Development & Regulation) Act, 1992 (No. 22 of 1992), as amended.
+
+Prompt 2
+What is the duration of the FTP 2023?
+
+Ans
+FTP 2023 came into effect from 1st April 2023 and shall remain in operation unless otherwise specified or amended. Exports and imports made up to 31.03.2023 will be governed by the earlier FTP.
+
+Prompt 3
+Who can amend the Foreign Trade Policy?
+
+Ans
+The Central Government can amend the FTP in public interest using powers under Section 3 and 5 of the FT (D&R) Act, 1992.
+
+Prompt 4
+What is the purpose of the Handbook of Procedures (HBP)?
+
+Ans
+The DGFT may notify the HBP, including Appendices and Aayat Niryat Forms, to specify procedures for exporters, importers, licensing authorities, and others for implementing the FTP.
+
+Prompt 5
+What happens when there is a specific provision in FTP or HBP?
+
+Ans
+A specific provision in FTP or HBP prevails over a general provision.
+
+Prompt 6
+Are old authorizations valid under FTP 2023?
+
+Ans
+Yes, any authorization or instrument issued before FTP 2023 remains valid for its purpose and duration unless otherwise stated.
+
+Prompt 7
+How is import/export policy determined during policy change?
+
+Ans
+Policy at the time of import/export applies. For changes to ‘restricted/prohibited’, past transactions remain valid. For future ones, irrevocable commercial letters of credit (ICLC) registered with RA within 15 days allow continued transactions.
+
+Prompt 8
+What is the National Committee on Trade Facilitation (NCTF)?
+
+Ans
+NCTF is an inter-ministerial body set up to implement the WTO’s Trade Facilitation Agreement (TFA) in India.
+
+Prompt 9
+Ans
+The four pillars are Transparency, Technology, Simplification of Procedures and Risk-based Assessment, and Infrastructure Augmentation.
+
+Prompt 10
+What are the objectives of the National Trade Facilitation Action Plan?
+
+Ans
+It aims to improve ease of doing business, reduce transaction cost/time, create a paperless and transparent legal regime, and improve investment through better infrastructure.
+
+Prompt 11
+What is the objective of Chapter 2 in the Foreign Trade Policy?
+
+Ans
+The objective of Chapter 2 is to govern the general provisions related to import and export of goods and services.
+
+Prompt 12
+Are imports and exports generally free under the FTP?
+
+Ans
+Yes, all exports and imports are generally ‘Free’ unless specifically regulated as ‘Prohibited’, ‘Restricted’ or allowed only through State Trading Enterprises (STEs) as per ITC (HS).
+
+Prompt 13
+What is ITC (HS) and how is it structured?
+
+Ans
+ITC (HS) is the Indian Trade Classification (Harmonized System) which categorizes goods for import/export at 2/4/6/8 digit levels. It aligns with the international HS at the 6-digit level but maintains national codes at 8 digits.
+
+Prompt 14
+What is the policy for second-hand capital goods?
+
+Ans
+Second-hand capital goods are generally ‘Free’ except for certain categories like refurbished electronics and used IT assets, which are ‘Restricted’ and require authorisation.
+
+Prompt 15
+What is the IEC and why is it important?
+
+Ans
+IEC stands for Importer-Exporter Code. It is a 10-character alphanumeric number issued by DGFT and is mandatory for any export/import activity unless exempted.
+
+Prompt 16
+What are the mandatory documents required for export of goods from India?
+
+Ans
+The mandatory documents are: 1) Bill of Lading/Airway Bill/Railway Receipt, 2) Commercial Invoice cum Packing List, and 3) Shipping Bill/Bill of Export.
+
+Prompt 17
+When can DGFT impose restrictions on trade?
+
+Ans
+DGFT can impose ‘Prohibition’ or ‘Restriction’ to protect public interest, national security, morality, health, and in compliance with international agreements, among other reasons listed under Para 2.07.
+
+Prompt 18
+Can import/export of restricted goods be done without authorisation?
+
+Ans
+No, restricted goods and services can only be imported or exported with an Authorisation or as per prescribed procedures in Notifications or Public Notices.
+
+Prompt 19
+What are the penalties for violating conditions of an Authorisation?
+
+Ans
+Violations can lead to actions under FT (D&R) Act, including being placed under Denied Entity List (DEL), cancellation of authorisations, and refund of benefits availed.
+
+Prompt 20
+What is the Approved Exporter Scheme under FTP?
+
+Ans
+It allows Status Holder manufacturers to self-certify origin of their goods for preferential treatment under trade agreements, reducing transaction costs.
+
+Prompt 21
+What is the objective of the Developing Districts as Export Hubs initiative?
+
+Ans
+The objective is to transform districts into export hubs by identifying high-potential products/services, addressing bottlenecks, supporting local exporters, and boosting manufacturing and services at the district level.
+
+Prompt 22
+What are District Export Promotion Committees (DEPCs)?
+
+Ans
+DEPCs are institutional mechanisms set up in each district to identify and promote export potential, chaired by the District Collector and co-chaired by the designated DGFT RA.
+
+Prompt 23
+Who are the members of a DEPC?
+
+Ans
+A DEPC is chaired by the Collector/DM/DC and co-chaired by the designated DGFT RA, with other relevant stakeholders from Central, State, and District agencies as members.
+
+Prompt 24
+What is a District Export Action Plan (DEAP)?
+
+Ans
+DEAP is a comprehensive plan prepared by each district identifying 2-3 high potential products/services and specifying interventions, targets, and support needed to enhance exports.
+
+Prompt 25
+What is the purpose of a State Export Promotion Committee (SEPC)?
+
+Ans
+SEPCs are formed by each State/UT to coordinate with DGFT and the Department of Commerce for export promotion, chaired by the Chief Secretary and co-convened by the DGFT RA.
+
+Prompt 26
+What is the role of the nodal DGFT RA in the Export Hubs initiative?
+
+Ans
+Nodal DGFT RAs are responsible for managing activities under the Export Hubs initiative in their assigned districts and coordinating implementation of DEAPs.
+
+Prompt 27
+How is the implementation of District Export Action Plans monitored?
+
+Ans
+An online portal on the DGFT website allows monitoring of DEAP implementation, progress reports, and meeting records, accessible to DGFT RAs and the public.
+
+Prompt 28
+What kind of export promotion activities are supported at the district level?
+
+Ans
+District-level support includes training, outreach events like buyer-seller meets, trade fairs, workshops, and coordination for sector-specific development and marketing.
+
+Prompt 29
+What should be included in a District Export Action Plan?
+
+Ans
+A DEAP should cover product identification, infrastructure needs, regulatory and policy reforms, skill development, export readiness support, and convergence with government schemes.
+
+Prompt 30
+How are funds for DEAP implementation mobilized?
+
+Ans
+Funds are mobilized by converging various Central and State government schemes, including Market Access Initiative and Niryat Bandhu, based on district-specific requirements.
+
+Prompt 31
+What is the objective of Duty Exemption / Remission Schemes under Chapter 4 of FTP?
+
+Ans
+The objective is to enable duty-free import of inputs for export production, including replenishment of inputs or duty remission.
+
+Prompt 32
+What schemes are included under Duty Exemption / Remission Schemes?
+
+Ans
+The schemes include: Advance Authorisation (AA), Duty Free Import Authorisation (DFIA), Duty Drawback (DBK), RoSCTL, and RoDTEP.
+
+Prompt 33
+What is Advance Authorisation?
+
+Ans
+Advance Authorisation allows duty-free import of inputs that are physically incorporated in export products. It may be based on SION, self-declaration, prior fixation by Norms Committee, or Self-Ratification Scheme.
+
+Prompt 34
+Who is eligible for Advance Authorisation?
+
+Ans
+It can be issued to a manufacturer exporter or merchant exporter tied to a supporting manufacturer. For pharmaceutical products via non-infringing processes, it is issued only to manufacturer exporters.
+
+Prompt 35
+What is the Self-Ratification Scheme?
+
+Ans
+This scheme allows eligible exporters to get Advance Authorisation based on self-declaration when no SION or Adhoc norms exist. It is available only to AEOs or 2-star and above status holders with proper certification.
+
+Prompt 36
+What is Special Advance Authorisation for Apparel Exports?
+
+Ans
+It allows duty-free import of fabric for export of garments under Chapters 61 and 62 of ITC(HS), based on SION or self-declaration, subject to specific value addition and actual user conditions.
+
+Prompt 37
+What is the minimum value addition required under Advance Authorisation?
+
+Ans
+The minimum value addition is 15% for most products, 50% for tea, and 25% for spices. Lower thresholds apply to products listed in Appendix 4D.
+
+Prompt 38
+What are the duties exempted under Advance Authorisation?
+
+Ans
+Imports under Advance Authorisation are exempt from Basic Customs Duty, CVD, SAD, Anti-dumping Duty, IGST, and Compensation Cess, among others.
+
+Prompt 39
+What is Duty Free Import Authorisation (DFIA)?
+
+Ans
+DFIA allows post-export duty-free import of inputs based on SION. It is exempt only from Basic Customs Duty and must meet 20% minimum value addition.
+
+Prompt 40
+Is DFIA available for the Gems and Jewellery sector?
+
+Ans
+No, DFIA is not available for the Gems and Jewellery sector.
+
+Prompt 41
+What is the objective of the EPCG Scheme?
+
+Ans
+The objective of the EPCG Scheme is to facilitate import of capital goods for producing quality goods and services and enhance India’s manufacturing competitiveness.
+
+Prompt 42
+What does EPCG Scheme allow?
+
+Ans
+EPCG Scheme allows import of capital goods for pre-production, production, and post-production at zero customs duty, subject to Export Obligation.
+
+Prompt 43
+What types of capital goods are covered under EPCG Scheme?
+
+Ans
+The EPCG Scheme covers capital goods including those defined in Chapter 11, computer systems/software as part of capital goods, spares, tools, jigs, dies, refractories, and catalysts for initial plus one charge.
+
+Prompt 44
+What is the Export Obligation under the EPCG Scheme?
+
+Ans
+The Export Obligation is equivalent to six times the duties, taxes, and cess saved on capital goods and must be fulfilled within six years from the date of issue of Authorisation.
+
+Prompt 45
+Who is eligible under the EPCG Scheme?
+
+Ans
+Manufacturer exporters, merchant exporters tied to supporting manufacturers, and service providers including Common Service Providers in Export Excellence Towns or PM MITRA Parks are eligible.
+
+Prompt 46
+What is the validity of an EPCG Authorisation?
+
+Ans
+The Authorisation is valid for imports for 24 months from the date of issue. Revalidation is not permitted.
+
+Prompt 47
+Can capital goods be sourced domestically under EPCG?
+
+Ans
+Yes, capital goods can be sourced from indigenous suppliers through Invalidation Letter or Advance Release Order, and such suppliers are eligible for deemed export benefits.
+
+Prompt 48
+What is the Actual User condition under EPCG?
+
+Ans
+Capital goods imported under EPCG are subject to Actual User condition until the Export Obligation is completed and EODC is granted.
+
+Prompt 49
+How is Export Obligation calculated under EPCG?
+
+Ans
+For direct imports, EO is based on actual duty saved. For indigenous sourcing, it is based on notional duty saved on FOR value as indicated in ARO/Invalidation letter.
+
+Prompt 50
+What incentive is given for early fulfillment of Export Obligation?
+
+Ans
+If 75% of specific EO and 100% of Average EO are fulfilled in half or less than half the EO period, the remaining EO is condoned and Authorisation is redeemed.
+
+Prompt 51
+What is the objective of Chapter 6 of the FTP 2023?
+
+Ans
+The objective is to promote exports, enhance foreign exchange earnings, attract investment for export production, and generate employment through EOUs, EHTPs, STPs, and BTPs.
+
+Prompt 52
+What types of units can be set up under Chapter 6 schemes?
+
+Ans
+Units under Export Oriented Units (EOU), Electronics Hardware Technology Parks (EHTP), Software Technology Parks (STP), and Bio-Technology Parks (BTP) can be set up for export-oriented production and services.
+
+Prompt 53
+What are the import entitlements for EOUs/EHTPs/STPs/BTPs?
+
+Ans
+Such units may import or procure all types of goods including capital goods, required for their approved activities without payment of customs duties or IGST, subject to conditions.
+
+Prompt 54
+Can EOUs sell products in DTA (Domestic Tariff Area)?
+
+Ans
+Yes, subject to conditions including payment of applicable duties and taxes, fulfillment of positive NFE, and limits on sale value and types of products like rejects, waste, and by-products.
+
+Prompt 55
+What is the Net Foreign Exchange (NFE) requirement for EOUs?
+
+Ans
+EOUs must be positive net foreign exchange earners calculated cumulatively in a block of five years from the start of production. Extensions are allowed under specific conditions.
+
+Prompt 56
+What are the approvals required to set up an EOU?
+
+Ans
+Applications are considered by the Unit Approval Committee (UAC) or Board of Approval (BoA). Approvals differ for EHTP, STP, and BTP units based on designated authorities.
+
+Prompt 57
+Is there a minimum investment required to establish an EOU?
+
+Ans
+Yes, a minimum investment of Rs. 1 crore in plant and machinery is required, except for sectors like IT, Handicrafts, Agriculture, and others as notified.
+
+Prompt 58
+Can EOUs sub-contract production or export through others?
+
+Ans
+Yes, EOUs can subcontract part of their production to DTA units or export through other exporters or EOU/SEZ units, subject to conditions in the HBP.
+
+Prompt 59
+Are second-hand capital goods allowed under the EOU scheme?
+
+Ans
+Yes, second-hand capital goods may be imported without any age limit, subject to applicable conditions and approvals.
+
+Prompt 60
+What are the benefits available to EOUs under Chapter 6?
+
+Ans
+Benefits include duty-free imports, 100% FDI under automatic route, CST reimbursement, exemption from industrial licensing, and retention of 100% export earnings in EEFC accounts.
+
+Prompt 61
+What is the objective of Chapter 7 in the FTP 2023?
+
+Ans
+To provide a level-playing field to domestic manufacturers and promote Make in India through deemed export benefits in specified cases.
+
+Prompt 62
+What are Deemed Exports under FTP 2023?
+
+Ans
+Deemed Exports refer to transactions where goods do not leave the country and payment is received in Indian rupees or free foreign exchange. Goods must be manufactured in India.
+
+Prompt 63
+What is the GST perspective on Deemed Exports?
+
+Ans
+Under GST, deemed exports include only those supplies notified under Section 147 of CGST/SGST Act, based on GST Council recommendations.
+
+Prompt 64
+What categories of supplies are treated as Deemed Exports?
+
+Ans
+Categories include: (a) supplies against Advance Authorisation/DFIA, (b) supplies to EOU/EHTP/STP/BTP, (c) supplies under EPCG Authorisation, and (d-g) supplies to specified projects, international agencies, mega power or nuclear projects under defined conditions.
+
+Prompt 65
+What are the benefits available for Deemed Exports?
+
+Ans
+Benefits include: Advance Authorisation, Deemed Export Drawback, and refund of Terminal Excise Duty, subject to applicable conditions.
+
+Prompt 66
+What are the conditions for refund of Terminal Excise Duty?
+
+Ans
+Refund is allowed only if the recipient does not avail CENVAT credit or rebate on such goods.
+
+Prompt 67
+When is Deemed Export Drawback applicable?
+
+Ans
+It applies when inputs used are eligible under All Industry Rate or Brand Rate basis and no CENVAT credit has been availed.
+
+Prompt 68
+What are common conditions for claiming deemed export benefits?
+
+Ans
+Supplies must be made directly to the eligible entity. Sub-contractors can supply via the main contractor. Steel manufacturers can supply via service centers/distributors as per specified guidelines.
+
+Prompt 69
+Are there any product-specific deemed export benefits?
+
+Ans
+Yes, benefits are available for cement under Para 7.02(d), steel supplied to Advance Authorisation holders or EOUs, and fuel under specified Central Excise notifications.
+
+Prompt 70
+What happens in case of delay in refund processing?
+
+Ans
+If refund claims are not settled within 30 days from the final approval letter, 6% simple interest per annum is payable.
+
+Prompt 71
+What is the risk management process for deemed export benefits?
+
+Ans
+A system selects 10% of cases monthly for audit by an internal team led by a Joint DGFT. RAs may also reassess cases based on audits or suo-motu.
+
+Prompt 72
+What penal action is taken for mis-declaration in deemed export claims?
+
+Ans
+Recovery is made along with 15% interest per annum, and penal action is initiated under the FT(D&R) Act and related rules.
+
+Prompt 73
+What is the objective of Chapter 8 of the Foreign Trade Policy 2023?
+
+Ans
+To ensure that quality complaints and trade disputes are resolved amicably to maintain India's export reputation and promote confidence among foreign buyers.
+
+Prompt 74
+Are disputes between Indian or foreign entities covered under Chapter 8?
+
+Ans
+No, disputes between two or more Indian entities or two or more foreign entities are not covered under the mechanism outlined in Chapter 8.
+
+Prompt 75
+What types of complaints are covered under Chapter 8 of FTP 2023?
+
+Ans
+Complaints from foreign buyers regarding quality of Indian exports, complaints from Indian importers about foreign suppliers, and complaints of unethical commercial practices are covered.
+
+Prompt 76
+What is the exporter’s obligation under Rule 11 of the FT Regulation Rules, 1993?
+
+Ans
+Exporters must declare and certify the value, quality, and specifications of goods in export documents as per the export contract. Violations may lead to penalties.
+
+Prompt 77
+What action can be taken under the Export (Quality Control & Inspection) Act, 1963?
+
+Ans
+Exporters who fail to meet compulsory quality control or pre-shipment inspection requirements can face penal action under this Act.
+
+Prompt 78
+What powers are given under the FT (D&R) Act, 1992 for action against erring exporters?
+
+Ans
+The DGFT can suspend or cancel IECs, licenses, and impose fiscal penalties under Sections 8, 9(2), 9(4), and 11(2) of the FT (D&R) Act, 1992.
+
+Prompt 79
+What is CQCTD?
+
+Ans
+CQCTD stands for Committee on Quality Complaints and Trade Disputes, set up in DGFT Regional Authorities to handle complaints and disputes efficiently.
+
+Prompt 80
+What are the responsibilities of CQCTD?
+
+Ans
+The committee investigates complaints, aims to resolve them within 3 months, and may seek support from Export Promotion Councils, Commodity Boards, or other agencies.
+
+Prompt 81
+How often does the CQCTD meet?
+
+Ans
+CQCTD must meet at least four times a year and regularly based on pending complaints.
+
+Prompt 82
+What is the nature of CQCTD proceedings?
+
+Ans
+CQCTD proceedings are conciliatory in nature and do not bar parties from pursuing legal remedies.
+
+Prompt 83
+Where is the detailed procedure for handling disputes published?
+
+Ans
+The procedures for filing and resolving disputes are detailed in the Handbook of Procedures, Chapter 8.
+
+Prompt 84
+What corrective measures can CQCTD initiate?
+
+Ans
+CQCTD can direct Export Inspection Agencies or technical bodies to assess product defects and recommend penal action if the dispute is unresolved.
+
+Prompt 85
+How are complaints against foreign entities handled?
+
+Ans
+These are dealt with by the Foreign Trade Division through Indian Missions abroad. Malafide findings are reported to DGFT for wider circulation among EPCs and regulatory bodies.
+
+Prompt 86
+Who is the Case Officer in the context of Chapter 8?
+
+Ans
+A designated Case Officer in DGFT RAs monitors and resolves disputes in a time-bound manner.
+
+Prompt 87
+Who acts as the Nodal Officer for monitoring trade disputes?
+
+Ans
+An officer not below the rank of Joint DGFT at DGFT HQ is designated as the Nodal Officer for monitoring and coordinating trade dispute resolution.
+
+Prompt 88
+What is the objective of Chapter 9 in FTP 2023?
+
+Ans
+The objective is to provide a framework for cross-border trade of goods and services in the digital economy and promote e-Commerce and emerging export channels.
+
+Prompt 89
+What are e-Commerce exports of goods?
+
+Ans
+These are exports where goods are sold through an internet-based e-Commerce platform and payments are made via international cards or authorized electronic channels as per RBI guidelines.
+
+Prompt 90
+What are e-Commerce exports of services?
+
+Ans
+These are services sold online through an e-Commerce platform with payments made through international cards or other RBI-authorized payment channels.
+
+Prompt 91
+What is an e-Commerce platform as per FTP 2023?
+
+Ans
+An e-Commerce platform is a digital interface or web portal that facilitates the commercial buying and selling process over the internet.
+
+Prompt 92
+Who is considered an e-Commerce Export Logistics Provider?
+
+Ans
+Any service provider offering logistics services for e-Commerce exports of goods or services is considered an e-Commerce Export Logistics Provider.
+
+Prompt 93
+What is the value limit for exports via courier/post under FTP 2023?
+
+Ans
+The value limit for exports via registered courier service or foreign post office is ₹10,00,000 per consignment.
+
+Prompt 94
+What is permitted under import through courier or post as per Chapter 9?
+
+Ans
+Imports are allowed under the Customs Act, 1962, regulated as per FTP and ITC(HS) policy. Re-import of returned precious metal jewellery exports via e-commerce is also permitted.
+
+Prompt 95
+What is the Niryat Bandhu Scheme’s role in e-Commerce export promotion?
+
+Ans
+The scheme promotes e-Commerce exports via outreach, workshops, content creation, skill development and capacity building in collaboration with Customs, India Post, and industry partners.
+
+Prompt 96
+What is an E-Commerce Export Hub (ECEH)?
+
+Ans
+ECEH is a designated area with infrastructure to support cross-border e-Commerce, including storage, packaging, logistics, and testing facilities.
+
+Prompt 97
+How can ECEHs be created?
+
+Ans
+ECEHs may be set up via private or PPP models. Proposals must be submitted to a DGFT-constituted committee. Existing facilities can also be designated as ECEHs.
+
+Prompt 98
+What operations can be performed at an ECEH?
+
+Ans
+ECEHs support storage, packaging, labeling, testing, and logistics. They can handle all goods except prohibited ones, and capital goods used there must comply with laws and duties.
+
+Prompt 99
+What assistance is available for ECEHs?
+
+Ans
+ECEHs may receive MAI scheme support for marketing, capacity building, and tech services such as imaging, cataloging, and product video creation.
+
+Prompt 100
+What are Dak Ghar Niryat Kendras?
+
+Ans
+These are post office export hubs working with Foreign Post Offices (FPOs) in a hub-and-spoke model to support e-Commerce exports from artisans, MSMEs, and others in remote areas.
+
+Prompt 101
+What is the objective of Chapter 10 in FTP 2023?
+
+Ans
+The objective is to regulate export of dual-use items, munitions, and nuclear-related items including software and technology under SCOMET, ensuring national and international compliance.
+
+Prompt 102
+What does SCOMET stand for?
+
+Ans
+SCOMET stands for Special Chemicals, Organisms, Materials, Equipment and Technologies.
+
+Prompt 103
+What is the legal basis for controlling SCOMET items?
+
+Ans
+Exports of SCOMET items are regulated under international agreements such as CWC, BWC, MTCR, WA, AG, and NSG, and India's domestic laws including the WMD Act, 2005 and FT(D&R) Act.
+
+Prompt 104
+How many categories are there in the SCOMET list?
+
+Ans
+There are 9 categories in the SCOMET list (Category 0 to 8), but Category 7 is currently reserved and not populated.
+
+Prompt 105
+Which authority issues SCOMET authorisations for Category 0 items?
+
+Ans
+The Department of Atomic Energy (DAE) issues authorisations for Category 0 items and Note 2 of the Commodity Identification Note.
+
+Prompt 106
+Who issues export authorisations for Category 6 items (Munitions List)?
+
+Ans
+The Department of Defence Production (DDP), Ministry of Defence issues authorisations for Category 6 items, excluding those under Note 2, Note 3, and items 6A007, 6A008.
+
+Prompt 107
+Is authorisation required for supply of SCOMET items to SEZs/EOUs?
+
+Ans
+No export authorisation is required for supply from DTA to SEZ/EOU, but it must be reported to the Development Commissioner within a week. Export outside India requires authorisation.
+
+Prompt 108
+Is re-export of imported SCOMET items allowed?
+
+Ans
+Re-export of imported SCOMET items is not allowed without export authorisation, even from bonded warehouses, unless specifically exempted.
+
+Prompt 109
+What is GAECT under SCOMET?
+
+Ans
+GAECT (General Authorization for Export of Chemicals and related equipment) allows one-time authorisation for export of certain chemicals to specified countries with a 5-year validity.
+
+Prompt 110
+What is GAEIS under SCOMET?
+
+Ans
+GAEIS (General Authorization for Export of Information Security items) permits export of specific information security items under Category 8A5 Part 2 as per HBP guidelines.

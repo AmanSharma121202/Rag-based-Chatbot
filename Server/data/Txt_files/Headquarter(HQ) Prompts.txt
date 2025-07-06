@@ -1,0 +1,798 @@
+Prompt 1
+What are the working hours of DGFT Headquarters?
+
+Ans:
+DGFT Headquarters operates from Monday to Friday, 09.30 AM to 06.00 PM.
+
+Prompt 2
+Where is the DGFT Headquarters located?
+
+Ans:
+DGFT Headquarters has two addresses:
+1. Vanijya Bhawan, 'A' Wing, 16 Akbar Road, New Delhi - 110011
+2. Udyog Bhawan, H-Wing, Gate No. 2, Maulana Azad Road, New Delhi - 110011.
+
+Prompt 3
+What is the EPABX number of DGFT?
+
+Ans:
+The EPABX number of DGFT is 011-23061562.
+
+Prompt 4
+How can I contact the EDI Helpdesk of DGFT?
+
+Ans:
+You can contact the EDI Helpdesk via email at dgftedi@nic.in or call the toll-free numbers 1800-572-1550 / 1800-111-550.
+
+Prompt 5
+Who is the Director General of DGFT?
+
+Ans:
+Shri Ajay Bhadoo is the Additional Secretary & Director General of DGFT. He sits in Room No. 1, Vanijya Bhawan. Email: dgft@nic.in
+
+Prompt 6
+Who handles the EPCG Scheme at DGFT HQ?
+
+Ans:
+Shri Hardeep Singh, Additional DGFT, handles the EPCG Scheme. You can reach him at 23038712 or email hardeep.singh@nic.in. His office is in Room No. 4, Vanijya Bhawan.
+
+Prompt 7
+Who is responsible for SCOMET export licensing at DGFT?
+
+Ans:
+Shri Rakesh Kumar, Additional DGFT, is responsible for Export Policy & Licensing of SCOMET Items. Contact: r.kumar73@nic.in, Room 5, Vanijya Bhawan.
+
+Prompt 8
+Whom should I contact regarding RTI in DGFT?
+
+Ans:
+Shri Abhinav Gupta, Additional DGFT, handles RTI related matters. Email: abhinav.gupta@gov.in, Phone: 23038735, Room 2, Vanijya Bhawan.
+
+Prompt 9
+Who oversees the Niryat Bandhu Scheme at DGFT HQ?
+
+Ans:
+Shri Lokesh H. D., Additional DGFT, is responsible for the Niryat Bandhu Scheme. Contact: lokesh.hd@nic.in, Phone: 23038706, Room 3, Vanijya Bhawan.
+
+Prompt 10
+Who is the Statistical Advisor at DGFT HQ?
+
+Ans:
+Shri Nitish Kumar is the Statistical Advisor. He handles Parliament, Foreign Trade Statistics, MIS, Trade Analysis, and DGCIS matters. Email: nitish.iss@nic.in, Room 103, Vanijya Bhawan.
+
+Prompt 11
+Who is responsible for Chapter 2 and Import Licensing at DGFT HQ?
+
+Ans:
+Ms. Shubhra, Additional DGFT, is responsible for Chapter-2 of FTP, Import Policy, Import Licensing, ITC(HS) matters, Vigilance Division and more. Email: shubhra.ag@nic.in, Room 6, Vanijya Bhawan.
+
+Prompt 12
+Who handles Vigilance matters at DGFT Headquarters?
+
+Ans:
+Ms. Shubhra, Additional DGFT, handles Vigilance Division matters. Email: shubhra.ag@nic.in, Phone: 23038718.
+
+Prompt 13
+Who oversees the Export Licensing of Restricted Items (Non-SCOMET)?
+
+Ans:
+Shri Abhinav Gupta, Additional DGFT, is in charge of Export Licensing of Restricted Items (Non-SCOMET). Email: abhinav.gupta@gov.in, Room 2, Vanijya Bhawan.
+
+Prompt 14
+Who handles HRD and SCOMET export licensing at DGFT HQ?
+Ans:
+Shri Rakesh Kumar, Additional DGFT, handles HRD-I & II and Export Licensing of SCOMET items. Email: r.kumar73@nic.in, Room 5, Vanijya Bhawan.
+
+Prompt 15
+Whom should I contact for Export Promotion Measures under Chapter 5 of FTP?
+
+Ans: 
+Shri Hardeep Singh, Additional DGFT, is responsible for Chapter 5 of FTP including EPCG. Email: hardeep.singh@nic.in, Room 4, Vanijya Bhawan.
+
+Prompt 16
+Who handles matters related to Parliament and Foreign Trade Statistics?
+
+Ans:
+Shri Nitish Kumar, Statistical Advisor, oversees Parliament matters, Trade Statistics, MIS/Publication, and DGCIS. Email: nitish.iss@nic.in, Room 103, Vanijya Bhawan.
+
+Prompt 17
+Who is the officer in charge of NC-3 and Pharmaceutical norms?
+
+Ans:
+Shri Rakesh Kumar, Additional DGFT, is in charge of NC-3 which covers norms for Pharmaceutical products. Email: r.kumar73@nic.in, Room 5, Vanijya Bhawan.
+
+Prompt 18
+Who is responsible for the PLI Scheme and Training Cell?
+
+Ans:
+Shri Lokesh H. D., Additional DGFT, is responsible for the PLI Scheme, Training Cell, and Niryat Bandhu Scheme. Email: lokesh.hd@nic.in, Room 3, Vanijya Bhawan.
+
+Prompt 19
+Which officer manages RTI, R&I and grievance-related work?
+
+Ans:
+Shri Abhinav Gupta, Additional DGFT, handles RTI, R&I and grievance matters. Email: abhinav.gupta@gov.in, Room 2, Vanijya Bhawan.
+
+Prompt 20
+Who looks after Export Policy & Licensing related to SCOMET?
+
+Ans:
+Shri Rakesh Kumar, Additional DGFT, manages Export Policy & Licensing related to SCOMET items. Email: r.kumar73@nic.in, Room 5, Vanijya Bhawan.
+
+Prompt 21
+Who is responsible for handling the NC-1 Norms Committee and EPCG Relaxation matters?
+
+Ans:
+Shri Randheep Thakur, Joint DGFT, handles NC-1 and matters related to Chapter 5 of FTP (EPCG scheme) including relaxation cases. Email: randheep.thakur@nic.in, Room 17, Vanijya Bhawan.
+
+Prompt 22
+Who looks after RTI, Litigation, and Official Language Implementation?
+
+Ans:
+Smt. Suminder Kaur, Joint DGFT, oversees RTI, Litigation, Official Language, Records, and Library. Email: suminder.kaur@nic.in, Room 306, Udyog Bhawan.
+
+Prompt 23
+Whom should I contact regarding E-Commerce and SCOMET Export Cell?
+
+Ans:
+Shri Md. Moin Afaque, Joint DGFT, handles Export Cell-SCOMET, E-Commerce, and EGTF. Email: afaque.moin@gov.in, Room 15, Vanijya Bhawan.
+
+Prompt 24
+Who is the officer handling SEZ, Deemed Exports and BOA matters?
+
+Ans:
+Shri Raj Kamal, Director, handles SEZ, BOA, Deemed Exports, and NC-5. Email: rajkamal1.dgsnd@nic.in, Room 302, Udyog Bhawan.
+
+Prompt 25
+Who manages Import Licensing, FTDR Act, and HRD?
+
+Ans:
+Shri Satya Raja Sekhar G, Joint DGFT, is in charge of HRD I & II, Import Licensing, FTDR Act, and O&M. Email: satya.grandhi@gov.in, Room 19, Vanijya Bhawan.
+
+Prompt 26
+Who is responsible for Coordination, Trade Consultation and Audit?
+
+Ans:
+Shri Sanjeev Shrivastava, Joint DGFT, looks after Coordination, Trade Consultation, Audit, and FTP Cell. Email: sanjeevs.edu@nic.in, Room 111, Vanijya Bhawan.
+
+Prompt 27
+Who handles DEH, APS of GTPO, and Gati Shakti Logistics?
+
+Ans:
+Shri Pravin Nalawade, Joint DGFT, manages Policy Cell-3, DEH, APS of GTPO, and PM Gati Shakti logistics. Email: pravin.nalawade@gov.in, Room 18, Vanijya Bhawan.
+
+Prompt 28
+Who oversees Policy Cell-4 and EGTF-1 section?
+
+Ans:
+Shri Hrushikesh Reddy, Joint DGFT, handles Policy Cell-4, Policy Cell-6, and EGTF-1. Email: kh.reddy@gov.in, Room 16, Vanijya Bhawan.
+
+Prompt 29
+Who is the Director (Statistics) at DGFT?
+
+Ans:
+Shri Sarbeswar Majhi is the Director (Statistics) responsible for Parliament-related data, Foreign Trade Statistics, MIS/Publication, and Open Data Platform. Email: sarbeswa.mhaji@gov.in, Room 122, Vanijya Bhawan.
+
+Prompt 30
+Who manages PC-1, PC-3, and Training Division?
+
+Ans:
+Shri Deepak Jhalani, Deputy DGFT, manages PC-1, PC-3, Training Division, and Import Division. Email: deepak.jhalani@gov.in, Room 105, Vanijya Bhawan.
+
+Prompt 31
+Who is in charge of the Parliament Section at DGFT?
+
+Ans:
+Shri Dilip Kumar, Deputy DGFT, manages the Parliament Section. Email: dilip.kumar72@nic.in, Room E-1024, Vanijya Bhawan.
+
+Prompt 32
+Which officer handles General Import Provisions under Policy-2?
+
+Ans:
+Shri Sanjay Kumar Tiwari, Deputy DGFT, handles General Provisions on Import (Policy-2) and Import Policy. Email: sanjay.kt@nic.in, Room US-0023, Vanijya Bhawan.
+
+Prompt 33
+Who is responsible for NC-2 and E-Commerce Policy?
+
+Ans:
+Shri Sanjay Kumar, Deputy DGFT, handles PIC-PRC, NC-2, and E-Commerce related matters. Email: sanjay.kr05@gov.in, Room 213, Udyog Bhawan.
+
+Prompt 34
+Who oversees Export Licensing of restricted items (Non-SCOMET)?
+
+Ans:
+Smt Pratibha Kumari, Deputy DGFT, oversees Export Policy and Licensing of restricted items (Non-SCOMET). Email: pratibha.kumari@nic.in, Room US-11, Vanijya Bhawan.
+
+Prompt 35
+Who is in charge of Export Cell SCOMET and SCOMET Licensing?
+
+Ans:
+Shri Ranjeet Kumar Roy, Deputy DGFT, handles Export Policy & Licensing of SCOMET Items and Export Cell SCOMET. Email: rk.roy81@nic.in, Room US-0008, Vanijya Bhawan.
+
+Prompt 36
+Which officer manages HRD-II division?
+
+Ans:
+Smt. Laxmi Devi, Deputy DGFT, is responsible for HRD-II. Email: laxmii.devi@gov.in, Room US-1017, Vanijya Bhawan.
+
+Prompt 37
+Who handles Cash & Budget Section at DGFT?
+
+Ans:
+Shri Shri Avinash Chander, Deputy DGFT, oversees the Cash & Budget Section. Email: avinash.chander@nic.in, located at Udyog Bhawan.
+
+Prompt 38
+Who handles Grievances and PMOPG at DGFT HQ?
+
+Ans:
+Smt. Anita Thakur, Deputy DGFT, is responsible for Global Trade Promotion Wing (GTPO), CPGRAM, PMOPG, VIP references and grievance redressal. Email: anita.t13@nic.in, Room G-12, Vanijya Bhawan.
+
+Prompt 39
+Who is responsible for NC-3 and HRD-I at DGFT?
+
+Ans:
+Shri Raman Kumar, Deputy DGFT, is responsible for NC-3 and HRD-I. Email: ramankumar@nic.in, Room US-0021, Vanijya Bhawan.
+
+Prompt 40
+Who manages ECA matters at DGFT HQ?
+
+Ans:
+Smt. N Poorna Push Kala, Deputy DGFT, is responsible for ECA. Email: poorna.kala@gov.in, Room 312, Udyog Bhawan.
+
+Prompt 41
+Who is Shri Md. Moin Afaque?
+
+Ans:
+Shri Md. Moin Afaque is a Joint DGFT at DGFT HQ. He is responsible for Export Policy and Export Licensing (Non-SCOMET), E-Commerce, Export Cell-SCOMET, EPM, and EGTF I & II. Email: afaque.moin@gov.in, Room 15, Vanijya Bhawan.
+
+Prompt 42
+Who is Shri Abhinav Gupta?
+
+Ans:
+Shri Abhinav Gupta is an Additional DGFT at DGFT HQ. Email: abhinav.gupta@gov.in, Room 2, Vanijya Bhawan.
+
+Prompt 43
+What is the work allocation of Shri Abhinav Gupta?
+
+Ans:
+Shri Abhinav Gupta, Additional DGFT, is responsible for Export Policy and Licensing of Restricted Items (Non-SCOMET), NC-7, EGTF I & II, RTI, R&I, PMO References, Grievances, Viksit Bharat Initiative, GST related work, and E-Samiksha. Email: abhinav.gupta@gov.in, Room 2, Vanijya Bhawan.
+
+Prompt 44
+Who is Shri Rakesh Kumar?
+
+Ans:
+Shri Rakesh Kumar is an Additional DGFT at DGFT HQ. He is responsible for HRD-I and II, Export Policy & Licensing of SCOMET Items, Chapters 6 & 7 of FTP, SEZ, BOA, fixation of norms for pharmaceuticals and chemicals, trade consultation, revision of FTP, FTDR Act, and coordination. Email: r.kumar73@nic.in, Room 5, Vanijya Bhawan.
+
+Prompt 45
+What are the responsibilities of Shri Rakesh Kumar?
+
+Ans:
+Shri Rakesh Kumar handles HRD-I and II, Export Policy & Export Licensing of SCOMET Items, Chapters 6 & 7 of FTP (EOUs, Deemed Exports, etc.), SEZ, BOA, Fixation of norms for Pharmaceutical Products (NC-3) and Chemical Products (NC-4), Trade Consultation, POM & BOT, Revision of FTP, Appeal Cases under FTDR Act, Enforcement cases & references from DRI, FTDR Act and Rules, O&M, and Coordination. Additional charge: RA Hyderabad.
+
+Prompt 46
+Who is Ms. Shubhra?
+
+Ans:
+Ms. Shubhra is an Additional DGFT at DGFT HQ. Email: shubhra.ag@nic.in, Room 6, Vanijya Bhawan.
+
+Prompt 47
+What is the work allocation of Ms. Shubhra?
+
+Ans:
+Ms. Shubhra is responsible for Policy (Chapter 2 of FTP), Import Policy, ITC (HS) Code related Matters, Import Licensing, Inter Ministerial Committee Meetings under Ministries/Departments of Food, Vigilance Division, Chapter 4 of FTP (AA, Gems & Jewellery, DFIA), Interest Subvention, and pending DEPB cases. Email: shubhra.ag@nic.in, Room 6, Vanijya Bhawan.
+
+Prompt 48
+Who is Shri Hardeep Singh?
+
+Ans:
+Shri Hardeep Singh is an Additional DGFT at DGFT HQ. Email: hardeep.singh@nic.in, Room 4, Vanijya Bhawan.
+
+Prompt 49
+What does Shri Hardeep Singh look after?
+
+Ans:
+Shri Hardeep Singh is responsible for Chapter 5 of FTP (EPCG scheme) & Relaxation in EPCG cases, Audit matters, Cash & Budget of DGFT, Fixation of norms of Engineering & Electronic Items (NC-1 and NC-2), General Administration, Stationery procurement & distribution, Record, Library, Official Language Implementation, Litigation, and Quality Complaints & Trade Disputes. Email: hardeep.singh@nic.in.
+
+Prompt 50
+Who is Shri Lokesh H. D.?
+
+Ans:
+Shri Lokesh H. D. is an Additional DGFT at DGFT HQ. Email: lokesh.hd@nic.in, Room 3, Vanijya Bhawan.
+
+Prompt 51
+What are the duties of Shri Lokesh H. D.?
+
+Ans:
+Shri Lokesh H. D. is responsible for EPM, Chapter I of FTP, Policy Cell – 3, Policy Relaxation and Interpretation Committee, NC-5, NC-6, Training Cell, PLI Scheme, and Niryat Bandhu Scheme. Email: lokesh.hd@nic.in.
+
+Prompt 52
+Who is Shri Nitish Kumar?
+
+Ans:
+Shri Nitish Kumar is the Statistical Advisor at DGFT HQ. Email: nitish.iss@nic.in, Room 103, Vanijya Bhawan.
+
+Prompt 53
+What is the role of Shri Nitish Kumar?
+
+Ans:
+Shri Nitish Kumar handles all matters relating to Parliament, Foreign Trade Statistics, MIS/Publication, Trade Analysis dashboard, Open Data Platform, and DGCIS related matters.
+
+Prompt 54
+Who is Shri Randheep Thakur?
+
+Ans:
+Shri Randheep Thakur is a Joint DGFT at DGFT HQ. Email: randheep.thakur@nic.in, Room 17, Vanijya Bhawan.
+
+Prompt 55
+What are Shri Randheep Thakur’s responsibilities?
+
+Ans:
+Shri Randheep Thakur handles Vigilance, all matters relating to Chapter 5 of FTP (EPCG Scheme), Relaxation in EPCG authorization cases, Coordination, and NC-1. Email: randheep.thakur@nic.in.
+
+Prompt 56
+Who is Smt Suminder Kaur?
+
+Ans:
+Smt Suminder Kaur is a Joint DGFT at DGFT HQ. Email: suminder.kaur@nic.in, Room 306, Udyog Bhawan.
+
+Prompt 57
+What are the responsibilities of Smt Suminder Kaur?
+
+Ans:
+Smt Suminder Kaur handles RTI, Record and Library, R&I, Litigation, Cash, Budget & Accounts (Expenditure Monitoring), and Official Language implementation. Email: suminder.kaur@nic.in.
+
+Prompt 58
+Who is Shri Sanjeev Shrivastava?
+
+Ans:
+Shri Sanjeev Shrivastava is a Joint DGFT at DGFT HQ. Email: sanjeevs.edu@nic.in, Room 111, Vanijya Bhawan.
+
+Prompt 59
+What does Shri Sanjeev Shrivastava manage?
+
+Ans:
+Shri Sanjeev Shrivastava handles General Administration, Procurement & distribution of stationery items, Coordination, Trade Consultation, POM, BOT, E-Samiksha, Audit, and FTP Cell.
+
+Prompt 60
+Who is Shri Satya Raja Sekhar G?
+
+Ans:
+Shri Satya Raja Sekhar G is a Joint DGFT at DGFT HQ. Email: satya.grandhi@gov.in, Room 19, Vanijya Bhawan.
+
+Prompt 61
+What is the work allocation of Shri Satya Raja Sekhar G?
+
+Ans:
+Shri Satya Raja Sekhar G is responsible for HRD I & II, General Provisions on Import, Import Policy Schedule, Matters related to Import Licensing, FTDR Act and Rules, and O&M. Email: satya.grandhi@gov.in.
+
+Prompt 62
+Who is Shri Pravin Nalawade?
+
+Ans:
+Shri Pravin Nalawade is a Joint DGFT at DGFT HQ. Email: pravin.nalawade@gov.in, Room 18, Vanijya Bhawan.
+
+Prompt 63
+What are the duties of Shri Pravin Nalawade?
+
+Ans:
+Shri Pravin Nalawade is responsible for Policy Cell – 3, DEH, APS Division of GTPO, Logistics, Gati Shakti, and Niryat Bandhu Scheme.
+
+Prompt 64
+Who is Shri Hrushikesh Reddy?
+
+Ans:
+Shri Hrushikesh Reddy is a Joint DGFT at DGFT HQ. Email: kh.reddy@gov.in, Room 16, Vanijya Bhawan.
+
+Prompt 65
+What is the role of Shri Hrushikesh Reddy?
+
+Ans:
+Shri Hrushikesh Reddy is in charge of EGTF-1 section, Policy Cell-4, and Policy Cell-6. Email: kh.reddy@gov.in.
+
+Prompt 66
+Who is Shri Sarbeswar Majhi?
+
+Ans:
+Shri Sarbeswar Majhi is Director (Statistics) at DGFT HQ. Email: sarbeswa.mhaji@gov.in, Room 122, Vanijya Bhawan.
+
+Prompt 67
+What is the work allocation of Shri Sarbeswar Majhi?
+
+Ans:
+Shri Sarbeswar Majhi handles matters related to Parliament, Foreign Trade Statistics, MIS/Publication, Trade Analysis dashboard, and Open Data Platform. Email: sarbeswa.mhaji@gov.in.
+
+Prompt 68
+What are the responsibilities of Shri Md. Moin Afaque?
+
+Ans:
+Shri Md. Moin Afaque handles Export Policy and Export Licensing (Non-SCOMET), E-Commerce, Export Cell-SCOMET, EPM, and EGTF I & II.
+
+Prompt 69
+Who is Shri Raj Kamal?
+
+Ans:
+Shri Raj Kamal is a Director at DGFT HQ. Email: rajkamal1.dgsnd@nic.in, Room 302, Udyog Bhawan.
+
+Prompt 70
+What does Shri Raj Kamal oversee?
+
+Ans:
+Shri Raj Kamal is responsible for NC-5, ECA, Chapters 6 & 7 of FTP (EOUs, Deemed Exports, etc.), SEZ, BOA, Quality Complaints and Trade Disputes, and Administration & Financial Matters of DGCI&S.
+
+Prompt 71
+Who is Shri Deepak Jhalani?
+
+Ans:
+Shri Deepak Jhalani is a Deputy DGFT at DGFT HQ. Email: deepak.jhalani@gov.in, Room 105, Vanijya Bhawan.
+
+Prompt 72
+What is the work allocation of Shri Deepak Jhalani?
+
+Ans:
+Shri Deepak Jhalani handles PC-1, PC-3, Training Division, and Import Division.
+
+Prompt 73
+Who is Shri Dilip Kumar?
+
+Ans:
+Shri Dilip Kumar is a Deputy DGFT at DGFT HQ. Email: dilip.kumar72@nic.in, Room E-1024, Vanijya Bhawan.
+
+Prompt 74
+What is the responsibility of Shri Dilip Kumar?
+
+Ans:
+Shri Dilip Kumar handles the Parliament Section.
+
+Prompt 75
+Who is Shri Sanjay Kumar Tiwari?
+
+Ans:
+Shri Sanjay Kumar Tiwari is a Deputy DGFT at DGFT HQ. Email: sanjay.kt@nic.in, Room US-0023, Vanijya Bhawan.
+
+Prompt 76
+What does Shri Sanjay Kumar Tiwari manage?
+
+Ans:
+Shri Sanjay Kumar Tiwari oversees General Provisions on Import (Policy-2) and Import Policy.
+
+Prompt 77
+Who is Smt Pratibha Kumari?
+
+Ans:
+Smt Pratibha Kumari is a Deputy DGFT at DGFT HQ. Email: pratibha.kumari@nic.in, Room US-11, Vanijya Bhawan.
+
+Prompt 78
+What is the work of Smt Pratibha Kumari?
+
+Ans:
+Smt Pratibha Kumari is responsible for Export Policy and Licensing of restricted items, and the Export Facilitation Cell (Non-SCOMET).
+
+Prompt 79
+Who is Shri Ranjeet Kumar Roy?
+
+Ans:
+Shri Ranjeet Kumar Roy is a Deputy DGFT at DGFT HQ. Email: rk.roy81@nic.in, Room US-0008, Vanijya Bhawan.
+
+Prompt 80
+What is the responsibility of Shri Ranjeet Kumar Roy?
+
+Ans:
+Shri Ranjeet Kumar Roy handles Export Policy & Licensing of SCOMET Items, Export Cell SCOMET, and O&M.
+
+Prompt 81
+Who is Smt Laxmi Devi?
+
+Ans:
+Smt Laxmi Devi is a Deputy DGFT at DGFT HQ. Email: laxmii.devi@gov.in, Room US-1017, Vanijya Bhawan.
+
+Prompt 82
+What are the responsibilities of Smt Laxmi Devi?
+
+Ans:
+Smt Laxmi Devi is in charge of HRD-II.
+
+Prompt 83
+Who is Shri Avinash Chander?
+
+Ans:
+Shri Avinash Chander is a Deputy DGFT at DGFT HQ. Email: avinash.chander@nic.in, located at Udyog Bhawan.
+
+Prompt 84
+What work is managed by Shri Avinash Chander?
+
+Ans:
+Shri Avinash Chander handles the Cash & Budget Section.
+
+Prompt 85
+Who is Smt. Anita Thakur?
+
+Ans:
+Smt. Anita Thakur is a Deputy DGFT at DGFT HQ. Email: anita.t13@nic.in, Room G-12, Vanijya Bhawan.
+
+Prompt 86
+What are the responsibilities of Smt. Anita Thakur?
+
+Ans:
+Smt. Anita Thakur is in charge of the Global Trade Promotion Wing (GTPO), grievance redressal including CPGRAM/PMOPG/COVID, PMO references, VIP references, MSME, Policy Coordination, Monitoring of Schemes, Trade Consultation, SOM, POM & BOT.
+
+Prompt 87
+Who is Shri Raman Kumar?
+
+Ans:
+Shri Raman Kumar is a Deputy DGFT at DGFT HQ. Email: ramankumar@nic.in, Room US-0021, Vanijya Bhawan.
+
+Prompt 88
+What does Shri Raman Kumar manage?
+
+Ans:
+Shri Raman Kumar manages Norms Committee-3 and HRD-1.
+
+Prompt 89
+Who is Smt. N Poorna Push Kala?
+
+Ans:
+Smt. N Poorna Push Kala is a Deputy DGFT at DGFT HQ. Email: poorna.kala@gov.in, Room 312, Udyog Bhawan.
+
+Prompt 90
+What is the work of Smt. N Poorna Push Kala?
+
+Ans:
+Smt. N Poorna Push Kala is responsible for ECA matters.
+
+Prompt 91
+Who is Shri Sumit Verma?
+
+Ans:
+Shri Sumit Verma is a Deputy DGFT at DGFT HQ. Email: sumit.verma@nic.in, Room E-1021, Vanijya Bhawan.
+
+Prompt 92
+What are the responsibilities of Shri Sumit Verma?
+
+Ans:
+Shri Sumit Verma handles Co-ordination, DGCIS, Chapters 6 & 7 of FTP, EOUs, Deemed Exports, SEZ, and BOA.
+
+Prompt 93
+Who is Shri Yashwant Kumar Singh?
+
+Ans:
+Shri Yashwant Kumar Singh is a Deputy DGFT at DGFT HQ. Email: yashwant.singh75@gov.in, located at Udyog Bhawan.
+
+Prompt 94
+What is the work of Shri Yashwant Kumar Singh?
+
+Ans:
+Shri Yashwant Kumar Singh manages Vigilance & Audit, and QCTD.
+
+Prompt 95
+Who is Shri Ramesh Kumar?
+
+Ans:
+Shri Ramesh Kumar is a Deputy DGFT at DGFT HQ. Email: ramesh.1970@gov.in, Room US-13, Vanijya Bhawan.
+
+Prompt 96
+What are the responsibilities of Shri Ramesh Kumar?
+
+Ans:
+Shri Ramesh Kumar is responsible for General Administration.
+
+Prompt 97
+Who is Shri Gokul Ram Meena?
+
+Ans:
+Shri Gokul Ram Meena is a Deputy DGFT at DGFT HQ. Email: gokul.meena@nic.in, located at Udyog Bhawan.
+
+Prompt 98
+What is the responsibility of Shri Gokul Ram Meena?
+
+Ans:
+Shri Gokul Ram Meena is responsible for R&I (Receipts and Despatch), Record, Library, and RTI applications pertaining to DGFT.
+
+Prompt 99
+Who is Shri Saurabh Goyal?
+
+Ans:
+Shri Saurabh Goyal is a Deputy DGFT at DGFT HQ. Email: saurabh.goyal@gov.in, Room 109, Vanijya Bhawan.
+
+Prompt 100
+What are the responsibilities of Shri Saurabh Goyal?
+
+Ans:
+Shri Saurabh Goyal handles DEH, APS Division of GTPO, Logistics & PM Gati Shakti, Policy - 4, Training Cell, and NC-5.
+
+Prompt 101
+Who is Ms B. Kruti?
+
+Ans:
+Ms B. Kruti is a Deputy DGFT at DGFT HQ. Email: kruti.bhat@gov.in, Room G-20, Vanijya Bhawan.
+
+Prompt 102
+What work is handled by Ms B. Kruti?
+
+Ans:
+Ms B. Kruti manages EGTF - I, EPM, Export Cell-SCOMET, and NC-1.
+
+Prompt 103
+Who is Shri Bharani VLSVSS?
+
+Ans:
+Shri Bharani VLSVSS is a Deputy DGFT at DGFT HQ. Email: bharani.v@gov.in, Room G-19, Vanijya Bhawan.
+
+Prompt 104
+What does Shri Bharani VLSVSS manage?
+
+Ans:
+Shri Bharani VLSVSS manages EGTF - II, EPM, Chapter I of FTP, Niryat Bandhu Scheme, and NC-7.
+
+Prompt 105
+Who is Shri Ajay Kumar?
+
+Ans:
+Shri Ajay Kumar is a Deputy Director at DGFT HQ. Email: ajay.dhiman88@gov.in, Room US-18 / 402, Vanijya Bhawan/Udyog Bhawan.
+
+Prompt 106
+What are the responsibilities of Shri Ajay Kumar?
+
+Ans:
+Shri Ajay Kumar is responsible for fixation of norms of Food/ Marine/ Miscellaneous Items (NC-6), EGTF-I Division, Board of Trade (BOT), Port Officer's Meeting (POM), and eSamiksha.
+
+Prompt 107
+Who is Shri Manoj Kumar Meena?
+
+Ans:
+Shri Manoj Kumar Meena is a Deputy Director at DGFT HQ. Email: manoj.meena84@gov.in, Room US-17 / 402, Vanijya Bhawan/Udyog Bhawan.
+
+Prompt 108
+What is the work of Shri Manoj Kumar Meena?
+
+Ans:
+Shri Manoj Kumar Meena handles EGTF-I and fixation of norms for chemical & allied products (NC-4).
+
+Prompt 109
+Who is Shri Ajay Bhadoo?
+
+Ans:
+Shri Ajay Bhadoo is the Additional Secretary and Director General of Foreign Trade (DGFT). Email: dgft@nic.in, Room 1, Vanijya Bhawan.
+
+Prompt 110
+What is the role of Shri Ajay Bhadoo?
+
+Ans:
+Shri Ajay Bhadoo heads the Directorate General of Foreign Trade as the Director General and is responsible for the overall functioning and implementation of Foreign Trade Policy.
+
+Prompt 111
+Who is Shri Moin Afaque?
+
+Ans:
+Shri Moin Afaque is a Joint DGFT at DGFT HQ. Email: afaque.moin@gov.in, Room 15, Vanijya Bhawan.
+
+Prompt 112
+What are the responsibilities of Shri Moin Afaque?
+
+Ans:
+Shri Moin Afaque is responsible for Export Policy and Export Licensing (Non-SCOMET), E-Commerce, Export Cell-SCOMET, EPM, and EGTF I & II.
+
+Prompt 113
+Who is Ms. Ishita Gupta?
+
+Ans:
+Ms. Ishita Gupta is Deputy Director (Stats) at DGFT HQ. Email: ishita.gupta@gov.in, Room E-1023, Vanijya Bhawan.
+
+Prompt 114
+What is the responsibility of Ms. Ishita Gupta?
+
+Ans:
+Ms. Ishita Gupta works on Foreign Trade Statistics, MIS/Publication, Trade Analysis Dashboard, and Open Data Platform.
+
+Prompt 115
+Who is Shri Sudhir Kumar Sharma?
+
+Ans:
+Shri Sudhir Kumar Sharma is Assistant DGFT at DGFT HQ. Email: sudhir.sharma67@nic.in, Room SU-18, Vanijya Bhawan.
+
+Prompt 116
+What does Shri Sudhir Kumar Sharma handle?
+
+Ans:
+Shri Sudhir Kumar Sharma handles licensing of restricted items (Import Cell for Restricted Items) and licensing of marble-related issues (Import Policy and Licensing of Marble).
+
+Prompt 117
+Who is Shri H.C. Joshi?
+
+Ans:
+Shri H.C. Joshi is Assistant DGFT at DGFT HQ. Email: hc.joshi@nic.in, Room 487-A, Udyog Bhawan.
+
+Prompt 118
+What are the responsibilities of Shri H.C. Joshi?
+
+Ans:
+Shri H.C. Joshi handles Budget Allocation & Monitoring of Expenditure and holds charge of PC-6 Section.
+
+Prompt 119
+Who is Shri Deepak S Nagdeve?
+
+Ans:
+Shri Deepak S Nagdeve is Assistant Director (Stats) at DGFT HQ. Email: deepak.nagdeve@gov.in, Room E-1020, Vanijya Bhawan.
+
+Prompt 120
+What is the work of Shri Deepak S Nagdeve?
+
+Ans:
+Shri Deepak S Nagdeve manages Foreign Trade Statistics, MIS/Publication, Trade Analysis Dashboard, and Open Data Platform Section.
+
+Prompt 121
+Who is Shri Har Sai?
+
+Ans:
+Shri Har Sai is a Statistical Officer at DGFT HQ. Email: harsai.30@nic.in, Room S-1016, Vanijya Bhawan.
+
+Prompt 122
+What does Shri Har Sai handle?
+
+Ans:
+Shri Har Sai is responsible for Foreign Trade Statistics, MIS/Publication, Trade Analysis Dashboard, and Open Data Platform.
+
+Prompt 123
+Who is Shri S K Rawat?
+
+Ans:
+Shri S K Rawat is a Statistical Officer at DGFT HQ. Email: sunil.rawat@nic.in, Room S-1015, Vanijya Bhawan.
+
+Prompt 124
+What is Shri S K Rawat's responsibility?
+
+Ans:
+Shri S K Rawat handles Foreign Trade Statistics, MIS/Publication, Trade Analysis Dashboard, and Open Data Platform.
+
+Prompt 125
+Who is Shri Sohail Ahmad?
+
+Ans:
+Shri Sohail Ahmad is Deputy Director (Hindi Section) at DGFT HQ. Email: sohail.ahmad@gov.in, Room E-1021, Vanijya Bhawan.
+
+Prompt 126
+What are the duties of Shri Sohail Ahmad?
+
+Ans:
+Shri Sohail Ahmad manages the Official Language Division, focusing on Hindi implementation.
+
+Prompt 127
+Who is Shri Jai Prakash Mishra?
+
+Ans:
+Shri Jai Prakash Mishra is Technical Director at National Informatics Centre (NIC), DGFT HQ. Email: jpm@nic.in, Room 567, Udyog Bhawan.
+
+Prompt 128
+What is the responsibility of Shri Jai Prakash Mishra?
+
+Ans:
+Shri Jai Prakash Mishra oversees IT systems and infrastructure as part of the National Informatics Centre (NIC) at DGFT HQ.
+
+Prompt 129
+What is the DGFT EDI Helpdesk email?
+
+Ans:
+The DGFT EDI Helpdesk email is dgftedi@nic.in.
+
+Prompt 130
+What is the toll-free number for the DGFT EDI Helpdesk?
+
+Ans:
+The toll-free number for the DGFT EDI Helpdesk is 1800-572-1550 or 1800-111-550.
+
+Prompt 131
+Where is the DGFT Vanijya Bhawan office located?
+
+Ans:
+The DGFT Vanijya Bhawan office is located at 'A' Wing, 16 Akbar Road, New Delhi - 110011.
+
+Prompt 132
+Where is the DGFT Udyog Bhawan office located?
+
+Ans:
+The DGFT Udyog Bhawan office is located at H-Wing, Gate No. 2, Maulana Azad Road, New Delhi - 110011.
+
+Prompt 133
+What are DGFT HQ working hours?
+
+Ans:
+The DGFT Headquarters operates from Monday to Friday, 09.30 AM to 06.00 PM.

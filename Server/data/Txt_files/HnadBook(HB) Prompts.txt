@@ -1,0 +1,623 @@
+Prompt 1
+What is the purpose of the Handbook of Procedures (HBP)?
+
+Ans
+The Handbook of Procedures is notified to implement the provisions of the Foreign Trade (Development & Regulation) Act, its Rules and Orders, and the Foreign Trade Policy. It outlines procedures for exporters, importers, and authorities.
+
+Prompt 2
+What are the main components notified under the Handbook of Procedures?
+
+Ans
+The main components are: (a) Handbook of Procedures, (b) Appendices & Aayat Niryat Forms, and (c) Standard Input Output Norms (SION).
+
+Prompt 3
+What is the objective of the Handbook of Procedures 2023?
+
+Ans
+To implement the FT (D&R) Act and FTP through simple, transparent, and digitally compatible procedures that are user-friendly and easy to administer.
+
+Prompt 4
+What definitions apply in the Handbook of Procedures?
+
+Ans
+Definitions from the FT (D&R) Act, Rules and Orders, and the FTP apply to the Handbook of Procedures.
+
+Prompt 5
+What IT initiatives has DGFT implemented for foreign trade governance?
+
+Ans
+DGFT has implemented: Online Customer Portal, Exporter Importer Profile updates, online application system, automated processing, inter-ministerial application handling, CA/CS/Cost Accountant digital upload, 24x7 Helpdesk, message exchange with CBIC, CBDT, MCA, Banks, and a DGFT mobile app.
+
+Prompt 6
+How can exporters file applications with DGFT?
+
+Ans
+Exporters can file online applications through the DGFT Customer Portal for authorisations, benefits, scrips, and status tracking. Documents can also be uploaded and queries responded to online.
+
+Prompt 7
+What is the DGFT 24x7 Helpdesk and how can it be accessed?
+
+Ans
+The 24x7 Helpdesk supports exporters with filing and policy queries. Access methods include: Service tickets on DGFT website, toll-free helpline (1800-572-1550 / 1800-111-550), and email (dgftedi@nic.in).
+
+Prompt 8
+What is eBRC and how is currency converted in eBRCs?
+
+Ans
+eBRC (electronic Bank Realisation Certificate) reflects export proceeds. Currency is converted using CBIC exchange rates as on LEO date or using USD conversion if CBIC rate is unavailable.
+
+Prompt 9
+How are eBRCs generated when payment is received through insurance?
+
+Ans
+Applicants submit proof of payment from the insurance agency to RA. Upon approval by EG&TF Division, DGFT, the value is uploaded in the EDI system as eBRC substitute.
+
+Prompt 10
+How can digitally signed documents be submitted to DGFT?
+
+Ans
+Applications may be authenticated through DSCs issued by approved certifying authorities or via Aadhaar eSign.
+
+Prompt 11
+What is a Status Holder Certificate?
+
+Ans
+It is recognition granted to exporters based on performance. Application is filed online using ANF 1B along with documents. Jurisdiction is based on registered/head office.
+
+Prompt 12
+What is the validity of a Status Holder Certificate?
+
+Ans
+Certificates issued under FTP 2015-20 were valid till 30.09.2023. Under FTP 2023, validity is five years from application date. Upgrade to higher status is allowed after surrendering previous certificate.
+
+Prompt 13
+What records must a Status Holder maintain?
+
+Ans
+Status Holders must maintain accurate accounts of exports/imports for at least two years from date of certificate. These may be inspected by RA or DGFT authority.
+
+Prompt 14
+Under what conditions can a Status Certificate be refused or cancelled?
+
+Ans
+If the status holder fails to fulfill export obligations, tampers authorisations, misrepresents, breaches FT(D&R) or related Acts, or fails to furnish required information.
+
+Prompt 15
+Can a status holder appeal against refusal or cancellation?
+
+Ans
+Yes, an appeal may be filed with DGFT within 45 days. The decision of DGFT is final and binding.
+
+Prompt 16
+What is the objective of Chapter 2 of HBP 2023?
+
+Ans
+To provide detailed procedures for implementation of import/export policies as described in Chapter 2 of the Foreign Trade Policy.
+
+Prompt 17
+What are the valid documents required for imports and exports?
+
+Ans
+Mandatory documents include the Bill of Entry or Shipping Bill, Commercial Invoice-cum-Packing List, and transport documents. Additional documents may be required based on the product or destination.
+
+Prompt 18
+What is the procedure for import of restricted items?
+
+Ans
+An online application in ANF 2M must be filed with DGFT along with supporting documents. DGFT may consult technical bodies or line ministries before granting the license.
+
+Prompt 19
+What is the procedure for export of restricted items?
+
+Ans
+Applicants must file an online application in ANF 2N with the prescribed documents. DGFT processes these based on policy guidelines and line ministry recommendations.
+
+Prompt 20
+How are import/export licenses issued?
+
+Ans
+Licenses for restricted items are issued electronically by the DGFT RA, with a validity period as specified in the license. The exporter/importer must fulfill conditions mentioned in the license.
+
+Prompt 21
+How can licenses be amended or revalidated?
+
+Ans
+Requests for amendment/revalidation of licenses must be submitted online through the DGFT portal. RAs may grant revalidation as per the HBP guidelines.
+
+Prompt 22
+What is the policy for import of second-hand goods?
+
+Ans
+Import of second-hand capital goods is generally allowed without age restrictions. However, used electronics and IT goods require authorization under the E-Waste Management Rules.
+
+Prompt 23
+What are the procedures for import/export through courier or post?
+
+Ans
+Imports and exports through courier/post are allowed subject to policy conditions and are primarily governed by the Courier Imports and Exports (Electronic Declaration and Processing) Regulations.
+
+Prompt 24
+What is the validity period of an import/export license issued by DGFT?
+
+Ans
+Unless otherwise specified, the validity is typically 18 months. For capital goods, the period may extend to 24 months.
+
+Prompt 25
+Can a license be transferred to another party?
+
+Ans
+No, licenses issued for restricted items are non-transferable unless explicitly stated in the license or permitted under specific policy provisions.
+
+Prompt 26
+What is the objective of Developing Districts as Export Hubs policy under HBP 2023?
+
+Ans
+The objective is to convert each district into an export hub by identifying products with export potential, addressing bottlenecks, supporting local exporters, and promoting local manufacturing and services through collaboration with state and district administrations.
+
+Prompt 27
+What is the role of District Export Promotion Committees (DEPCs)?
+
+Ans
+DEPCs are institutional mechanisms at the district level to prepare and implement District Export Action Plans. They are chaired by the District Collector and co-chaired by the DGFT RA.
+
+Prompt 28
+What are the typical members of a DEPC?
+
+Ans
+Members include officials like District Collector, DGFT RA, GM DIC, representatives from MSME, Export Promotion Councils, quality bodies, trade associations, sector ministries, and NABARD among others.
+
+Prompt 29
+What are the functions of a DEPC?
+
+Ans
+Functions include preparing District Export Action Plans, benchmarking export performance, identifying products/services, mapping trade infrastructure, addressing bottlenecks, coordinating training, acting as facilitators and grievance redressal, and supporting events like buyer-seller meets.
+
+Prompt 30
+What is a District Export Action Plan (DEAP)?
+
+Ans
+A DEAP is a strategy document for each district outlining support for local industries, logistics improvement, use of Market Access Initiative scheme, and data-driven goals to boost exports.
+
+Prompt 31
+What should a District Export Action Plan contain?
+
+Ans
+It should include the district and industry profile, export potential products/services, infrastructure and policy interventions, incentives, training needs, export data analysis, and strategies with quantifiable targets.
+
+Prompt 32
+What is the purpose of the State Export Promotion Committees (SEPC)?
+
+Ans
+SEPCs, chaired by the State Chief Secretary, prepare and monitor State Export Promotion Strategies, address issues at the state level, and support DEPCs in districts. DGFT RA acts as co-convener.
+
+Prompt 33
+Who is the Nodal DGFT Regional Authority and what is their role?
+
+Ans
+Nodal DGFT RAs are assigned districts within their jurisdiction to manage all activities under the Export Hubs initiative and update progress of DEAP implementation.
+
+Prompt 34
+What is the purpose of the online monitoring system for District Export Action Plans?
+
+Ans
+It enables uploading and tracking of district-wise export potential and implementation status. Information is maintained by DGFT RAs and made available to the public.
+
+Prompt 35
+What are District Outreach Programs?
+
+Ans
+These are awareness and training activities organized by DGFT RAs in collaboration with state and district agencies to promote exports. Publicity ensures broad participation by potential exporters.
+
+Prompt 36
+What is the Advance Authorisation Scheme under HBP 2023?
+
+Ans
+The Advance Authorisation Scheme allows duty-free import of inputs for manufacturing export products. It can be issued to manufacturer or merchant exporters with supporting manufacturers.
+
+Prompt 37
+What are the methods to apply for Advance Authorisation?
+
+Ans
+Applications can be made under SION, self-declaration, norms fixation by Norms Committee, or Self-Ratification Scheme depending on the exporter’s eligibility.
+
+Prompt 38
+What is the minimum value addition required under Advance Authorisation?
+
+Ans
+Minimum value addition is 15% for most products, 50% for tea, 25% for spices, unless otherwise specified.
+
+Prompt 39
+What is the validity of Advance Authorisation?
+
+Ans
+Validity is 12 months for imports and 18 months for export obligation completion, extendable under specified conditions.
+
+Prompt 40
+What is the process for issuing Advance Authorisation for annual requirement?
+
+Ans
+Annual requirement authorisation is available to status holders with past export performance, based on FOB value and/or CIF value of previous authorisations.
+
+Prompt 41
+How are exports allowed under Advance Authorisation?
+
+Ans
+Exports must be physical or as deemed exports. Third party exports and exports through job workers are permitted with proper declaration and documentation.
+
+Prompt 42
+What is the process to obtain redemption of Advance Authorisation?
+
+Ans
+On fulfillment of export obligation, request for redemption is filed online with DGFT. RA verifies shipping bills, eBRCs, and supporting documents.
+
+Prompt 43
+What is the Duty-Free Import Authorisation (DFIA)?
+
+Ans
+DFIA allows duty-free import of inputs used in manufacturing export products, issued post-export based on SION and valid for one-time transfer.
+
+Prompt 44
+Is transferability allowed under DFIA?
+
+Ans
+Yes, once the export obligation is fulfilled, DFIA can be endorsed as transferable, and it allows only Basic Customs Duty exemption.
+
+Prompt 45
+What is the Self-Ratification Scheme?
+
+Ans
+It permits certain eligible exporters to get Advance Authorisation based on self-declared norms in the absence of SION/Adhoc Norms. Available only to 2-star and above status holders or AEOs.
+
+Prompt 46
+What is the EPCG Scheme as per Chapter 5 of HBP 2023?
+
+Ans
+The Export Promotion Capital Goods (EPCG) Scheme enables import of capital goods at zero customs duty for producing quality goods and services to enhance India’s export competitiveness.
+
+Prompt 47
+How can one apply for an EPCG Authorisation?
+
+Ans
+An application in ANF 5A can be filed by the exporter’s Registered Office, Head Office, Branch Office or Manufacturing Unit to the concerned RA along with required documents.
+
+Prompt 48
+What is the role of the Chartered Engineer in EPCG Authorisation?
+
+Ans
+A Chartered Engineer issues a Nexus Certificate (CEC) certifying the linkage between capital goods and export products. They must operate within their domain of expertise.
+
+Prompt 49
+What is the requirement for Certificate of Installation of Capital Goods?
+
+Ans
+Authorisation holders must submit a certificate from Customs or a Chartered Engineer within 6 months of import completion, extendable by 12 months with a fee of ₹5,000.
+
+Prompt 50
+What is the port of registration for EPCG Authorisation?
+
+Ans
+EPCG Authorisation is issued with a single import port as per para 4.35 of HBP. Exports can be made from any listed port.
+
+Prompt 51
+Can capital goods be procured from SEZ under EPCG Scheme?
+
+Ans
+Yes, procurement is allowed through a Certificate of Supplies from SEZ issued by RA, with specific details about SEZ supplier and EPCG holder unit.
+
+Prompt 52
+Is indigenous sourcing of capital goods allowed under EPCG?
+
+Ans
+Yes, EPCG holders can source capital goods domestically via Invalidation Letter or Advance Release Order and avail deemed export benefits.
+
+Prompt 53
+What are the conditions for fulfilling Export Obligation (EO)?
+
+Ans
+Exports must include the names of both EPCG holder and supporting manufacturer. In third-party exports, evidence must show manufacturing by EPCG holder and realization of proceeds in their account.
+
+Prompt 54
+What is the block-wise export obligation fulfillment requirement?
+
+Ans
+50% of EO must be fulfilled in the first 4 years, and the remaining in the 5th and 6th year from the date of authorisation issue.
+
+Prompt 55
+What is the penalty for late submission of block-wise EO or annual EO report?
+
+Ans
+A composition fee of 2% of duty saved (pro rata), or late fees (₹10,000–₹15,000) depending on delay. Annual EO report late fee is ₹5,000 per authorisation.
+
+Prompt 56
+What is the purpose of Chapter 6 in HBP 2023?
+
+Ans
+Chapter 6 outlines procedures for Export Oriented Units (EOUs), Electronics Hardware Technology Parks (EHTPs), Software Technology Parks (STPs), and Bio-Technology Parks (BTPs) under the FTP scheme.
+
+Prompt 57
+How is an EOU/EHTP/STP/BTP unit approved?
+
+Ans
+Applications must be submitted in ANF 6A. Units are approved by the Unit Approval Committee or respective designated officers depending on the scheme. LoP/LoI is issued post-approval.
+
+Prompt 58
+What is the validity of a Letter of Permission (LoP) or Intent (LoI)?
+
+Ans
+LoP/LoI is valid for 2 years initially, extendable further based on progress, and post commencement of production, it is valid for 5 years.
+
+Prompt 59
+What is the Legal Undertaking (LUT) requirement?
+
+Ans
+Each approved unit must execute an LUT in the prescribed format with the Development Commissioner and must have a permanent email address and digital signature.
+
+Prompt 60
+What goods can be imported by EOUs?
+
+Ans
+EOUs can import raw materials, consumables, capital goods (new/second-hand), spare parts, and office equipment, subject to approval.
+
+Prompt 61
+Are units allowed to export goods and services?
+
+Ans
+Yes. Exports can be in physical form, electronically, or through courier. EOUs are also allowed to re-export goods and participate in exhibitions.
+
+Prompt 62
+What are the conditions for import of goods by EOUs?
+
+Ans
+Goods must be imported to the approved premises. Some sectors may supply items directly to farms/quarries. Inputs must follow SION or approved norms.
+
+Prompt 63
+How is Net Foreign Exchange (NFE) calculated for EOUs?
+
+Ans
+NFE = FOB value of exports (A) - CIF value of imports and foreign payments (B). A unit must maintain positive NFE cumulatively over the block period.
+
+Prompt 64
+Can EOUs undertake subcontracting?
+
+Ans
+Yes, EOUs can subcontract job work to DTA/EOU/SEZ units under prescribed conditions including return timelines, permissions, and wastage norms.
+
+Prompt 65
+What is the Fast Track Clearance Procedure?
+
+Ans
+Status Holder EOUs are eligible and benefit from simplified procedures like exemption from cargo examination, permission-less leasing, and quicker approvals.
+
+Prompt 66
+What is the policy for Deemed Exports under HBP 2023?
+
+Ans
+The policy for Deemed Exports is defined in Chapter 7 of the Foreign Trade Policy (FTP).
+
+Prompt 67
+How can one claim benefits for deemed exports?
+
+Ans
+Applicants must submit ANF-7A along with required documents to the RA. For supplies to EOUs, claims are filed with the Development Commissioner.
+
+Prompt 68
+What are the eligibility criteria for claiming TED/Drawback benefits?
+
+Ans
+Applicants (supplier or recipient) must have an IEC, submit the required certificates, and file claims only after full payment is received via banking channels as per e-BRC.
+
+Prompt 69
+Can sub-contractors claim deemed export benefits?
+
+Ans
+Yes, provided their name is endorsed in the Project Authority Certificate or Contract prior to supply of goods.
+
+Prompt 70
+How is TED refunded for supply of fuel to EOUs?
+
+Ans
+Refund is based on a duty-paid certificate from domestic oil PSUs and is limited to quantities used for production as certified by the DC or Bond authorities.
+
+Prompt 71
+What is the time limit for filing TED/Drawback claims?
+
+Ans
+Claims must be filed within 12 months from full payment realization or supply date, depending on the FTP category under Para 7.02.
+
+Prompt 72
+How is the rate of drawback determined?
+
+Ans
+Drawback is allowed as per All Industry Rate (AIR). If not available or too low, a brand rate can be fixed by submitting ANF-7A with supporting documents.
+
+Prompt 73
+What is the process for late or supplementary claims?
+
+Ans
+Such claims are governed by Para 11.02 (late cut) and Para 11.03 (supplementary claims) of the HBP.
+
+Prompt 74
+What is the rule regarding exemption from payment of TED?
+
+Ans
+The procedure prescribed by the Central Excise Authority must be followed wherever TED exemption is applicable.
+
+Prompt 75
+Which additional rules apply to the deemed exports scheme?
+
+Ans
+Drawback Rules of 1995 or 2017 apply mutatis mutandis, in addition to procedures in the HBP.
+
+Prompt 76
+Is interest payable for delayed payment of deemed export claims?
+
+Ans
+Yes, if RA fails to pay within 30 days of approval, interest is added automatically. If omitted, applicants can file ANF-7B within 30 days of receipt of principal.
+
+Prompt 77
+What is the internal audit mechanism for deemed exports?
+
+Ans
+Zonal Additional DGFT offices must set up audit teams and conduct post audits as per FTP paragraph 7.10.
+
+Prompt 78
+What is CQCTD under HBP 2023?
+
+Ans
+CQCTD stands for Committee on Quality Complaint & Trade Dispute. It is constituted in 20 DGFT offices to handle quality complaints and trade disputes effectively.
+
+Prompt 79
+How is the jurisdiction of a CQCTD determined?
+
+Ans
+Each CQCTD has jurisdiction over specific Regional Authorities (RAs) as designated in the DGFT notification. The jurisdiction is based on geographic coverage.
+
+Prompt 80
+Who are the members of the CQCTD?
+
+Ans
+The CQCTD includes Chairperson (Addl./Joint DGFT), representatives from BIS, APEDA, banks, FIEO or EPCs, Export Inspection Agency, State Industries, MSME, and others co-opted by the Chairperson.
+
+Prompt 81
+How can a quality complaint or trade dispute be filed?
+
+Ans
+Complaints must be submitted online at www.dgft.gov.in under Services > Quality Complaints & Trade Disputes. A Unique Reference Number is generated upon submission.
+
+Prompt 82
+Can supporting documents be submitted with the complaint?
+
+Ans
+Yes, supporting documents can be uploaded along with the complaint or added later on through the DGFT online system.
+
+Prompt 83
+What is the role of CQCTD after receiving a complaint?
+
+Ans
+CQCTD takes up the matter with the concerned entity or authorities, tries to resolve it, and updates the status online regularly.
+
+Prompt 84
+What action can be taken against erring Indian entities?
+
+Ans
+Action may be taken under the FT(D&R) Act, 1992 and FT(Regulation) Rules, 1993 if the Indian entity is found at fault.
+
+Prompt 85
+How are Indian Missions involved in trade disputes?
+
+Ans
+Indian Missions take up the matter with concerned foreign authorities and also update the complaint status online.
+
+Prompt 86
+Can the complainant track the status of their complaint?
+
+Ans
+Yes, the DGFT website provides a facility to track and view the status of filed complaints or disputes.
+
+Prompt 87
+Is the CQCTD mechanism legally binding?
+
+Ans
+No, it is a conciliatory mechanism. Parties are free to pursue other legal remedies. It does not cover disputes between two Indian or two foreign entities.
+
+Prompt 88
+What is the focus of Chapter 9 in HBP 2023?
+
+Ans
+Chapter 9 focuses on the procedures for implementing the 'Cross Border E-Commerce from India' policy as detailed in Chapter 9 of the Foreign Trade Policy.
+
+Prompt 89
+What is the aim of IT enablement for e-commerce exporters under HBP 2023?
+
+Ans
+The aim is to ensure seamless delivery of Foreign Trade Policy benefits and schemes to e-commerce exporters through suitable IT systems.
+
+Prompt 90
+How can an E-Commerce Export Hub (ECEH) be created?
+
+Ans
+To create an ECEH, an application must be submitted to DGFT. A DGFT-led committee, including a member from the Department of Revenue, evaluates and approves the application.
+
+Prompt 91
+Who approves ECEH applications?
+
+Ans
+The DGFT has the authority to approve ECEH applications based on the committee's evaluation.
+
+Prompt 92
+Can DGFT restrict products or markets in ECEHs?
+
+Ans
+Yes, DGFT may specify export products or markets that are not eligible for ECEH operations. A negative list will be notified separately.
+
+Prompt 93
+What is the ECEH developer required to submit annually?
+
+Ans
+The ECEH developer must provide an annual statement of accounts as per DGFT instructions.
+
+Prompt 94
+What oversight measures apply to ECEHs?
+
+Ans
+DGFT will notify procedures for supervision and inspection of ECEHs, and an independent evaluation and assessment mechanism may also be developed.
+
+Prompt 95
+What is the objective of Chapter 10 of HBP 2023?
+
+Ans
+To outline the procedures and conditions for export of SCOMET (Special Chemicals, Organisms, Materials, Equipment and Technologies) items from India.
+
+Prompt 96
+What is the procedure for exporting SCOMET items?
+
+Ans
+Applications must be submitted online through DGFT’s website using ANF 10A. Supporting documents like end-use certificate, technical details, and declarations must be provided.
+
+Prompt 97
+What is the role of the Inter-Ministerial Working Group (IMWG)?
+
+Ans
+IMWG examines applications for SCOMET export and makes recommendations based on strategic, foreign policy, and national security considerations.
+
+Prompt 98
+What is the validity of a SCOMET export authorisation?
+
+Ans
+A SCOMET export authorisation is valid for 24 months unless otherwise specified. Revalidation can be requested before expiry.
+
+Prompt 99
+What is the General Authorization for Export of Chemicals and related equipment (GAEC)?
+
+Ans
+GAEC permits export of certain SCOMET items to specified countries without referring each case to the IMWG, subject to defined conditions and end-use assurances.
+
+Prompt 100
+What is the procedure for re-export of imported SCOMET items?
+
+Ans
+Re-export requires prior permission from DGFT even if items are stored in bonded warehouses or SEZs, unless specifically exempted.
+
+Prompt 101
+Are there any exemptions for SCOMET export authorisations?
+
+Ans
+Yes, export to SEZs or EOUs from DTA does not require SCOMET authorisation but must be reported to the Development Commissioner within one week.
+
+Prompt 102
+How are post-reporting and monthly returns handled under SCOMET?
+
+Ans
+Exporters must submit shipment details to DGFT within 30 days of export and file monthly reports in ANF 10B.
+
+Prompt 103
+What is the consequence of non-compliance with SCOMET procedures?
+
+Ans
+Non-compliance may lead to suspension or cancellation of export authorisation and penal action under FT(D&R) Act and allied laws.
+
+Prompt 104
+What is the Self-Declaration Scheme under SCOMET?
+
+Ans
+It allows eligible exporters to self-certify that exported items do not fall under the SCOMET list, provided the exporter has a clean track record and meets specified conditions.
