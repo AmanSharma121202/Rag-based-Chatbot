@@ -137,7 +137,7 @@ def load_documents() -> List[Document]:
         "./dat/FAQ",
         "./data/Hand_of_Procedure", 
         "./data/Foregin_Trade_Policy",
-        
+        "./data/Txt_files/"
     ]
     
     all_documents = []

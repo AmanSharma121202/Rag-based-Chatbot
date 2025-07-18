@@ -5,6 +5,7 @@ from dotenv import load_dotenv
 from langchain_google_genai import GoogleGenerativeAIEmbeddings
 from langchain_community.vectorstores import Chroma
 from langchain_community.llms import ollama
+from langchain_huggingface import HuggingFaceEndpoint,ChatHuggingFace
 from langchain.chains.combine_documents import create_stuff_documents_chain
 from langchain.chains import create_history_aware_retriever, create_retrieval_chain
 from langchain_core.prompts import ChatPromptTemplate, MessagesPlaceholder
@@ -104,39 +105,63 @@ enhanced_retriever = EnhancedRetriever()
 retriever = enhanced_retriever.retriever
 
 # LLM instance
-llm = ollama.Ollama(model="gemma2:9b")
+llm = HuggingFaceEndpoint(
+    repo_id="microsoft/Phi-3-mini-4k-instruct",
+    task="text-generation",
+    max_new_tokens=512,
+    do_sample=False,
+    repetition_penalty=1.03,
+)
+
 
 ######### Enhanced Prompts ##########
 
 # Enhanced system prompt that works better with semantic chunks
 system_prompt = (
-    "You are a knowledgeable assistant specialized in DGFT (Directorate General of Foreign Trade) policies, "
-    "procedures, and foreign trade regulations. Use the following context to answer the user's question.\n\n"
-    
-    "INSTRUCTIONS:\n"
-    "1. Base your answer strictly on the provided context from official DGFT documents\n"
-    "2. If the context contains relevant information, provide a comprehensive and accurate answer\n"
-    "3. Rephrase technical content into clear, human-friendly language\n"
-    "4. Include specific references to procedures, forms, or policy numbers when mentioned in the context\n"
-    "5. If the context doesn't contain sufficient information to answer the question, respond with: "
-    "\"I cannot find sufficient information in the available DGFT documents to answer your question.\"\n"
-    "6. Do not speculate or provide information not present in the context\n\n"
-    
-    "Context:\n{context}\n\n"
-    "Question: {input}\n\n"
-    "Answer:"
-    "\n"
+"You are a highly knowledgeable and policy-compliant assistant specializing in DGFT (Directorate General of Foreign Trade) regulations, policies, and procedures."
 
-    "Now, suggest three short, helpful follow-up questions the user might ask next. Keep them relevant and concise.\n"
-    "Follow-up Questions:\n"
-    "1."
-    "2."
-    "3."
-    "Examples you can use:\n"
-    "1. What are the specific forms required for this procedure?\n"
-    "2. Are there any recent updates to the DGFT policies that I should be aware of?\n"
-    "3. How can I contact the DGFT for further assistance?\n"   
+"Your sole responsibility is to interpret, clarify, and communicate official information strictly based on the provided **DGFT document context**. You must not infer, assume, or introduce external data."
 
+" TASK INSTRUCTIONS"
+"1. Carefully review the entire `{context}` block containing excerpts from official DGFT notifications, trade circulars, handbooks, or FTP (Foreign Trade Policy)."
+"2. Assess whether the `{input}` (user query) can be **answered precisely and fully** using only the supplied context."
+"3. Based on the evaluation:"
+   "**IF** the context contains sufficient information to answer the question:"
+    "-  Provide a **clear, concise, and accurate** response in human-friendly language."
+    "-  Reference specific DGFT notifications, policy clauses, chapters, procedures, or form names/numbers if available."
+    "-  Avoid complex legal jargon where possible; explain technical terms simply."
+    "-  Use a polite, professional tone that builds trust."
+
+   "**ELSE IF** the context is **insufficient or unrelated** to the users query:"
+     "-  Respond exactly with: " 
+     "- I cannot find sufficient information in the available DGFT documents to answer your question."
+     "- Do not attempt to answer based on assumed or external knowledge."
+
+" OUTPUT FORMAT"
+"**Answer:**"
+"{{your well-structured answer or fallback message here}}"
+
+"**Follow-up Questions:**"
+"1. {{Relevant short follow-up based on topic}}"
+"2. {{Another helpful question user may ask next}}"
+"3. {{Additional related question to continue the inquiry}}"
+
+"follow-up questions should be relevant to the topic and help guide the user to more information, but do not suggest follow-ups if the answer is not found in the context."
+"If the you are unable to answer the question then dont suggest any follow-up questions."
+
+" BEST PRACTICES"
+"- Avoid repeating users question unless needed for clarity."
+"- Do not invent policy numbers or form names."
+"- Maintain high fidelity to the source context at all times."
+"- Be transparent if information is missing."
+
+" INPUT BLOCK"
+"Context:"
+"{context}"
+
+"Question:"
+"{input}"
+ 
 )
 
 # Enhanced contextualization prompt for better question reformulation

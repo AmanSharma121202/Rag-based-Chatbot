@@ -16589,6 +16589,2302 @@ iv. Para 2.31 [I (b)] revised vide Notification No. 13/2024-25 dated 20 May 2024
 Metadata: {'producer': 'iLovePDF', 'creator': 'PyPDF', 'creationdate': '', 'moddate': '2025-03-04T12:04:17+00:00', 'source': 'data\\Foregin_Trade_Policy\\[UPDATED] CHAPTER 2 OF FTP.pdf', 'total_pages': 19, 'page': 18, 'page_label': '19', 'file_path': 'data\\Foregin_Trade_Policy\\[UPDATED] CHAPTER 2 OF FTP.pdf', 'file_type': '.pdf', 'source_id': 'data\\Foregin_Trade_Policy\\[UPDATED] CHAPTER 2 OF FTP.pdf', 'chunk_index': 0, 'char_count': 513, 'word_count': 74, 'chunk_start': 0, 'chunk_end': 515}
 
 === CHUNK 753 ===
+Content: Prompt 1
+What is the legal basis of the Foreign Trade Policy 2023?
+
+Ans
+The Foreign Trade Policy (FTP) 2023 is notified by the Central Government under Section 5 of the Foreign Trade (Development & Regulation) Act, 1992 (No. 22 of 1992), as amended.
+
+Prompt 2
+What is the duration of the FTP 2023?
+
+Ans
+FTP 2023 came into effect from 1st April 2023 and shall remain in operation unless otherwise specified or amended. Exports and imports made up to 31.03.2023 will be governed by the earlier FTP.
+
+Prompt 3
+Who can amend the Foreign Trade Policy?
+
+Ans
+The Central Government can amend the FTP in public interest using powers under Section 3 and 5 of the FT (D&R) Act, 1992.
+
+Prompt 4
+What is the purpose of the Handbook of Procedures (HBP)?
+Metadata: {'source': 'data\\Txt_files\\Foreign trade policy(FTP) Prompts.txt', 'file_path': 'data\\Txt_files\\Foreign trade policy(FTP) Prompts.txt', 'file_type': '.txt', 'source_id': 'data\\Txt_files\\Foreign trade policy(FTP) Prompts.txt', 'chunk_index': 0, 'char_count': 740, 'word_count': 133, 'chunk_start': 0, 'chunk_end': 742}
+
+=== CHUNK 754 ===
+Content: Ans
+The DGFT may notify the HBP, including Appendices and Aayat Niryat Forms, to specify procedures for exporters, importers, licensing authorities, and others for implementing the FTP.
+
+Prompt 5
+What happens when there is a specific provision in FTP or HBP?
+
+Ans
+A specific provision in FTP or HBP prevails over a general provision.
+
+Prompt 6
+Are old authorizations valid under FTP 2023?
+
+Ans
+Yes, any authorization or instrument issued before FTP 2023 remains valid for its purpose and duration unless otherwise stated.
+
+Prompt 7
+How is import/export policy determined during policy change?
+Metadata: {'source': 'data\\Txt_files\\Foreign trade policy(FTP) Prompts.txt', 'file_path': 'data\\Txt_files\\Foreign trade policy(FTP) Prompts.txt', 'file_type': '.txt', 'source_id': 'data\\Txt_files\\Foreign trade policy(FTP) Prompts.txt', 'chunk_index': 1, 'char_count': 592, 'word_count': 93, 'chunk_start': 742, 'chunk_end': 1336}
+
+=== CHUNK 755 ===
+Content: Ans
+Policy at the time of import/export applies. For changes to â€˜restricted/prohibitedâ€™, past transactions remain valid. For future ones, irrevocable commercial letters of credit (ICLC) registered with RA within 15 days allow continued transactions.
+
+Prompt 8
+What is the National Committee on Trade Facilitation (NCTF)?
+
+Ans
+NCTF is an inter-ministerial body set up to implement the WTOâ€™s Trade Facilitation Agreement (TFA) in India.
+
+Prompt 9
+Ans
+The four pillars are Transparency, Technology, Simplification of Procedures and Risk-based Assessment, and Infrastructure Augmentation.
+
+Prompt 10
+What are the objectives of the National Trade Facilitation Action Plan?
+Metadata: {'source': 'data\\Txt_files\\Foreign trade policy(FTP) Prompts.txt', 'file_path': 'data\\Txt_files\\Foreign trade policy(FTP) Prompts.txt', 'file_type': '.txt', 'source_id': 'data\\Txt_files\\Foreign trade policy(FTP) Prompts.txt', 'chunk_index': 2, 'char_count': 673, 'word_count': 94, 'chunk_start': 1336, 'chunk_end': 2011}
+
+=== CHUNK 756 ===
+Content: Ans
+It aims to improve ease of doing business, reduce transaction cost/time, create a paperless and transparent legal regime, and improve investment through better infrastructure.
+
+Prompt 11
+What is the objective of Chapter 2 in the Foreign Trade Policy?
+
+Ans
+The objective of Chapter 2 is to govern the general provisions related to import and export of goods and services.
+
+Prompt 12
+Are imports and exports generally free under the FTP?
+
+Ans
+Yes, all exports and imports are generally â€˜Freeâ€™ unless specifically regulated as â€˜Prohibitedâ€™, â€˜Restrictedâ€™ or allowed only through State Trading Enterprises (STEs) as per ITC (HS).
+
+Prompt 13
+What is ITC (HS) and how is it structured?
+Metadata: {'source': 'data\\Txt_files\\Foreign trade policy(FTP) Prompts.txt', 'file_path': 'data\\Txt_files\\Foreign trade policy(FTP) Prompts.txt', 'file_type': '.txt', 'source_id': 'data\\Txt_files\\Foreign trade policy(FTP) Prompts.txt', 'chunk_index': 3, 'char_count': 694, 'word_count': 109, 'chunk_start': 2011, 'chunk_end': 2707}
+
+=== CHUNK 757 ===
+Content: Ans
+ITC (HS) is the Indian Trade Classification (Harmonized System) which categorizes goods for import/export at 2/4/6/8 digit levels. It aligns with the international HS at the 6-digit level but maintains national codes at 8 digits.
+
+Prompt 14
+What is the policy for second-hand capital goods?
+
+Ans
+Second-hand capital goods are generally â€˜Freeâ€™ except for certain categories like refurbished electronics and used IT assets, which are â€˜Restrictedâ€™ and require authorisation.
+
+Prompt 15
+What is the IEC and why is it important?
+
+Ans
+IEC stands for Importer-Exporter Code. It is a 10-character alphanumeric number issued by DGFT and is mandatory for any export/import activity unless exempted.
+
+Prompt 16
+What are the mandatory documents required for export of goods from India?
+Metadata: {'source': 'data\\Txt_files\\Foreign trade policy(FTP) Prompts.txt', 'file_path': 'data\\Txt_files\\Foreign trade policy(FTP) Prompts.txt', 'file_type': '.txt', 'source_id': 'data\\Txt_files\\Foreign trade policy(FTP) Prompts.txt', 'chunk_index': 4, 'char_count': 785, 'word_count': 119, 'chunk_start': 2707, 'chunk_end': 3494}
+
+=== CHUNK 758 ===
+Content: Ans
+The mandatory documents are: 1) Bill of Lading/Airway Bill/Railway Receipt, 2) Commercial Invoice cum Packing List, and 3) Shipping Bill/Bill of Export.
+
+Prompt 17
+When can DGFT impose restrictions on trade?
+
+Ans
+DGFT can impose â€˜Prohibitionâ€™ or â€˜Restrictionâ€™ to protect public interest, national security, morality, health, and in compliance with international agreements, among other reasons listed under Para 2.07.
+
+Prompt 18
+Can import/export of restricted goods be done without authorisation?
+
+Ans
+No, restricted goods and services can only be imported or exported with an Authorisation or as per prescribed procedures in Notifications or Public Notices.
+
+Prompt 19
+What are the penalties for violating conditions of an Authorisation?
+Metadata: {'source': 'data\\Txt_files\\Foreign trade policy(FTP) Prompts.txt', 'file_path': 'data\\Txt_files\\Foreign trade policy(FTP) Prompts.txt', 'file_type': '.txt', 'source_id': 'data\\Txt_files\\Foreign trade policy(FTP) Prompts.txt', 'chunk_index': 5, 'char_count': 751, 'word_count': 108, 'chunk_start': 3494, 'chunk_end': 4247}
+
+=== CHUNK 759 ===
+Content: Ans
+Violations can lead to actions under FT (D&R) Act, including being placed under Denied Entity List (DEL), cancellation of authorisations, and refund of benefits availed.
+
+Prompt 20
+What is the Approved Exporter Scheme under FTP?
+
+Ans
+It allows Status Holder manufacturers to self-certify origin of their goods for preferential treatment under trade agreements, reducing transaction costs.
+
+Prompt 21
+What is the objective of the Developing Districts as Export Hubs initiative?
+
+Ans
+The objective is to transform districts into export hubs by identifying high-potential products/services, addressing bottlenecks, supporting local exporters, and boosting manufacturing and services at the district level.
+
+Prompt 22
+What are District Export Promotion Committees (DEPCs)?
+Metadata: {'source': 'data\\Txt_files\\Foreign trade policy(FTP) Prompts.txt', 'file_path': 'data\\Txt_files\\Foreign trade policy(FTP) Prompts.txt', 'file_type': '.txt', 'source_id': 'data\\Txt_files\\Foreign trade policy(FTP) Prompts.txt', 'chunk_index': 6, 'char_count': 772, 'word_count': 108, 'chunk_start': 4247, 'chunk_end': 5021}
+
+=== CHUNK 760 ===
+Content: Ans
+DEPCs are institutional mechanisms set up in each district to identify and promote export potential, chaired by the District Collector and co-chaired by the designated DGFT RA.
+
+Prompt 23
+Who are the members of a DEPC?
+
+Ans
+A DEPC is chaired by the Collector/DM/DC and co-chaired by the designated DGFT RA, with other relevant stakeholders from Central, State, and District agencies as members.
+
+Prompt 24
+What is a District Export Action Plan (DEAP)?
+
+Ans
+DEAP is a comprehensive plan prepared by each district identifying 2-3 high potential products/services and specifying interventions, targets, and support needed to enhance exports.
+
+Prompt 25
+What is the purpose of a State Export Promotion Committee (SEPC)?
+Metadata: {'source': 'data\\Txt_files\\Foreign trade policy(FTP) Prompts.txt', 'file_path': 'data\\Txt_files\\Foreign trade policy(FTP) Prompts.txt', 'file_type': '.txt', 'source_id': 'data\\Txt_files\\Foreign trade policy(FTP) Prompts.txt', 'chunk_index': 7, 'char_count': 719, 'word_count': 112, 'chunk_start': 5021, 'chunk_end': 5742}
+
+=== CHUNK 761 ===
+Content: Ans
+SEPCs are formed by each State/UT to coordinate with DGFT and the Department of Commerce for export promotion, chaired by the Chief Secretary and co-convened by the DGFT RA.
+
+Prompt 26
+What is the role of the nodal DGFT RA in the Export Hubs initiative?
+
+Ans
+Nodal DGFT RAs are responsible for managing activities under the Export Hubs initiative in their assigned districts and coordinating implementation of DEAPs.
+
+Prompt 27
+How is the implementation of District Export Action Plans monitored?
+
+Ans
+An online portal on the DGFT website allows monitoring of DEAP implementation, progress reports, and meeting records, accessible to DGFT RAs and the public.
+
+Prompt 28
+What kind of export promotion activities are supported at the district level?
+Metadata: {'source': 'data\\Txt_files\\Foreign trade policy(FTP) Prompts.txt', 'file_path': 'data\\Txt_files\\Foreign trade policy(FTP) Prompts.txt', 'file_type': '.txt', 'source_id': 'data\\Txt_files\\Foreign trade policy(FTP) Prompts.txt', 'chunk_index': 8, 'char_count': 751, 'word_count': 120, 'chunk_start': 5742, 'chunk_end': 6495}
+
+=== CHUNK 762 ===
+Content: Ans
+District-level support includes training, outreach events like buyer-seller meets, trade fairs, workshops, and coordination for sector-specific development and marketing.
+
+Prompt 29
+What should be included in a District Export Action Plan?
+
+Ans
+A DEAP should cover product identification, infrastructure needs, regulatory and policy reforms, skill development, export readiness support, and convergence with government schemes.
+
+Prompt 30
+How are funds for DEAP implementation mobilized?
+
+Ans
+Funds are mobilized by converging various Central and State government schemes, including Market Access Initiative and Niryat Bandhu, based on district-specific requirements.
+
+Prompt 31
+What is the objective of Duty Exemption / Remission Schemes under Chapter 4 of FTP?
+Metadata: {'source': 'data\\Txt_files\\Foreign trade policy(FTP) Prompts.txt', 'file_path': 'data\\Txt_files\\Foreign trade policy(FTP) Prompts.txt', 'file_type': '.txt', 'source_id': 'data\\Txt_files\\Foreign trade policy(FTP) Prompts.txt', 'chunk_index': 9, 'char_count': 766, 'word_count': 104, 'chunk_start': 6495, 'chunk_end': 7263}
+
+=== CHUNK 763 ===
+Content: Ans
+The objective is to enable duty-free import of inputs for export production, including replenishment of inputs or duty remission.
+
+Prompt 32
+What schemes are included under Duty Exemption / Remission Schemes?
+
+Ans
+The schemes include: Advance Authorisation (AA), Duty Free Import Authorisation (DFIA), Duty Drawback (DBK), RoSCTL, and RoDTEP.
+
+Prompt 33
+What is Advance Authorisation?
+
+Ans
+Advance Authorisation allows duty-free import of inputs that are physically incorporated in export products. It may be based on SION, self-declaration, prior fixation by Norms Committee, or Self-Ratification Scheme.
+
+Prompt 34
+Who is eligible for Advance Authorisation?
+Metadata: {'source': 'data\\Txt_files\\Foreign trade policy(FTP) Prompts.txt', 'file_path': 'data\\Txt_files\\Foreign trade policy(FTP) Prompts.txt', 'file_type': '.txt', 'source_id': 'data\\Txt_files\\Foreign trade policy(FTP) Prompts.txt', 'chunk_index': 10, 'char_count': 663, 'word_count': 94, 'chunk_start': 7263, 'chunk_end': 7928}
+
+=== CHUNK 764 ===
+Content: Ans
+It can be issued to a manufacturer exporter or merchant exporter tied to a supporting manufacturer. For pharmaceutical products via non-infringing processes, it is issued only to manufacturer exporters.
+
+Prompt 35
+What is the Self-Ratification Scheme?
+
+Ans
+This scheme allows eligible exporters to get Advance Authorisation based on self-declaration when no SION or Adhoc norms exist. It is available only to AEOs or 2-star and above status holders with proper certification.
+
+Prompt 36
+What is Special Advance Authorisation for Apparel Exports?
+
+Ans
+It allows duty-free import of fabric for export of garments under Chapters 61 and 62 of ITC(HS), based on SION or self-declaration, subject to specific value addition and actual user conditions.
+Metadata: {'source': 'data\\Txt_files\\Foreign trade policy(FTP) Prompts.txt', 'file_path': 'data\\Txt_files\\Foreign trade policy(FTP) Prompts.txt', 'file_type': '.txt', 'source_id': 'data\\Txt_files\\Foreign trade policy(FTP) Prompts.txt', 'chunk_index': 11, 'char_count': 749, 'word_count': 114, 'chunk_start': 7928, 'chunk_end': 8679}
+
+=== CHUNK 765 ===
+Content: Prompt 37
+What is the minimum value addition required under Advance Authorisation?
+
+Ans
+The minimum value addition is 15% for most products, 50% for tea, and 25% for spices. Lower thresholds apply to products listed in Appendix 4D.
+
+Prompt 38
+What are the duties exempted under Advance Authorisation?
+
+Ans
+Imports under Advance Authorisation are exempt from Basic Customs Duty, CVD, SAD, Anti-dumping Duty, IGST, and Compensation Cess, among others.
+
+Prompt 39
+What is Duty Free Import Authorisation (DFIA)?
+
+Ans
+DFIA allows post-export duty-free import of inputs based on SION. It is exempt only from Basic Customs Duty and must meet 20% minimum value addition.
+
+Prompt 40
+Is DFIA available for the Gems and Jewellery sector?
+
+Ans
+No, DFIA is not available for the Gems and Jewellery sector.
+Metadata: {'source': 'data\\Txt_files\\Foreign trade policy(FTP) Prompts.txt', 'file_path': 'data\\Txt_files\\Foreign trade policy(FTP) Prompts.txt', 'file_type': '.txt', 'source_id': 'data\\Txt_files\\Foreign trade policy(FTP) Prompts.txt', 'chunk_index': 12, 'char_count': 792, 'word_count': 127, 'chunk_start': 8679, 'chunk_end': 9473}
+
+=== CHUNK 766 ===
+Content: Prompt 41
+What is the objective of the EPCG Scheme?
+
+Ans
+The objective of the EPCG Scheme is to facilitate import of capital goods for producing quality goods and services and enhance Indiaâ€™s manufacturing competitiveness.
+
+Prompt 42
+What does EPCG Scheme allow?
+
+Ans
+EPCG Scheme allows import of capital goods for pre-production, production, and post-production at zero customs duty, subject to Export Obligation.
+
+Prompt 43
+What types of capital goods are covered under EPCG Scheme?
+
+Ans
+The EPCG Scheme covers capital goods including those defined in Chapter 11, computer systems/software as part of capital goods, spares, tools, jigs, dies, refractories, and catalysts for initial plus one charge.
+
+Prompt 44
+What is the Export Obligation under the EPCG Scheme?
+Metadata: {'source': 'data\\Txt_files\\Foreign trade policy(FTP) Prompts.txt', 'file_path': 'data\\Txt_files\\Foreign trade policy(FTP) Prompts.txt', 'file_type': '.txt', 'source_id': 'data\\Txt_files\\Foreign trade policy(FTP) Prompts.txt', 'chunk_index': 13, 'char_count': 767, 'word_count': 118, 'chunk_start': 9473, 'chunk_end': 10242}
+
+=== CHUNK 767 ===
+Content: Ans
+The Export Obligation is equivalent to six times the duties, taxes, and cess saved on capital goods and must be fulfilled within six years from the date of issue of Authorisation.
+
+Prompt 45
+Who is eligible under the EPCG Scheme?
+
+Ans
+Manufacturer exporters, merchant exporters tied to supporting manufacturers, and service providers including Common Service Providers in Export Excellence Towns or PM MITRA Parks are eligible.
+
+Prompt 46
+What is the validity of an EPCG Authorisation?
+
+Ans
+The Authorisation is valid for imports for 24 months from the date of issue. Revalidation is not permitted.
+
+Prompt 47
+Can capital goods be sourced domestically under EPCG?
+Metadata: {'source': 'data\\Txt_files\\Foreign trade policy(FTP) Prompts.txt', 'file_path': 'data\\Txt_files\\Foreign trade policy(FTP) Prompts.txt', 'file_type': '.txt', 'source_id': 'data\\Txt_files\\Foreign trade policy(FTP) Prompts.txt', 'chunk_index': 14, 'char_count': 667, 'word_count': 106, 'chunk_start': 10242, 'chunk_end': 10911}
+
+=== CHUNK 768 ===
+Content: Ans
+Yes, capital goods can be sourced from indigenous suppliers through Invalidation Letter or Advance Release Order, and such suppliers are eligible for deemed export benefits.
+
+Prompt 48
+What is the Actual User condition under EPCG?
+
+Ans
+Capital goods imported under EPCG are subject to Actual User condition until the Export Obligation is completed and EODC is granted.
+
+Prompt 49
+How is Export Obligation calculated under EPCG?
+
+Ans
+For direct imports, EO is based on actual duty saved. For indigenous sourcing, it is based on notional duty saved on FOR value as indicated in ARO/Invalidation letter.
+
+Prompt 50
+What incentive is given for early fulfillment of Export Obligation?
+Metadata: {'source': 'data\\Txt_files\\Foreign trade policy(FTP) Prompts.txt', 'file_path': 'data\\Txt_files\\Foreign trade policy(FTP) Prompts.txt', 'file_type': '.txt', 'source_id': 'data\\Txt_files\\Foreign trade policy(FTP) Prompts.txt', 'chunk_index': 15, 'char_count': 683, 'word_count': 108, 'chunk_start': 10911, 'chunk_end': 11596}
+
+=== CHUNK 769 ===
+Content: Ans
+If 75% of specific EO and 100% of Average EO are fulfilled in half or less than half the EO period, the remaining EO is condoned and Authorisation is redeemed.
+
+Prompt 51
+What is the objective of Chapter 6 of the FTP 2023?
+
+Ans
+The objective is to promote exports, enhance foreign exchange earnings, attract investment for export production, and generate employment through EOUs, EHTPs, STPs, and BTPs.
+
+Prompt 52
+What types of units can be set up under Chapter 6 schemes?
+
+Ans
+Units under Export Oriented Units (EOU), Electronics Hardware Technology Parks (EHTP), Software Technology Parks (STP), and Bio-Technology Parks (BTP) can be set up for export-oriented production and services.
+
+Prompt 53
+What are the import entitlements for EOUs/EHTPs/STPs/BTPs?
+Metadata: {'source': 'data\\Txt_files\\Foreign trade policy(FTP) Prompts.txt', 'file_path': 'data\\Txt_files\\Foreign trade policy(FTP) Prompts.txt', 'file_type': '.txt', 'source_id': 'data\\Txt_files\\Foreign trade policy(FTP) Prompts.txt', 'chunk_index': 16, 'char_count': 761, 'word_count': 121, 'chunk_start': 11596, 'chunk_end': 12359}
+
+=== CHUNK 770 ===
+Content: Ans
+Such units may import or procure all types of goods including capital goods, required for their approved activities without payment of customs duties or IGST, subject to conditions.
+
+Prompt 54
+Can EOUs sell products in DTA (Domestic Tariff Area)?
+
+Ans
+Yes, subject to conditions including payment of applicable duties and taxes, fulfillment of positive NFE, and limits on sale value and types of products like rejects, waste, and by-products.
+
+Prompt 55
+What is the Net Foreign Exchange (NFE) requirement for EOUs?
+
+Ans
+EOUs must be positive net foreign exchange earners calculated cumulatively in a block of five years from the start of production. Extensions are allowed under specific conditions.
+
+Prompt 56
+What are the approvals required to set up an EOU?
+Metadata: {'source': 'data\\Txt_files\\Foreign trade policy(FTP) Prompts.txt', 'file_path': 'data\\Txt_files\\Foreign trade policy(FTP) Prompts.txt', 'file_type': '.txt', 'source_id': 'data\\Txt_files\\Foreign trade policy(FTP) Prompts.txt', 'chunk_index': 17, 'char_count': 764, 'word_count': 122, 'chunk_start': 12359, 'chunk_end': 13125}
+
+=== CHUNK 771 ===
+Content: Ans
+Applications are considered by the Unit Approval Committee (UAC) or Board of Approval (BoA). Approvals differ for EHTP, STP, and BTP units based on designated authorities.
+
+Prompt 57
+Is there a minimum investment required to establish an EOU?
+
+Ans
+Yes, a minimum investment of Rs. 1 crore in plant and machinery is required, except for sectors like IT, Handicrafts, Agriculture, and others as notified.
+
+Prompt 58
+Can EOUs sub-contract production or export through others?
+
+Ans
+Yes, EOUs can subcontract part of their production to DTA units or export through other exporters or EOU/SEZ units, subject to conditions in the HBP.
+
+Prompt 59
+Are second-hand capital goods allowed under the EOU scheme?
+Metadata: {'source': 'data\\Txt_files\\Foreign trade policy(FTP) Prompts.txt', 'file_path': 'data\\Txt_files\\Foreign trade policy(FTP) Prompts.txt', 'file_type': '.txt', 'source_id': 'data\\Txt_files\\Foreign trade policy(FTP) Prompts.txt', 'chunk_index': 18, 'char_count': 702, 'word_count': 112, 'chunk_start': 13125, 'chunk_end': 13829}
+
+=== CHUNK 772 ===
+Content: Ans
+Yes, second-hand capital goods may be imported without any age limit, subject to applicable conditions and approvals.
+
+Prompt 60
+What are the benefits available to EOUs under Chapter 6?
+
+Ans
+Benefits include duty-free imports, 100% FDI under automatic route, CST reimbursement, exemption from industrial licensing, and retention of 100% export earnings in EEFC accounts.
+
+Prompt 61
+What is the objective of Chapter 7 in the FTP 2023?
+
+Ans
+To provide a level-playing field to domestic manufacturers and promote Make in India through deemed export benefits in specified cases.
+
+Prompt 62
+What are Deemed Exports under FTP 2023?
+Metadata: {'source': 'data\\Txt_files\\Foreign trade policy(FTP) Prompts.txt', 'file_path': 'data\\Txt_files\\Foreign trade policy(FTP) Prompts.txt', 'file_type': '.txt', 'source_id': 'data\\Txt_files\\Foreign trade policy(FTP) Prompts.txt', 'chunk_index': 19, 'char_count': 629, 'word_count': 98, 'chunk_start': 13829, 'chunk_end': 14460}
+
+=== CHUNK 773 ===
+Content: Ans
+Deemed Exports refer to transactions where goods do not leave the country and payment is received in Indian rupees or free foreign exchange. Goods must be manufactured in India.
+
+Prompt 63
+What is the GST perspective on Deemed Exports?
+
+Ans
+Under GST, deemed exports include only those supplies notified under Section 147 of CGST/SGST Act, based on GST Council recommendations.
+
+Prompt 64
+What categories of supplies are treated as Deemed Exports?
+
+Ans
+Categories include: (a) supplies against Advance Authorisation/DFIA, (b) supplies to EOU/EHTP/STP/BTP, (c) supplies under EPCG Authorisation, and (d-g) supplies to specified projects, international agencies, mega power or nuclear projects under defined conditions.
+
+Prompt 65
+What are the benefits available for Deemed Exports?
+Metadata: {'source': 'data\\Txt_files\\Foreign trade policy(FTP) Prompts.txt', 'file_path': 'data\\Txt_files\\Foreign trade policy(FTP) Prompts.txt', 'file_type': '.txt', 'source_id': 'data\\Txt_files\\Foreign trade policy(FTP) Prompts.txt', 'chunk_index': 20, 'char_count': 784, 'word_count': 115, 'chunk_start': 14460, 'chunk_end': 15246}
+
+=== CHUNK 774 ===
+Content: Ans
+Benefits include: Advance Authorisation, Deemed Export Drawback, and refund of Terminal Excise Duty, subject to applicable conditions.
+
+Prompt 66
+What are the conditions for refund of Terminal Excise Duty?
+
+Ans
+Refund is allowed only if the recipient does not avail CENVAT credit or rebate on such goods.
+
+Prompt 67
+When is Deemed Export Drawback applicable?
+
+Ans
+It applies when inputs used are eligible under All Industry Rate or Brand Rate basis and no CENVAT credit has been availed.
+
+Prompt 68
+What are common conditions for claiming deemed export benefits?
+
+Ans
+Supplies must be made directly to the eligible entity. Sub-contractors can supply via the main contractor. Steel manufacturers can supply via service centers/distributors as per specified guidelines.
+Metadata: {'source': 'data\\Txt_files\\Foreign trade policy(FTP) Prompts.txt', 'file_path': 'data\\Txt_files\\Foreign trade policy(FTP) Prompts.txt', 'file_type': '.txt', 'source_id': 'data\\Txt_files\\Foreign trade policy(FTP) Prompts.txt', 'chunk_index': 21, 'char_count': 771, 'word_count': 118, 'chunk_start': 15246, 'chunk_end': 16019}
+
+=== CHUNK 775 ===
+Content: Prompt 69
+Are there any product-specific deemed export benefits?
+
+Ans
+Yes, benefits are available for cement under Para 7.02(d), steel supplied to Advance Authorisation holders or EOUs, and fuel under specified Central Excise notifications.
+
+Prompt 70
+What happens in case of delay in refund processing?
+
+Ans
+If refund claims are not settled within 30 days from the final approval letter, 6% simple interest per annum is payable.
+
+Prompt 71
+What is the risk management process for deemed export benefits?
+
+Ans
+A system selects 10% of cases monthly for audit by an internal team led by a Joint DGFT. RAs may also reassess cases based on audits or suo-motu.
+
+Prompt 72
+What penal action is taken for mis-declaration in deemed export claims?
+Metadata: {'source': 'data\\Txt_files\\Foreign trade policy(FTP) Prompts.txt', 'file_path': 'data\\Txt_files\\Foreign trade policy(FTP) Prompts.txt', 'file_type': '.txt', 'source_id': 'data\\Txt_files\\Foreign trade policy(FTP) Prompts.txt', 'chunk_index': 22, 'char_count': 738, 'word_count': 121, 'chunk_start': 16019, 'chunk_end': 16759}
+
+=== CHUNK 776 ===
+Content: Ans
+Recovery is made along with 15% interest per annum, and penal action is initiated under the FT(D&R) Act and related rules.
+
+Prompt 73
+What is the objective of Chapter 8 of the Foreign Trade Policy 2023?
+
+Ans
+To ensure that quality complaints and trade disputes are resolved amicably to maintain India's export reputation and promote confidence among foreign buyers.
+
+Prompt 74
+Are disputes between Indian or foreign entities covered under Chapter 8?
+
+Ans
+No, disputes between two or more Indian entities or two or more foreign entities are not covered under the mechanism outlined in Chapter 8.
+
+Prompt 75
+What types of complaints are covered under Chapter 8 of FTP 2023?
+Metadata: {'source': 'data\\Txt_files\\Foreign trade policy(FTP) Prompts.txt', 'file_path': 'data\\Txt_files\\Foreign trade policy(FTP) Prompts.txt', 'file_type': '.txt', 'source_id': 'data\\Txt_files\\Foreign trade policy(FTP) Prompts.txt', 'chunk_index': 23, 'char_count': 675, 'word_count': 112, 'chunk_start': 16759, 'chunk_end': 17436}
+
+=== CHUNK 777 ===
+Content: Ans
+Complaints from foreign buyers regarding quality of Indian exports, complaints from Indian importers about foreign suppliers, and complaints of unethical commercial practices are covered.
+
+Prompt 76
+What is the exporterâ€™s obligation under Rule 11 of the FT Regulation Rules, 1993?
+
+Ans
+Exporters must declare and certify the value, quality, and specifications of goods in export documents as per the export contract. Violations may lead to penalties.
+
+Prompt 77
+What action can be taken under the Export (Quality Control & Inspection) Act, 1963?
+
+Ans
+Exporters who fail to meet compulsory quality control or pre-shipment inspection requirements can face penal action under this Act.
+
+Prompt 78
+What powers are given under the FT (D&R) Act, 1992 for action against erring exporters?
+Metadata: {'source': 'data\\Txt_files\\Foreign trade policy(FTP) Prompts.txt', 'file_path': 'data\\Txt_files\\Foreign trade policy(FTP) Prompts.txt', 'file_type': '.txt', 'source_id': 'data\\Txt_files\\Foreign trade policy(FTP) Prompts.txt', 'chunk_index': 24, 'char_count': 787, 'word_count': 120, 'chunk_start': 17436, 'chunk_end': 18225}
+
+=== CHUNK 778 ===
+Content: Ans
+The DGFT can suspend or cancel IECs, licenses, and impose fiscal penalties under Sections 8, 9(2), 9(4), and 11(2) of the FT (D&R) Act, 1992.
+
+Prompt 79
+What is CQCTD?
+
+Ans
+CQCTD stands for Committee on Quality Complaints and Trade Disputes, set up in DGFT Regional Authorities to handle complaints and disputes efficiently.
+
+Prompt 80
+What are the responsibilities of CQCTD?
+
+Ans
+The committee investigates complaints, aims to resolve them within 3 months, and may seek support from Export Promotion Councils, Commodity Boards, or other agencies.
+
+Prompt 81
+How often does the CQCTD meet?
+
+Ans
+CQCTD must meet at least four times a year and regularly based on pending complaints.
+
+Prompt 82
+What is the nature of CQCTD proceedings?
+Metadata: {'source': 'data\\Txt_files\\Foreign trade policy(FTP) Prompts.txt', 'file_path': 'data\\Txt_files\\Foreign trade policy(FTP) Prompts.txt', 'file_type': '.txt', 'source_id': 'data\\Txt_files\\Foreign trade policy(FTP) Prompts.txt', 'chunk_index': 25, 'char_count': 736, 'word_count': 120, 'chunk_start': 18225, 'chunk_end': 18963}
+
+=== CHUNK 779 ===
+Content: Ans
+CQCTD proceedings are conciliatory in nature and do not bar parties from pursuing legal remedies.
+
+Prompt 83
+Where is the detailed procedure for handling disputes published?
+
+Ans
+The procedures for filing and resolving disputes are detailed in the Handbook of Procedures, Chapter 8.
+
+Prompt 84
+What corrective measures can CQCTD initiate?
+
+Ans
+CQCTD can direct Export Inspection Agencies or technical bodies to assess product defects and recommend penal action if the dispute is unresolved.
+
+Prompt 85
+How are complaints against foreign entities handled?
+
+Ans
+These are dealt with by the Foreign Trade Division through Indian Missions abroad. Malafide findings are reported to DGFT for wider circulation among EPCs and regulatory bodies.
+Metadata: {'source': 'data\\Txt_files\\Foreign trade policy(FTP) Prompts.txt', 'file_path': 'data\\Txt_files\\Foreign trade policy(FTP) Prompts.txt', 'file_type': '.txt', 'source_id': 'data\\Txt_files\\Foreign trade policy(FTP) Prompts.txt', 'chunk_index': 26, 'char_count': 741, 'word_count': 112, 'chunk_start': 18963, 'chunk_end': 19706}
+
+=== CHUNK 780 ===
+Content: Prompt 86
+Who is the Case Officer in the context of Chapter 8?
+
+Ans
+A designated Case Officer in DGFT RAs monitors and resolves disputes in a time-bound manner.
+
+Prompt 87
+Who acts as the Nodal Officer for monitoring trade disputes?
+
+Ans
+An officer not below the rank of Joint DGFT at DGFT HQ is designated as the Nodal Officer for monitoring and coordinating trade dispute resolution.
+
+Prompt 88
+What is the objective of Chapter 9 in FTP 2023?
+
+Ans
+The objective is to provide a framework for cross-border trade of goods and services in the digital economy and promote e-Commerce and emerging export channels.
+
+Prompt 89
+What are e-Commerce exports of goods?
+Metadata: {'source': 'data\\Txt_files\\Foreign trade policy(FTP) Prompts.txt', 'file_path': 'data\\Txt_files\\Foreign trade policy(FTP) Prompts.txt', 'file_type': '.txt', 'source_id': 'data\\Txt_files\\Foreign trade policy(FTP) Prompts.txt', 'chunk_index': 27, 'char_count': 659, 'word_count': 113, 'chunk_start': 19706, 'chunk_end': 20367}
+
+=== CHUNK 781 ===
+Content: Ans
+These are exports where goods are sold through an internet-based e-Commerce platform and payments are made via international cards or authorized electronic channels as per RBI guidelines.
+
+Prompt 90
+What are e-Commerce exports of services?
+
+Ans
+These are services sold online through an e-Commerce platform with payments made through international cards or other RBI-authorized payment channels.
+
+Prompt 91
+What is an e-Commerce platform as per FTP 2023?
+
+Ans
+An e-Commerce platform is a digital interface or web portal that facilitates the commercial buying and selling process over the internet.
+
+Prompt 92
+Who is considered an e-Commerce Export Logistics Provider?
+Metadata: {'source': 'data\\Txt_files\\Foreign trade policy(FTP) Prompts.txt', 'file_path': 'data\\Txt_files\\Foreign trade policy(FTP) Prompts.txt', 'file_type': '.txt', 'source_id': 'data\\Txt_files\\Foreign trade policy(FTP) Prompts.txt', 'chunk_index': 28, 'char_count': 671, 'word_count': 100, 'chunk_start': 20367, 'chunk_end': 21040}
+
+=== CHUNK 782 ===
+Content: Ans
+Any service provider offering logistics services for e-Commerce exports of goods or services is considered an e-Commerce Export Logistics Provider.
+
+Prompt 93
+What is the value limit for exports via courier/post under FTP 2023?
+
+Ans
+The value limit for exports via registered courier service or foreign post office is â‚¹10,00,000 per consignment.
+
+Prompt 94
+What is permitted under import through courier or post as per Chapter 9?
+
+Ans
+Imports are allowed under the Customs Act, 1962, regulated as per FTP and ITC(HS) policy. Re-import of returned precious metal jewellery exports via e-commerce is also permitted.
+
+Prompt 95
+What is the Niryat Bandhu Schemeâ€™s role in e-Commerce export promotion?
+Metadata: {'source': 'data\\Txt_files\\Foreign trade policy(FTP) Prompts.txt', 'file_path': 'data\\Txt_files\\Foreign trade policy(FTP) Prompts.txt', 'file_type': '.txt', 'source_id': 'data\\Txt_files\\Foreign trade policy(FTP) Prompts.txt', 'chunk_index': 29, 'char_count': 704, 'word_count': 109, 'chunk_start': 21040, 'chunk_end': 21746}
+
+=== CHUNK 783 ===
+Content: Ans
+The scheme promotes e-Commerce exports via outreach, workshops, content creation, skill development and capacity building in collaboration with Customs, India Post, and industry partners.
+
+Prompt 96
+What is an E-Commerce Export Hub (ECEH)?
+
+Ans
+ECEH is a designated area with infrastructure to support cross-border e-Commerce, including storage, packaging, logistics, and testing facilities.
+
+Prompt 97
+How can ECEHs be created?
+
+Ans
+ECEHs may be set up via private or PPP models. Proposals must be submitted to a DGFT-constituted committee. Existing facilities can also be designated as ECEHs.
+
+Prompt 98
+What operations can be performed at an ECEH?
+Metadata: {'source': 'data\\Txt_files\\Foreign trade policy(FTP) Prompts.txt', 'file_path': 'data\\Txt_files\\Foreign trade policy(FTP) Prompts.txt', 'file_type': '.txt', 'source_id': 'data\\Txt_files\\Foreign trade policy(FTP) Prompts.txt', 'chunk_index': 30, 'char_count': 654, 'word_count': 97, 'chunk_start': 21746, 'chunk_end': 22402}
+
+=== CHUNK 784 ===
+Content: Ans
+ECEHs support storage, packaging, labeling, testing, and logistics. They can handle all goods except prohibited ones, and capital goods used there must comply with laws and duties.
+
+Prompt 99
+What assistance is available for ECEHs?
+
+Ans
+ECEHs may receive MAI scheme support for marketing, capacity building, and tech services such as imaging, cataloging, and product video creation.
+
+Prompt 100
+What are Dak Ghar Niryat Kendras?
+
+Ans
+These are post office export hubs working with Foreign Post Offices (FPOs) in a hub-and-spoke model to support e-Commerce exports from artisans, MSMEs, and others in remote areas.
+
+Prompt 101
+What is the objective of Chapter 10 in FTP 2023?
+Metadata: {'source': 'data\\Txt_files\\Foreign trade policy(FTP) Prompts.txt', 'file_path': 'data\\Txt_files\\Foreign trade policy(FTP) Prompts.txt', 'file_type': '.txt', 'source_id': 'data\\Txt_files\\Foreign trade policy(FTP) Prompts.txt', 'chunk_index': 31, 'char_count': 678, 'word_count': 107, 'chunk_start': 22402, 'chunk_end': 23082}
+
+=== CHUNK 785 ===
+Content: Ans
+The objective is to regulate export of dual-use items, munitions, and nuclear-related items including software and technology under SCOMET, ensuring national and international compliance.
+
+Prompt 102
+What does SCOMET stand for?
+
+Ans
+SCOMET stands for Special Chemicals, Organisms, Materials, Equipment and Technologies.
+
+Prompt 103
+What is the legal basis for controlling SCOMET items?
+
+Ans
+Exports of SCOMET items are regulated under international agreements such as CWC, BWC, MTCR, WA, AG, and NSG, and India's domestic laws including the WMD Act, 2005 and FT(D&R) Act.
+
+Prompt 104
+How many categories are there in the SCOMET list?
+
+Ans
+There are 9 categories in the SCOMET list (Category 0 to 8), but Category 7 is currently reserved and not populated.
+Metadata: {'source': 'data\\Txt_files\\Foreign trade policy(FTP) Prompts.txt', 'file_path': 'data\\Txt_files\\Foreign trade policy(FTP) Prompts.txt', 'file_type': '.txt', 'source_id': 'data\\Txt_files\\Foreign trade policy(FTP) Prompts.txt', 'chunk_index': 32, 'char_count': 759, 'word_count': 118, 'chunk_start': 23082, 'chunk_end': 23843}
+
+=== CHUNK 786 ===
+Content: Prompt 105
+Which authority issues SCOMET authorisations for Category 0 items?
+
+Ans
+The Department of Atomic Energy (DAE) issues authorisations for Category 0 items and Note 2 of the Commodity Identification Note.
+
+Prompt 106
+Who issues export authorisations for Category 6 items (Munitions List)?
+
+Ans
+The Department of Defence Production (DDP), Ministry of Defence issues authorisations for Category 6 items, excluding those under Note 2, Note 3, and items 6A007, 6A008.
+
+Prompt 107
+Is authorisation required for supply of SCOMET items to SEZs/EOUs?
+
+Ans
+No export authorisation is required for supply from DTA to SEZ/EOU, but it must be reported to the Development Commissioner within a week. Export outside India requires authorisation.
+
+Prompt 108
+Is re-export of imported SCOMET items allowed?
+Metadata: {'source': 'data\\Txt_files\\Foreign trade policy(FTP) Prompts.txt', 'file_path': 'data\\Txt_files\\Foreign trade policy(FTP) Prompts.txt', 'file_type': '.txt', 'source_id': 'data\\Txt_files\\Foreign trade policy(FTP) Prompts.txt', 'chunk_index': 33, 'char_count': 798, 'word_count': 121, 'chunk_start': 23843, 'chunk_end': 24643}
+
+=== CHUNK 787 ===
+Content: Ans
+Re-export of imported SCOMET items is not allowed without export authorisation, even from bonded warehouses, unless specifically exempted.
+
+Prompt 109
+What is GAECT under SCOMET?
+
+Ans
+GAECT (General Authorization for Export of Chemicals and related equipment) allows one-time authorisation for export of certain chemicals to specified countries with a 5-year validity.
+
+Prompt 110
+What is GAEIS under SCOMET?
+
+Ans
+GAEIS (General Authorization for Export of Information Security items) permits export of specific information security items under Category 8A5 Part 2 as per HBP guidelines.
+Metadata: {'source': 'data\\Txt_files\\Foreign trade policy(FTP) Prompts.txt', 'file_path': 'data\\Txt_files\\Foreign trade policy(FTP) Prompts.txt', 'file_type': '.txt', 'source_id': 'data\\Txt_files\\Foreign trade policy(FTP) Prompts.txt', 'chunk_index': 34, 'char_count': 591, 'word_count': 85, 'chunk_start': 24643, 'chunk_end': 25236}
+
+=== CHUNK 788 ===
+Content: Prompt 1
+What are the working hours of DGFT Headquarters?
+
+Ans:
+DGFT Headquarters operates from Monday to Friday, 09.30 AM to 06.00 PM.
+
+Prompt 2
+Where is the DGFT Headquarters located?
+
+Ans:
+DGFT Headquarters has two addresses:
+1. Vanijya Bhawan, 'A' Wing, 16 Akbar Road, New Delhi - 110011
+2. Udyog Bhawan, H-Wing, Gate No. 2, Maulana Azad Road, New Delhi - 110011.
+
+Prompt 3
+What is the EPABX number of DGFT?
+
+Ans:
+The EPABX number of DGFT is 011-23061562.
+
+Prompt 4
+How can I contact the EDI Helpdesk of DGFT?
+
+Ans:
+You can contact the EDI Helpdesk via email at dgftedi@nic.in or call the toll-free numbers 1800-572-1550 / 1800-111-550.
+
+Prompt 5
+Who is the Director General of DGFT?
+Metadata: {'source': 'data\\Txt_files\\Headquarter(HQ) Prompts.txt', 'file_path': 'data\\Txt_files\\Headquarter(HQ) Prompts.txt', 'file_type': '.txt', 'source_id': 'data\\Txt_files\\Headquarter(HQ) Prompts.txt', 'chunk_index': 0, 'char_count': 687, 'word_count': 119, 'chunk_start': 0, 'chunk_end': 689}
+
+=== CHUNK 789 ===
+Content: Ans:
+Shri Ajay Bhadoo is the Additional Secretary & Director General of DGFT. He sits in Room No. 1, Vanijya Bhawan. Email: dgft@nic.in
+
+Prompt 6
+Who handles the EPCG Scheme at DGFT HQ?
+
+Ans:
+Shri Hardeep Singh, Additional DGFT, handles the EPCG Scheme. You can reach him at 23038712 or email hardeep.singh@nic.in. His office is in Room No. 4, Vanijya Bhawan.
+
+Prompt 7
+Who is responsible for SCOMET export licensing at DGFT?
+
+Ans:
+Shri Rakesh Kumar, Additional DGFT, is responsible for Export Policy & Licensing of SCOMET Items. Contact: r.kumar73@nic.in, Room 5, Vanijya Bhawan.
+
+Prompt 8
+Whom should I contact regarding RTI in DGFT?
+
+Ans:
+Shri Abhinav Gupta, Additional DGFT, handles RTI related matters. Email: abhinav.gupta@gov.in, Phone: 23038735, Room 2, Vanijya Bhawan.
+Metadata: {'source': 'data\\Txt_files\\Headquarter(HQ) Prompts.txt', 'file_path': 'data\\Txt_files\\Headquarter(HQ) Prompts.txt', 'file_type': '.txt', 'source_id': 'data\\Txt_files\\Headquarter(HQ) Prompts.txt', 'chunk_index': 1, 'char_count': 777, 'word_count': 122, 'chunk_start': 689, 'chunk_end': 1468}
+
+=== CHUNK 790 ===
+Content: Prompt 9
+Who oversees the Niryat Bandhu Scheme at DGFT HQ?
+
+Ans:
+Shri Lokesh H. D., Additional DGFT, is responsible for the Niryat Bandhu Scheme. Contact: lokesh.hd@nic.in, Phone: 23038706, Room 3, Vanijya Bhawan.
+
+Prompt 10
+Who is the Statistical Advisor at DGFT HQ?
+
+Ans:
+Shri Nitish Kumar is the Statistical Advisor. He handles Parliament, Foreign Trade Statistics, MIS, Trade Analysis, and DGCIS matters. Email: nitish.iss@nic.in, Room 103, Vanijya Bhawan.
+
+Prompt 11
+Who is responsible for Chapter 2 and Import Licensing at DGFT HQ?
+
+Ans:
+Ms. Shubhra, Additional DGFT, is responsible for Chapter-2 of FTP, Import Policy, Import Licensing, ITC(HS) matters, Vigilance Division and more. Email: shubhra.ag@nic.in, Room 6, Vanijya Bhawan.
+Metadata: {'source': 'data\\Txt_files\\Headquarter(HQ) Prompts.txt', 'file_path': 'data\\Txt_files\\Headquarter(HQ) Prompts.txt', 'file_type': '.txt', 'source_id': 'data\\Txt_files\\Headquarter(HQ) Prompts.txt', 'chunk_index': 2, 'char_count': 739, 'word_count': 110, 'chunk_start': 1468, 'chunk_end': 2209}
+
+=== CHUNK 791 ===
+Content: Prompt 12
+Who handles Vigilance matters at DGFT Headquarters?
+
+Ans:
+Ms. Shubhra, Additional DGFT, handles Vigilance Division matters. Email: shubhra.ag@nic.in, Phone: 23038718.
+
+Prompt 13
+Who oversees the Export Licensing of Restricted Items (Non-SCOMET)?
+
+Ans:
+Shri Abhinav Gupta, Additional DGFT, is in charge of Export Licensing of Restricted Items (Non-SCOMET). Email: abhinav.gupta@gov.in, Room 2, Vanijya Bhawan.
+
+Prompt 14
+Who handles HRD and SCOMET export licensing at DGFT HQ?
+Ans:
+Shri Rakesh Kumar, Additional DGFT, handles HRD-I & II and Export Licensing of SCOMET items. Email: r.kumar73@nic.in, Room 5, Vanijya Bhawan.
+
+Prompt 15
+Whom should I contact for Export Promotion Measures under Chapter 5 of FTP?
+Metadata: {'source': 'data\\Txt_files\\Headquarter(HQ) Prompts.txt', 'file_path': 'data\\Txt_files\\Headquarter(HQ) Prompts.txt', 'file_type': '.txt', 'source_id': 'data\\Txt_files\\Headquarter(HQ) Prompts.txt', 'chunk_index': 3, 'char_count': 719, 'word_count': 104, 'chunk_start': 2209, 'chunk_end': 2930}
+
+=== CHUNK 792 ===
+Content: Ans: 
+Shri Hardeep Singh, Additional DGFT, is responsible for Chapter 5 of FTP including EPCG. Email: hardeep.singh@nic.in, Room 4, Vanijya Bhawan.
+
+Prompt 16
+Who handles matters related to Parliament and Foreign Trade Statistics?
+
+Ans:
+Shri Nitish Kumar, Statistical Advisor, oversees Parliament matters, Trade Statistics, MIS/Publication, and DGCIS. Email: nitish.iss@nic.in, Room 103, Vanijya Bhawan.
+
+Prompt 17
+Who is the officer in charge of NC-3 and Pharmaceutical norms?
+
+Ans:
+Shri Rakesh Kumar, Additional DGFT, is in charge of NC-3 which covers norms for Pharmaceutical products. Email: r.kumar73@nic.in, Room 5, Vanijya Bhawan.
+
+Prompt 18
+Who is responsible for the PLI Scheme and Training Cell?
+Metadata: {'source': 'data\\Txt_files\\Headquarter(HQ) Prompts.txt', 'file_path': 'data\\Txt_files\\Headquarter(HQ) Prompts.txt', 'file_type': '.txt', 'source_id': 'data\\Txt_files\\Headquarter(HQ) Prompts.txt', 'chunk_index': 4, 'char_count': 705, 'word_count': 101, 'chunk_start': 2930, 'chunk_end': 3637}
+
+=== CHUNK 793 ===
+Content: Ans:
+Shri Lokesh H. D., Additional DGFT, is responsible for the PLI Scheme, Training Cell, and Niryat Bandhu Scheme. Email: lokesh.hd@nic.in, Room 3, Vanijya Bhawan.
+
+Prompt 19
+Which officer manages RTI, R&I and grievance-related work?
+
+Ans:
+Shri Abhinav Gupta, Additional DGFT, handles RTI, R&I and grievance matters. Email: abhinav.gupta@gov.in, Room 2, Vanijya Bhawan.
+
+Prompt 20
+Who looks after Export Policy & Licensing related to SCOMET?
+
+Ans:
+Shri Rakesh Kumar, Additional DGFT, manages Export Policy & Licensing related to SCOMET items. Email: r.kumar73@nic.in, Room 5, Vanijya Bhawan.
+
+Prompt 21
+Who is responsible for handling the NC-1 Norms Committee and EPCG Relaxation matters?
+Metadata: {'source': 'data\\Txt_files\\Headquarter(HQ) Prompts.txt', 'file_path': 'data\\Txt_files\\Headquarter(HQ) Prompts.txt', 'file_type': '.txt', 'source_id': 'data\\Txt_files\\Headquarter(HQ) Prompts.txt', 'chunk_index': 5, 'char_count': 690, 'word_count': 101, 'chunk_start': 3637, 'chunk_end': 4329}
+
+=== CHUNK 794 ===
+Content: Ans:
+Shri Randheep Thakur, Joint DGFT, handles NC-1 and matters related to Chapter 5 of FTP (EPCG scheme) including relaxation cases. Email: randheep.thakur@nic.in, Room 17, Vanijya Bhawan.
+
+Prompt 22
+Who looks after RTI, Litigation, and Official Language Implementation?
+
+Ans:
+Smt. Suminder Kaur, Joint DGFT, oversees RTI, Litigation, Official Language, Records, and Library. Email: suminder.kaur@nic.in, Room 306, Udyog Bhawan.
+
+Prompt 23
+Whom should I contact regarding E-Commerce and SCOMET Export Cell?
+
+Ans:
+Shri Md. Moin Afaque, Joint DGFT, handles Export Cell-SCOMET, E-Commerce, and EGTF. Email: afaque.moin@gov.in, Room 15, Vanijya Bhawan.
+
+Prompt 24
+Who is the officer handling SEZ, Deemed Exports and BOA matters?
+Metadata: {'source': 'data\\Txt_files\\Headquarter(HQ) Prompts.txt', 'file_path': 'data\\Txt_files\\Headquarter(HQ) Prompts.txt', 'file_type': '.txt', 'source_id': 'data\\Txt_files\\Headquarter(HQ) Prompts.txt', 'chunk_index': 6, 'char_count': 725, 'word_count': 102, 'chunk_start': 4329, 'chunk_end': 5056}
+
+=== CHUNK 795 ===
+Content: Ans:
+Shri Raj Kamal, Director, handles SEZ, BOA, Deemed Exports, and NC-5. Email: rajkamal1.dgsnd@nic.in, Room 302, Udyog Bhawan.
+
+Prompt 25
+Who manages Import Licensing, FTDR Act, and HRD?
+
+Ans:
+Shri Satya Raja Sekhar G, Joint DGFT, is in charge of HRD I & II, Import Licensing, FTDR Act, and O&M. Email: satya.grandhi@gov.in, Room 19, Vanijya Bhawan.
+
+Prompt 26
+Who is responsible for Coordination, Trade Consultation and Audit?
+
+Ans:
+Shri Sanjeev Shrivastava, Joint DGFT, looks after Coordination, Trade Consultation, Audit, and FTP Cell. Email: sanjeevs.edu@nic.in, Room 111, Vanijya Bhawan.
+
+Prompt 27
+Who handles DEH, APS of GTPO, and Gati Shakti Logistics?
+Metadata: {'source': 'data\\Txt_files\\Headquarter(HQ) Prompts.txt', 'file_path': 'data\\Txt_files\\Headquarter(HQ) Prompts.txt', 'file_type': '.txt', 'source_id': 'data\\Txt_files\\Headquarter(HQ) Prompts.txt', 'chunk_index': 7, 'char_count': 663, 'word_count': 100, 'chunk_start': 5056, 'chunk_end': 5721}
+
+=== CHUNK 796 ===
+Content: Ans:
+Shri Pravin Nalawade, Joint DGFT, manages Policy Cell-3, DEH, APS of GTPO, and PM Gati Shakti logistics. Email: pravin.nalawade@gov.in, Room 18, Vanijya Bhawan.
+
+Prompt 28
+Who oversees Policy Cell-4 and EGTF-1 section?
+
+Ans:
+Shri Hrushikesh Reddy, Joint DGFT, handles Policy Cell-4, Policy Cell-6, and EGTF-1. Email: kh.reddy@gov.in, Room 16, Vanijya Bhawan.
+
+Prompt 29
+Who is the Director (Statistics) at DGFT?
+
+Ans:
+Shri Sarbeswar Majhi is the Director (Statistics) responsible for Parliament-related data, Foreign Trade Statistics, MIS/Publication, and Open Data Platform. Email: sarbeswa.mhaji@gov.in, Room 122, Vanijya Bhawan.
+
+Prompt 30
+Who manages PC-1, PC-3, and Training Division?
+Metadata: {'source': 'data\\Txt_files\\Headquarter(HQ) Prompts.txt', 'file_path': 'data\\Txt_files\\Headquarter(HQ) Prompts.txt', 'file_type': '.txt', 'source_id': 'data\\Txt_files\\Headquarter(HQ) Prompts.txt', 'chunk_index': 8, 'char_count': 694, 'word_count': 96, 'chunk_start': 5721, 'chunk_end': 6417}
+
+=== CHUNK 797 ===
+Content: Ans:
+Shri Deepak Jhalani, Deputy DGFT, manages PC-1, PC-3, Training Division, and Import Division. Email: deepak.jhalani@gov.in, Room 105, Vanijya Bhawan.
+
+Prompt 31
+Who is in charge of the Parliament Section at DGFT?
+
+Ans:
+Shri Dilip Kumar, Deputy DGFT, manages the Parliament Section. Email: dilip.kumar72@nic.in, Room E-1024, Vanijya Bhawan.
+
+Prompt 32
+Which officer handles General Import Provisions under Policy-2?
+
+Ans:
+Shri Sanjay Kumar Tiwari, Deputy DGFT, handles General Provisions on Import (Policy-2) and Import Policy. Email: sanjay.kt@nic.in, Room US-0023, Vanijya Bhawan.
+
+Prompt 33
+Who is responsible for NC-2 and E-Commerce Policy?
+
+Ans:
+Shri Sanjay Kumar, Deputy DGFT, handles PIC-PRC, NC-2, and E-Commerce related matters. Email: sanjay.kr05@gov.in, Room 213, Udyog Bhawan.
+Metadata: {'source': 'data\\Txt_files\\Headquarter(HQ) Prompts.txt', 'file_path': 'data\\Txt_files\\Headquarter(HQ) Prompts.txt', 'file_type': '.txt', 'source_id': 'data\\Txt_files\\Headquarter(HQ) Prompts.txt', 'chunk_index': 9, 'char_count': 792, 'word_count': 109, 'chunk_start': 6417, 'chunk_end': 7211}
+
+=== CHUNK 798 ===
+Content: Prompt 34
+Who oversees Export Licensing of restricted items (Non-SCOMET)?
+
+Ans:
+Smt Pratibha Kumari, Deputy DGFT, oversees Export Policy and Licensing of restricted items (Non-SCOMET). Email: pratibha.kumari@nic.in, Room US-11, Vanijya Bhawan.
+
+Prompt 35
+Who is in charge of Export Cell SCOMET and SCOMET Licensing?
+
+Ans:
+Shri Ranjeet Kumar Roy, Deputy DGFT, handles Export Policy & Licensing of SCOMET Items and Export Cell SCOMET. Email: rk.roy81@nic.in, Room US-0008, Vanijya Bhawan.
+
+Prompt 36
+Which officer manages HRD-II division?
+
+Ans:
+Smt. Laxmi Devi, Deputy DGFT, is responsible for HRD-II. Email: laxmii.devi@gov.in, Room US-1017, Vanijya Bhawan.
+
+Prompt 37
+Who handles Cash & Budget Section at DGFT?
+Metadata: {'source': 'data\\Txt_files\\Headquarter(HQ) Prompts.txt', 'file_path': 'data\\Txt_files\\Headquarter(HQ) Prompts.txt', 'file_type': '.txt', 'source_id': 'data\\Txt_files\\Headquarter(HQ) Prompts.txt', 'chunk_index': 10, 'char_count': 710, 'word_count': 102, 'chunk_start': 7211, 'chunk_end': 7923}
+
+=== CHUNK 799 ===
+Content: Ans:
+Shri Shri Avinash Chander, Deputy DGFT, oversees the Cash & Budget Section. Email: avinash.chander@nic.in, located at Udyog Bhawan.
+
+Prompt 38
+Who handles Grievances and PMOPG at DGFT HQ?
+
+Ans:
+Smt. Anita Thakur, Deputy DGFT, is responsible for Global Trade Promotion Wing (GTPO), CPGRAM, PMOPG, VIP references and grievance redressal. Email: anita.t13@nic.in, Room G-12, Vanijya Bhawan.
+
+Prompt 39
+Who is responsible for NC-3 and HRD-I at DGFT?
+
+Ans:
+Shri Raman Kumar, Deputy DGFT, is responsible for NC-3 and HRD-I. Email: ramankumar@nic.in, Room US-0021, Vanijya Bhawan.
+
+Prompt 40
+Who manages ECA matters at DGFT HQ?
+
+Ans:
+Smt. N Poorna Push Kala, Deputy DGFT, is responsible for ECA. Email: poorna.kala@gov.in, Room 312, Udyog Bhawan.
+
+Prompt 41
+Who is Shri Md. Moin Afaque?
+Metadata: {'source': 'data\\Txt_files\\Headquarter(HQ) Prompts.txt', 'file_path': 'data\\Txt_files\\Headquarter(HQ) Prompts.txt', 'file_type': '.txt', 'source_id': 'data\\Txt_files\\Headquarter(HQ) Prompts.txt', 'chunk_index': 11, 'char_count': 784, 'word_count': 120, 'chunk_start': 7923, 'chunk_end': 8709}
+
+=== CHUNK 800 ===
+Content: Ans:
+Shri Md. Moin Afaque is a Joint DGFT at DGFT HQ. He is responsible for Export Policy and Export Licensing (Non-SCOMET), E-Commerce, Export Cell-SCOMET, EPM, and EGTF I & II. Email: afaque.moin@gov.in, Room 15, Vanijya Bhawan.
+
+Prompt 42
+Who is Shri Abhinav Gupta?
+
+Ans:
+Shri Abhinav Gupta is an Additional DGFT at DGFT HQ. Email: abhinav.gupta@gov.in, Room 2, Vanijya Bhawan.
+
+Prompt 43
+What is the work allocation of Shri Abhinav Gupta?
+
+Ans:
+Shri Abhinav Gupta, Additional DGFT, is responsible for Export Policy and Licensing of Restricted Items (Non-SCOMET), NC-7, EGTF I & II, RTI, R&I, PMO References, Grievances, Viksit Bharat Initiative, GST related work, and E-Samiksha. Email: abhinav.gupta@gov.in, Room 2, Vanijya Bhawan.
+
+Prompt 44
+Who is Shri Rakesh Kumar?
+Metadata: {'source': 'data\\Txt_files\\Headquarter(HQ) Prompts.txt', 'file_path': 'data\\Txt_files\\Headquarter(HQ) Prompts.txt', 'file_type': '.txt', 'source_id': 'data\\Txt_files\\Headquarter(HQ) Prompts.txt', 'chunk_index': 12, 'char_count': 773, 'word_count': 120, 'chunk_start': 8709, 'chunk_end': 9484}
+
+=== CHUNK 801 ===
+Content: Ans:
+Shri Rakesh Kumar is an Additional DGFT at DGFT HQ. He is responsible for HRD-I and II, Export Policy & Licensing of SCOMET Items, Chapters 6 & 7 of FTP, SEZ, BOA, fixation of norms for pharmaceuticals and chemicals, trade consultation, revision of FTP, FTDR Act, and coordination. Email: r.kumar73@nic.in, Room 5, Vanijya Bhawan.
+
+Prompt 45
+What are the responsibilities of Shri Rakesh Kumar?
+Metadata: {'source': 'data\\Txt_files\\Headquarter(HQ) Prompts.txt', 'file_path': 'data\\Txt_files\\Headquarter(HQ) Prompts.txt', 'file_type': '.txt', 'source_id': 'data\\Txt_files\\Headquarter(HQ) Prompts.txt', 'chunk_index': 13, 'char_count': 398, 'word_count': 65, 'chunk_start': 9484, 'chunk_end': 9884}
+
+=== CHUNK 802 ===
+Content: Ans:
+Shri Rakesh Kumar handles HRD-I and II, Export Policy & Export Licensing of SCOMET Items, Chapters 6 & 7 of FTP (EOUs, Deemed Exports, etc.), SEZ, BOA, Fixation of norms for Pharmaceutical Products (NC-3) and Chemical Products (NC-4), Trade Consultation, POM & BOT, Revision of FTP, Appeal Cases under FTDR Act, Enforcement cases & references from DRI, FTDR Act and Rules, O&M, and Coordination. Additional charge: RA Hyderabad.
+
+Prompt 46
+Who is Ms. Shubhra?
+
+Ans:
+Ms. Shubhra is an Additional DGFT at DGFT HQ. Email: shubhra.ag@nic.in, Room 6, Vanijya Bhawan.
+
+Prompt 47
+What is the work allocation of Ms. Shubhra?
+Metadata: {'source': 'data\\Txt_files\\Headquarter(HQ) Prompts.txt', 'file_path': 'data\\Txt_files\\Headquarter(HQ) Prompts.txt', 'file_type': '.txt', 'source_id': 'data\\Txt_files\\Headquarter(HQ) Prompts.txt', 'chunk_index': 14, 'char_count': 621, 'word_count': 101, 'chunk_start': 9884, 'chunk_end': 10507}
+
+=== CHUNK 803 ===
+Content: Ans:
+Ms. Shubhra is responsible for Policy (Chapter 2 of FTP), Import Policy, ITC (HS) Code related Matters, Import Licensing, Inter Ministerial Committee Meetings under Ministries/Departments of Food, Vigilance Division, Chapter 4 of FTP (AA, Gems & Jewellery, DFIA), Interest Subvention, and pending DEPB cases. Email: shubhra.ag@nic.in, Room 6, Vanijya Bhawan.
+
+Prompt 48
+Who is Shri Hardeep Singh?
+
+Ans:
+Shri Hardeep Singh is an Additional DGFT at DGFT HQ. Email: hardeep.singh@nic.in, Room 4, Vanijya Bhawan.
+
+Prompt 49
+What does Shri Hardeep Singh look after?
+Metadata: {'source': 'data\\Txt_files\\Headquarter(HQ) Prompts.txt', 'file_path': 'data\\Txt_files\\Headquarter(HQ) Prompts.txt', 'file_type': '.txt', 'source_id': 'data\\Txt_files\\Headquarter(HQ) Prompts.txt', 'chunk_index': 15, 'char_count': 565, 'word_count': 84, 'chunk_start': 10507, 'chunk_end': 11074}
+
+=== CHUNK 804 ===
+Content: Ans:
+Shri Hardeep Singh is responsible for Chapter 5 of FTP (EPCG scheme) & Relaxation in EPCG cases, Audit matters, Cash & Budget of DGFT, Fixation of norms of Engineering & Electronic Items (NC-1 and NC-2), General Administration, Stationery procurement & distribution, Record, Library, Official Language Implementation, Litigation, and Quality Complaints & Trade Disputes. Email: hardeep.singh@nic.in.
+
+Prompt 50
+Who is Shri Lokesh H. D.?
+
+Ans:
+Shri Lokesh H. D. is an Additional DGFT at DGFT HQ. Email: lokesh.hd@nic.in, Room 3, Vanijya Bhawan.
+
+Prompt 51
+What are the duties of Shri Lokesh H. D.?
+Metadata: {'source': 'data\\Txt_files\\Headquarter(HQ) Prompts.txt', 'file_path': 'data\\Txt_files\\Headquarter(HQ) Prompts.txt', 'file_type': '.txt', 'source_id': 'data\\Txt_files\\Headquarter(HQ) Prompts.txt', 'chunk_index': 16, 'char_count': 601, 'word_count': 93, 'chunk_start': 11074, 'chunk_end': 11677}
+
+=== CHUNK 805 ===
+Content: Ans:
+Shri Lokesh H. D. is responsible for EPM, Chapter I of FTP, Policy Cell â€“ 3, Policy Relaxation and Interpretation Committee, NC-5, NC-6, Training Cell, PLI Scheme, and Niryat Bandhu Scheme. Email: lokesh.hd@nic.in.
+
+Prompt 52
+Who is Shri Nitish Kumar?
+
+Ans:
+Shri Nitish Kumar is the Statistical Advisor at DGFT HQ. Email: nitish.iss@nic.in, Room 103, Vanijya Bhawan.
+
+Prompt 53
+What is the role of Shri Nitish Kumar?
+
+Ans:
+Shri Nitish Kumar handles all matters relating to Parliament, Foreign Trade Statistics, MIS/Publication, Trade Analysis dashboard, Open Data Platform, and DGCIS related matters.
+
+Prompt 54
+Who is Shri Randheep Thakur?
+
+Ans:
+Shri Randheep Thakur is a Joint DGFT at DGFT HQ. Email: randheep.thakur@nic.in, Room 17, Vanijya Bhawan.
+Metadata: {'source': 'data\\Txt_files\\Headquarter(HQ) Prompts.txt', 'file_path': 'data\\Txt_files\\Headquarter(HQ) Prompts.txt', 'file_type': '.txt', 'source_id': 'data\\Txt_files\\Headquarter(HQ) Prompts.txt', 'chunk_index': 17, 'char_count': 758, 'word_count': 116, 'chunk_start': 11677, 'chunk_end': 12437}
+
+=== CHUNK 806 ===
+Content: Prompt 55
+What are Shri Randheep Thakurâ€™s responsibilities?
+
+Ans:
+Shri Randheep Thakur handles Vigilance, all matters relating to Chapter 5 of FTP (EPCG Scheme), Relaxation in EPCG authorization cases, Coordination, and NC-1. Email: randheep.thakur@nic.in.
+
+Prompt 56
+Who is Smt Suminder Kaur?
+
+Ans:
+Smt Suminder Kaur is a Joint DGFT at DGFT HQ. Email: suminder.kaur@nic.in, Room 306, Udyog Bhawan.
+
+Prompt 57
+What are the responsibilities of Smt Suminder Kaur?
+
+Ans:
+Smt Suminder Kaur handles RTI, Record and Library, R&I, Litigation, Cash, Budget & Accounts (Expenditure Monitoring), and Official Language implementation. Email: suminder.kaur@nic.in.
+
+Prompt 58
+Who is Shri Sanjeev Shrivastava?
+Metadata: {'source': 'data\\Txt_files\\Headquarter(HQ) Prompts.txt', 'file_path': 'data\\Txt_files\\Headquarter(HQ) Prompts.txt', 'file_type': '.txt', 'source_id': 'data\\Txt_files\\Headquarter(HQ) Prompts.txt', 'chunk_index': 18, 'char_count': 698, 'word_count': 98, 'chunk_start': 12437, 'chunk_end': 13137}
+
+=== CHUNK 807 ===
+Content: Ans:
+Shri Sanjeev Shrivastava is a Joint DGFT at DGFT HQ. Email: sanjeevs.edu@nic.in, Room 111, Vanijya Bhawan.
+
+Prompt 59
+What does Shri Sanjeev Shrivastava manage?
+
+Ans:
+Shri Sanjeev Shrivastava handles General Administration, Procurement & distribution of stationery items, Coordination, Trade Consultation, POM, BOT, E-Samiksha, Audit, and FTP Cell.
+
+Prompt 60
+Who is Shri Satya Raja Sekhar G?
+
+Ans:
+Shri Satya Raja Sekhar G is a Joint DGFT at DGFT HQ. Email: satya.grandhi@gov.in, Room 19, Vanijya Bhawan.
+
+Prompt 61
+What is the work allocation of Shri Satya Raja Sekhar G?
+
+Ans:
+Shri Satya Raja Sekhar G is responsible for HRD I & II, General Provisions on Import, Import Policy Schedule, Matters related to Import Licensing, FTDR Act and Rules, and O&M. Email: satya.grandhi@gov.in.
+Metadata: {'source': 'data\\Txt_files\\Headquarter(HQ) Prompts.txt', 'file_path': 'data\\Txt_files\\Headquarter(HQ) Prompts.txt', 'file_type': '.txt', 'source_id': 'data\\Txt_files\\Headquarter(HQ) Prompts.txt', 'chunk_index': 19, 'char_count': 789, 'word_count': 122, 'chunk_start': 13137, 'chunk_end': 13928}
+
+=== CHUNK 808 ===
+Content: Prompt 62
+Who is Shri Pravin Nalawade?
+
+Ans:
+Shri Pravin Nalawade is a Joint DGFT at DGFT HQ. Email: pravin.nalawade@gov.in, Room 18, Vanijya Bhawan.
+
+Prompt 63
+What are the duties of Shri Pravin Nalawade?
+
+Ans:
+Shri Pravin Nalawade is responsible for Policy Cell â€“ 3, DEH, APS Division of GTPO, Logistics, Gati Shakti, and Niryat Bandhu Scheme.
+
+Prompt 64
+Who is Shri Hrushikesh Reddy?
+
+Ans:
+Shri Hrushikesh Reddy is a Joint DGFT at DGFT HQ. Email: kh.reddy@gov.in, Room 16, Vanijya Bhawan.
+
+Prompt 65
+What is the role of Shri Hrushikesh Reddy?
+
+Ans:
+Shri Hrushikesh Reddy is in charge of EGTF-1 section, Policy Cell-4, and Policy Cell-6. Email: kh.reddy@gov.in.
+
+Prompt 66
+Who is Shri Sarbeswar Majhi?
+Metadata: {'source': 'data\\Txt_files\\Headquarter(HQ) Prompts.txt', 'file_path': 'data\\Txt_files\\Headquarter(HQ) Prompts.txt', 'file_type': '.txt', 'source_id': 'data\\Txt_files\\Headquarter(HQ) Prompts.txt', 'chunk_index': 20, 'char_count': 705, 'word_count': 115, 'chunk_start': 13928, 'chunk_end': 14635}
+
+=== CHUNK 809 ===
+Content: Ans:
+Shri Sarbeswar Majhi is Director (Statistics) at DGFT HQ. Email: sarbeswa.mhaji@gov.in, Room 122, Vanijya Bhawan.
+
+Prompt 67
+What is the work allocation of Shri Sarbeswar Majhi?
+
+Ans:
+Shri Sarbeswar Majhi handles matters related to Parliament, Foreign Trade Statistics, MIS/Publication, Trade Analysis dashboard, and Open Data Platform. Email: sarbeswa.mhaji@gov.in.
+
+Prompt 68
+What are the responsibilities of Shri Md. Moin Afaque?
+
+Ans:
+Shri Md. Moin Afaque handles Export Policy and Export Licensing (Non-SCOMET), E-Commerce, Export Cell-SCOMET, EPM, and EGTF I & II.
+
+Prompt 69
+Who is Shri Raj Kamal?
+
+Ans:
+Shri Raj Kamal is a Director at DGFT HQ. Email: rajkamal1.dgsnd@nic.in, Room 302, Udyog Bhawan.
+
+Prompt 70
+What does Shri Raj Kamal oversee?
+Metadata: {'source': 'data\\Txt_files\\Headquarter(HQ) Prompts.txt', 'file_path': 'data\\Txt_files\\Headquarter(HQ) Prompts.txt', 'file_type': '.txt', 'source_id': 'data\\Txt_files\\Headquarter(HQ) Prompts.txt', 'chunk_index': 21, 'char_count': 756, 'word_count': 112, 'chunk_start': 14635, 'chunk_end': 15393}
+
+=== CHUNK 810 ===
+Content: Ans:
+Shri Raj Kamal is responsible for NC-5, ECA, Chapters 6 & 7 of FTP (EOUs, Deemed Exports, etc.), SEZ, BOA, Quality Complaints and Trade Disputes, and Administration & Financial Matters of DGCI&S.
+
+Prompt 71
+Who is Shri Deepak Jhalani?
+
+Ans:
+Shri Deepak Jhalani is a Deputy DGFT at DGFT HQ. Email: deepak.jhalani@gov.in, Room 105, Vanijya Bhawan.
+
+Prompt 72
+What is the work allocation of Shri Deepak Jhalani?
+
+Ans:
+Shri Deepak Jhalani handles PC-1, PC-3, Training Division, and Import Division.
+
+Prompt 73
+Who is Shri Dilip Kumar?
+
+Ans:
+Shri Dilip Kumar is a Deputy DGFT at DGFT HQ. Email: dilip.kumar72@nic.in, Room E-1024, Vanijya Bhawan.
+
+Prompt 74
+What is the responsibility of Shri Dilip Kumar?
+
+Ans:
+Shri Dilip Kumar handles the Parliament Section.
+Metadata: {'source': 'data\\Txt_files\\Headquarter(HQ) Prompts.txt', 'file_path': 'data\\Txt_files\\Headquarter(HQ) Prompts.txt', 'file_type': '.txt', 'source_id': 'data\\Txt_files\\Headquarter(HQ) Prompts.txt', 'chunk_index': 22, 'char_count': 759, 'word_count': 122, 'chunk_start': 15393, 'chunk_end': 16154}
+
+=== CHUNK 811 ===
+Content: Prompt 75
+Who is Shri Sanjay Kumar Tiwari?
+
+Ans:
+Shri Sanjay Kumar Tiwari is a Deputy DGFT at DGFT HQ. Email: sanjay.kt@nic.in, Room US-0023, Vanijya Bhawan.
+
+Prompt 76
+What does Shri Sanjay Kumar Tiwari manage?
+
+Ans:
+Shri Sanjay Kumar Tiwari oversees General Provisions on Import (Policy-2) and Import Policy.
+
+Prompt 77
+Who is Smt Pratibha Kumari?
+
+Ans:
+Smt Pratibha Kumari is a Deputy DGFT at DGFT HQ. Email: pratibha.kumari@nic.in, Room US-11, Vanijya Bhawan.
+
+Prompt 78
+What is the work of Smt Pratibha Kumari?
+
+Ans:
+Smt Pratibha Kumari is responsible for Export Policy and Licensing of restricted items, and the Export Facilitation Cell (Non-SCOMET).
+
+Prompt 79
+Who is Shri Ranjeet Kumar Roy?
+Metadata: {'source': 'data\\Txt_files\\Headquarter(HQ) Prompts.txt', 'file_path': 'data\\Txt_files\\Headquarter(HQ) Prompts.txt', 'file_type': '.txt', 'source_id': 'data\\Txt_files\\Headquarter(HQ) Prompts.txt', 'chunk_index': 23, 'char_count': 698, 'word_count': 111, 'chunk_start': 16154, 'chunk_end': 16854}
+
+=== CHUNK 812 ===
+Content: Ans:
+Shri Ranjeet Kumar Roy is a Deputy DGFT at DGFT HQ. Email: rk.roy81@nic.in, Room US-0008, Vanijya Bhawan.
+
+Prompt 80
+What is the responsibility of Shri Ranjeet Kumar Roy?
+
+Ans:
+Shri Ranjeet Kumar Roy handles Export Policy & Licensing of SCOMET Items, Export Cell SCOMET, and O&M.
+
+Prompt 81
+Who is Smt Laxmi Devi?
+
+Ans:
+Smt Laxmi Devi is a Deputy DGFT at DGFT HQ. Email: laxmii.devi@gov.in, Room US-1017, Vanijya Bhawan.
+
+Prompt 82
+What are the responsibilities of Smt Laxmi Devi?
+
+Ans:
+Smt Laxmi Devi is in charge of HRD-II.
+
+Prompt 83
+Who is Shri Avinash Chander?
+
+Ans:
+Shri Avinash Chander is a Deputy DGFT at DGFT HQ. Email: avinash.chander@nic.in, located at Udyog Bhawan.
+
+Prompt 84
+What work is managed by Shri Avinash Chander?
+Metadata: {'source': 'data\\Txt_files\\Headquarter(HQ) Prompts.txt', 'file_path': 'data\\Txt_files\\Headquarter(HQ) Prompts.txt', 'file_type': '.txt', 'source_id': 'data\\Txt_files\\Headquarter(HQ) Prompts.txt', 'chunk_index': 24, 'char_count': 739, 'word_count': 124, 'chunk_start': 16854, 'chunk_end': 17595}
+
+=== CHUNK 813 ===
+Content: Ans:
+Shri Avinash Chander handles the Cash & Budget Section.
+
+Prompt 85
+Who is Smt. Anita Thakur?
+
+Ans:
+Smt. Anita Thakur is a Deputy DGFT at DGFT HQ. Email: anita.t13@nic.in, Room G-12, Vanijya Bhawan.
+
+Prompt 86
+What are the responsibilities of Smt. Anita Thakur?
+
+Ans:
+Smt. Anita Thakur is in charge of the Global Trade Promotion Wing (GTPO), grievance redressal including CPGRAM/PMOPG/COVID, PMO references, VIP references, MSME, Policy Coordination, Monitoring of Schemes, Trade Consultation, SOM, POM & BOT.
+
+Prompt 87
+Who is Shri Raman Kumar?
+
+Ans:
+Shri Raman Kumar is a Deputy DGFT at DGFT HQ. Email: ramankumar@nic.in, Room US-0021, Vanijya Bhawan.
+
+Prompt 88
+What does Shri Raman Kumar manage?
+
+Ans:
+Shri Raman Kumar manages Norms Committee-3 and HRD-1.
+Metadata: {'source': 'data\\Txt_files\\Headquarter(HQ) Prompts.txt', 'file_path': 'data\\Txt_files\\Headquarter(HQ) Prompts.txt', 'file_type': '.txt', 'source_id': 'data\\Txt_files\\Headquarter(HQ) Prompts.txt', 'chunk_index': 25, 'char_count': 763, 'word_count': 119, 'chunk_start': 17595, 'chunk_end': 18360}
+
+=== CHUNK 814 ===
+Content: Prompt 89
+Who is Smt. N Poorna Push Kala?
+
+Ans:
+Smt. N Poorna Push Kala is a Deputy DGFT at DGFT HQ. Email: poorna.kala@gov.in, Room 312, Udyog Bhawan.
+
+Prompt 90
+What is the work of Smt. N Poorna Push Kala?
+
+Ans:
+Smt. N Poorna Push Kala is responsible for ECA matters.
+
+Prompt 91
+Who is Shri Sumit Verma?
+
+Ans:
+Shri Sumit Verma is a Deputy DGFT at DGFT HQ. Email: sumit.verma@nic.in, Room E-1021, Vanijya Bhawan.
+
+Prompt 92
+What are the responsibilities of Shri Sumit Verma?
+
+Ans:
+Shri Sumit Verma handles Co-ordination, DGCIS, Chapters 6 & 7 of FTP, EOUs, Deemed Exports, SEZ, and BOA.
+
+Prompt 93
+Who is Shri Yashwant Kumar Singh?
+
+Ans:
+Shri Yashwant Kumar Singh is a Deputy DGFT at DGFT HQ. Email: yashwant.singh75@gov.in, located at Udyog Bhawan.
+Metadata: {'source': 'data\\Txt_files\\Headquarter(HQ) Prompts.txt', 'file_path': 'data\\Txt_files\\Headquarter(HQ) Prompts.txt', 'file_type': '.txt', 'source_id': 'data\\Txt_files\\Headquarter(HQ) Prompts.txt', 'chunk_index': 26, 'char_count': 750, 'word_count': 130, 'chunk_start': 18360, 'chunk_end': 19112}
+
+=== CHUNK 815 ===
+Content: Prompt 94
+What is the work of Shri Yashwant Kumar Singh?
+
+Ans:
+Shri Yashwant Kumar Singh manages Vigilance & Audit, and QCTD.
+
+Prompt 95
+Who is Shri Ramesh Kumar?
+
+Ans:
+Shri Ramesh Kumar is a Deputy DGFT at DGFT HQ. Email: ramesh.1970@gov.in, Room US-13, Vanijya Bhawan.
+
+Prompt 96
+What are the responsibilities of Shri Ramesh Kumar?
+
+Ans:
+Shri Ramesh Kumar is responsible for General Administration.
+
+Prompt 97
+Who is Shri Gokul Ram Meena?
+
+Ans:
+Shri Gokul Ram Meena is a Deputy DGFT at DGFT HQ. Email: gokul.meena@nic.in, located at Udyog Bhawan.
+
+Prompt 98
+What is the responsibility of Shri Gokul Ram Meena?
+
+Ans:
+Shri Gokul Ram Meena is responsible for R&I (Receipts and Despatch), Record, Library, and RTI applications pertaining to DGFT.
+
+Prompt 99
+Who is Shri Saurabh Goyal?
+Metadata: {'source': 'data\\Txt_files\\Headquarter(HQ) Prompts.txt', 'file_path': 'data\\Txt_files\\Headquarter(HQ) Prompts.txt', 'file_type': '.txt', 'source_id': 'data\\Txt_files\\Headquarter(HQ) Prompts.txt', 'chunk_index': 27, 'char_count': 782, 'word_count': 129, 'chunk_start': 19112, 'chunk_end': 19896}
+
+=== CHUNK 816 ===
+Content: Ans:
+Shri Saurabh Goyal is a Deputy DGFT at DGFT HQ. Email: saurabh.goyal@gov.in, Room 109, Vanijya Bhawan.
+
+Prompt 100
+What are the responsibilities of Shri Saurabh Goyal?
+
+Ans:
+Shri Saurabh Goyal handles DEH, APS Division of GTPO, Logistics & PM Gati Shakti, Policy - 4, Training Cell, and NC-5.
+
+Prompt 101
+Who is Ms B. Kruti?
+
+Ans:
+Ms B. Kruti is a Deputy DGFT at DGFT HQ. Email: kruti.bhat@gov.in, Room G-20, Vanijya Bhawan.
+
+Prompt 102
+What work is handled by Ms B. Kruti?
+
+Ans:
+Ms B. Kruti manages EGTF - I, EPM, Export Cell-SCOMET, and NC-1.
+
+Prompt 103
+Who is Shri Bharani VLSVSS?
+
+Ans:
+Shri Bharani VLSVSS is a Deputy DGFT at DGFT HQ. Email: bharani.v@gov.in, Room G-19, Vanijya Bhawan.
+
+Prompt 104
+What does Shri Bharani VLSVSS manage?
+Metadata: {'source': 'data\\Txt_files\\Headquarter(HQ) Prompts.txt', 'file_path': 'data\\Txt_files\\Headquarter(HQ) Prompts.txt', 'file_type': '.txt', 'source_id': 'data\\Txt_files\\Headquarter(HQ) Prompts.txt', 'chunk_index': 28, 'char_count': 746, 'word_count': 128, 'chunk_start': 19896, 'chunk_end': 20644}
+
+=== CHUNK 817 ===
+Content: Ans:
+Shri Bharani VLSVSS manages EGTF - II, EPM, Chapter I of FTP, Niryat Bandhu Scheme, and NC-7.
+
+Prompt 105
+Who is Shri Ajay Kumar?
+
+Ans:
+Shri Ajay Kumar is a Deputy Director at DGFT HQ. Email: ajay.dhiman88@gov.in, Room US-18 / 402, Vanijya Bhawan/Udyog Bhawan.
+
+Prompt 106
+What are the responsibilities of Shri Ajay Kumar?
+
+Ans:
+Shri Ajay Kumar is responsible for fixation of norms of Food/ Marine/ Miscellaneous Items (NC-6), EGTF-I Division, Board of Trade (BOT), Port Officer's Meeting (POM), and eSamiksha.
+
+Prompt 107
+Who is Shri Manoj Kumar Meena?
+
+Ans:
+Shri Manoj Kumar Meena is a Deputy Director at DGFT HQ. Email: manoj.meena84@gov.in, Room US-17 / 402, Vanijya Bhawan/Udyog Bhawan.
+
+Prompt 108
+What is the work of Shri Manoj Kumar Meena?
+Metadata: {'source': 'data\\Txt_files\\Headquarter(HQ) Prompts.txt', 'file_path': 'data\\Txt_files\\Headquarter(HQ) Prompts.txt', 'file_type': '.txt', 'source_id': 'data\\Txt_files\\Headquarter(HQ) Prompts.txt', 'chunk_index': 29, 'char_count': 752, 'word_count': 123, 'chunk_start': 20644, 'chunk_end': 21398}
+
+=== CHUNK 818 ===
+Content: Ans:
+Shri Manoj Kumar Meena handles EGTF-I and fixation of norms for chemical & allied products (NC-4).
+
+Prompt 109
+Who is Shri Ajay Bhadoo?
+
+Ans:
+Shri Ajay Bhadoo is the Additional Secretary and Director General of Foreign Trade (DGFT). Email: dgft@nic.in, Room 1, Vanijya Bhawan.
+
+Prompt 110
+What is the role of Shri Ajay Bhadoo?
+
+Ans:
+Shri Ajay Bhadoo heads the Directorate General of Foreign Trade as the Director General and is responsible for the overall functioning and implementation of Foreign Trade Policy.
+
+Prompt 111
+Who is Shri Moin Afaque?
+
+Ans:
+Shri Moin Afaque is a Joint DGFT at DGFT HQ. Email: afaque.moin@gov.in, Room 15, Vanijya Bhawan.
+
+Prompt 112
+What are the responsibilities of Shri Moin Afaque?
+Metadata: {'source': 'data\\Txt_files\\Headquarter(HQ) Prompts.txt', 'file_path': 'data\\Txt_files\\Headquarter(HQ) Prompts.txt', 'file_type': '.txt', 'source_id': 'data\\Txt_files\\Headquarter(HQ) Prompts.txt', 'chunk_index': 30, 'char_count': 719, 'word_count': 117, 'chunk_start': 21398, 'chunk_end': 22119}
+
+=== CHUNK 819 ===
+Content: Ans:
+Shri Moin Afaque is responsible for Export Policy and Export Licensing (Non-SCOMET), E-Commerce, Export Cell-SCOMET, EPM, and EGTF I & II.
+
+Prompt 113
+Who is Ms. Ishita Gupta?
+
+Ans:
+Ms. Ishita Gupta is Deputy Director (Stats) at DGFT HQ. Email: ishita.gupta@gov.in, Room E-1023, Vanijya Bhawan.
+
+Prompt 114
+What is the responsibility of Ms. Ishita Gupta?
+
+Ans:
+Ms. Ishita Gupta works on Foreign Trade Statistics, MIS/Publication, Trade Analysis Dashboard, and Open Data Platform.
+
+Prompt 115
+Who is Shri Sudhir Kumar Sharma?
+
+Ans:
+Shri Sudhir Kumar Sharma is Assistant DGFT at DGFT HQ. Email: sudhir.sharma67@nic.in, Room SU-18, Vanijya Bhawan.
+
+Prompt 116
+What does Shri Sudhir Kumar Sharma handle?
+Metadata: {'source': 'data\\Txt_files\\Headquarter(HQ) Prompts.txt', 'file_path': 'data\\Txt_files\\Headquarter(HQ) Prompts.txt', 'file_type': '.txt', 'source_id': 'data\\Txt_files\\Headquarter(HQ) Prompts.txt', 'chunk_index': 31, 'char_count': 704, 'word_count': 107, 'chunk_start': 22119, 'chunk_end': 22825}
+
+=== CHUNK 820 ===
+Content: Ans:
+Shri Sudhir Kumar Sharma handles licensing of restricted items (Import Cell for Restricted Items) and licensing of marble-related issues (Import Policy and Licensing of Marble).
+
+Prompt 117
+Who is Shri H.C. Joshi?
+
+Ans:
+Shri H.C. Joshi is Assistant DGFT at DGFT HQ. Email: hc.joshi@nic.in, Room 487-A, Udyog Bhawan.
+
+Prompt 118
+What are the responsibilities of Shri H.C. Joshi?
+
+Ans:
+Shri H.C. Joshi handles Budget Allocation & Monitoring of Expenditure and holds charge of PC-6 Section.
+
+Prompt 119
+Who is Shri Deepak S Nagdeve?
+
+Ans:
+Shri Deepak S Nagdeve is Assistant Director (Stats) at DGFT HQ. Email: deepak.nagdeve@gov.in, Room E-1020, Vanijya Bhawan.
+
+Prompt 120
+What is the work of Shri Deepak S Nagdeve?
+Metadata: {'source': 'data\\Txt_files\\Headquarter(HQ) Prompts.txt', 'file_path': 'data\\Txt_files\\Headquarter(HQ) Prompts.txt', 'file_type': '.txt', 'source_id': 'data\\Txt_files\\Headquarter(HQ) Prompts.txt', 'chunk_index': 32, 'char_count': 718, 'word_count': 113, 'chunk_start': 22825, 'chunk_end': 23545}
+
+=== CHUNK 821 ===
+Content: Ans:
+Shri Deepak S Nagdeve manages Foreign Trade Statistics, MIS/Publication, Trade Analysis Dashboard, and Open Data Platform Section.
+
+Prompt 121
+Who is Shri Har Sai?
+
+Ans:
+Shri Har Sai is a Statistical Officer at DGFT HQ. Email: harsai.30@nic.in, Room S-1016, Vanijya Bhawan.
+
+Prompt 122
+What does Shri Har Sai handle?
+
+Ans:
+Shri Har Sai is responsible for Foreign Trade Statistics, MIS/Publication, Trade Analysis Dashboard, and Open Data Platform.
+
+Prompt 123
+Who is Shri S K Rawat?
+
+Ans:
+Shri S K Rawat is a Statistical Officer at DGFT HQ. Email: sunil.rawat@nic.in, Room S-1015, Vanijya Bhawan.
+
+Prompt 124
+What is Shri S K Rawat's responsibility?
+
+Ans:
+Shri S K Rawat handles Foreign Trade Statistics, MIS/Publication, Trade Analysis Dashboard, and Open Data Platform.
+Metadata: {'source': 'data\\Txt_files\\Headquarter(HQ) Prompts.txt', 'file_path': 'data\\Txt_files\\Headquarter(HQ) Prompts.txt', 'file_type': '.txt', 'source_id': 'data\\Txt_files\\Headquarter(HQ) Prompts.txt', 'chunk_index': 33, 'char_count': 776, 'word_count': 120, 'chunk_start': 23545, 'chunk_end': 24323}
+
+=== CHUNK 822 ===
+Content: Prompt 125
+Who is Shri Sohail Ahmad?
+
+Ans:
+Shri Sohail Ahmad is Deputy Director (Hindi Section) at DGFT HQ. Email: sohail.ahmad@gov.in, Room E-1021, Vanijya Bhawan.
+
+Prompt 126
+What are the duties of Shri Sohail Ahmad?
+
+Ans:
+Shri Sohail Ahmad manages the Official Language Division, focusing on Hindi implementation.
+
+Prompt 127
+Who is Shri Jai Prakash Mishra?
+
+Ans:
+Shri Jai Prakash Mishra is Technical Director at National Informatics Centre (NIC), DGFT HQ. Email: jpm@nic.in, Room 567, Udyog Bhawan.
+
+Prompt 128
+What is the responsibility of Shri Jai Prakash Mishra?
+
+Ans:
+Shri Jai Prakash Mishra oversees IT systems and infrastructure as part of the National Informatics Centre (NIC) at DGFT HQ.
+
+Prompt 129
+What is the DGFT EDI Helpdesk email?
+Metadata: {'source': 'data\\Txt_files\\Headquarter(HQ) Prompts.txt', 'file_path': 'data\\Txt_files\\Headquarter(HQ) Prompts.txt', 'file_type': '.txt', 'source_id': 'data\\Txt_files\\Headquarter(HQ) Prompts.txt', 'chunk_index': 34, 'char_count': 748, 'word_count': 118, 'chunk_start': 24323, 'chunk_end': 25073}
+
+=== CHUNK 823 ===
+Content: Ans:
+The DGFT EDI Helpdesk email is dgftedi@nic.in.
+
+Prompt 130
+What is the toll-free number for the DGFT EDI Helpdesk?
+
+Ans:
+The toll-free number for the DGFT EDI Helpdesk is 1800-572-1550 or 1800-111-550.
+
+Prompt 131
+Where is the DGFT Vanijya Bhawan office located?
+
+Ans:
+The DGFT Vanijya Bhawan office is located at 'A' Wing, 16 Akbar Road, New Delhi - 110011.
+
+Prompt 132
+Where is the DGFT Udyog Bhawan office located?
+
+Ans:
+The DGFT Udyog Bhawan office is located at H-Wing, Gate No. 2, Maulana Azad Road, New Delhi - 110011.
+
+Prompt 133
+What are DGFT HQ working hours?
+
+Ans:
+The DGFT Headquarters operates from Monday to Friday, 09.30 AM to 06.00 PM.
+Metadata: {'source': 'data\\Txt_files\\Headquarter(HQ) Prompts.txt', 'file_path': 'data\\Txt_files\\Headquarter(HQ) Prompts.txt', 'file_type': '.txt', 'source_id': 'data\\Txt_files\\Headquarter(HQ) Prompts.txt', 'chunk_index': 35, 'char_count': 656, 'word_count': 113, 'chunk_start': 25073, 'chunk_end': 25731}
+
+=== CHUNK 824 ===
+Content: Prompt 1
+What is the purpose of the Handbook of Procedures (HBP)?
+
+Ans
+The Handbook of Procedures is notified to implement the provisions of the Foreign Trade (Development & Regulation) Act, its Rules and Orders, and the Foreign Trade Policy. It outlines procedures for exporters, importers, and authorities.
+
+Prompt 2
+What are the main components notified under the Handbook of Procedures?
+
+Ans
+The main components are: (a) Handbook of Procedures, (b) Appendices & Aayat Niryat Forms, and (c) Standard Input Output Norms (SION).
+
+Prompt 3
+What is the objective of the Handbook of Procedures 2023?
+
+Ans
+To implement the FT (D&R) Act and FTP through simple, transparent, and digitally compatible procedures that are user-friendly and easy to administer.
+Metadata: {'source': 'data\\Txt_files\\HnadBook(HB) Prompts.txt', 'file_path': 'data\\Txt_files\\HnadBook(HB) Prompts.txt', 'file_type': '.txt', 'source_id': 'data\\Txt_files\\HnadBook(HB) Prompts.txt', 'chunk_index': 0, 'char_count': 752, 'word_count': 118, 'chunk_start': 0, 'chunk_end': 754}
+
+=== CHUNK 825 ===
+Content: Prompt 4
+What definitions apply in the Handbook of Procedures?
+
+Ans
+Definitions from the FT (D&R) Act, Rules and Orders, and the FTP apply to the Handbook of Procedures.
+
+Prompt 5
+What IT initiatives has DGFT implemented for foreign trade governance?
+
+Ans
+DGFT has implemented: Online Customer Portal, Exporter Importer Profile updates, online application system, automated processing, inter-ministerial application handling, CA/CS/Cost Accountant digital upload, 24x7 Helpdesk, message exchange with CBIC, CBDT, MCA, Banks, and a DGFT mobile app.
+
+Prompt 6
+How can exporters file applications with DGFT?
+Metadata: {'source': 'data\\Txt_files\\HnadBook(HB) Prompts.txt', 'file_path': 'data\\Txt_files\\HnadBook(HB) Prompts.txt', 'file_type': '.txt', 'source_id': 'data\\Txt_files\\HnadBook(HB) Prompts.txt', 'chunk_index': 1, 'char_count': 604, 'word_count': 87, 'chunk_start': 754, 'chunk_end': 1360}
+
+=== CHUNK 826 ===
+Content: Ans
+Exporters can file online applications through the DGFT Customer Portal for authorisations, benefits, scrips, and status tracking. Documents can also be uploaded and queries responded to online.
+
+Prompt 7
+What is the DGFT 24x7 Helpdesk and how can it be accessed?
+
+Ans
+The 24x7 Helpdesk supports exporters with filing and policy queries. Access methods include: Service tickets on DGFT website, toll-free helpline (1800-572-1550 / 1800-111-550), and email (dgftedi@nic.in).
+
+Prompt 8
+What is eBRC and how is currency converted in eBRCs?
+
+Ans
+eBRC (electronic Bank Realisation Certificate) reflects export proceeds. Currency is converted using CBIC exchange rates as on LEO date or using USD conversion if CBIC rate is unavailable.
+Metadata: {'source': 'data\\Txt_files\\HnadBook(HB) Prompts.txt', 'file_path': 'data\\Txt_files\\HnadBook(HB) Prompts.txt', 'file_type': '.txt', 'source_id': 'data\\Txt_files\\HnadBook(HB) Prompts.txt', 'chunk_index': 2, 'char_count': 734, 'word_count': 110, 'chunk_start': 1360, 'chunk_end': 2096}
+
+=== CHUNK 827 ===
+Content: Prompt 9
+How are eBRCs generated when payment is received through insurance?
+
+Ans
+Applicants submit proof of payment from the insurance agency to RA. Upon approval by EG&TF Division, DGFT, the value is uploaded in the EDI system as eBRC substitute.
+
+Prompt 10
+How can digitally signed documents be submitted to DGFT?
+
+Ans
+Applications may be authenticated through DSCs issued by approved certifying authorities or via Aadhaar eSign.
+
+Prompt 11
+What is a Status Holder Certificate?
+
+Ans
+It is recognition granted to exporters based on performance. Application is filed online using ANF 1B along with documents. Jurisdiction is based on registered/head office.
+
+Prompt 12
+What is the validity of a Status Holder Certificate?
+Metadata: {'source': 'data\\Txt_files\\HnadBook(HB) Prompts.txt', 'file_path': 'data\\Txt_files\\HnadBook(HB) Prompts.txt', 'file_type': '.txt', 'source_id': 'data\\Txt_files\\HnadBook(HB) Prompts.txt', 'chunk_index': 3, 'char_count': 722, 'word_count': 113, 'chunk_start': 2096, 'chunk_end': 2820}
+
+=== CHUNK 828 ===
+Content: Ans
+Certificates issued under FTP 2015-20 were valid till 30.09.2023. Under FTP 2023, validity is five years from application date. Upgrade to higher status is allowed after surrendering previous certificate.
+
+Prompt 13
+What records must a Status Holder maintain?
+
+Ans
+Status Holders must maintain accurate accounts of exports/imports for at least two years from date of certificate. These may be inspected by RA or DGFT authority.
+
+Prompt 14
+Under what conditions can a Status Certificate be refused or cancelled?
+
+Ans
+If the status holder fails to fulfill export obligations, tampers authorisations, misrepresents, breaches FT(D&R) or related Acts, or fails to furnish required information.
+
+Prompt 15
+Can a status holder appeal against refusal or cancellation?
+Metadata: {'source': 'data\\Txt_files\\HnadBook(HB) Prompts.txt', 'file_path': 'data\\Txt_files\\HnadBook(HB) Prompts.txt', 'file_type': '.txt', 'source_id': 'data\\Txt_files\\HnadBook(HB) Prompts.txt', 'chunk_index': 4, 'char_count': 763, 'word_count': 114, 'chunk_start': 2820, 'chunk_end': 3585}
+
+=== CHUNK 829 ===
+Content: Ans
+Yes, an appeal may be filed with DGFT within 45 days. The decision of DGFT is final and binding.
+
+Prompt 16
+What is the objective of Chapter 2 of HBP 2023?
+
+Ans
+To provide detailed procedures for implementation of import/export policies as described in Chapter 2 of the Foreign Trade Policy.
+
+Prompt 17
+What are the valid documents required for imports and exports?
+
+Ans
+Mandatory documents include the Bill of Entry or Shipping Bill, Commercial Invoice-cum-Packing List, and transport documents. Additional documents may be required based on the product or destination.
+
+Prompt 18
+What is the procedure for import of restricted items?
+Metadata: {'source': 'data\\Txt_files\\HnadBook(HB) Prompts.txt', 'file_path': 'data\\Txt_files\\HnadBook(HB) Prompts.txt', 'file_type': '.txt', 'source_id': 'data\\Txt_files\\HnadBook(HB) Prompts.txt', 'chunk_index': 5, 'char_count': 639, 'word_count': 103, 'chunk_start': 3585, 'chunk_end': 4226}
+
+=== CHUNK 830 ===
+Content: Ans
+An online application in ANF 2M must be filed with DGFT along with supporting documents. DGFT may consult technical bodies or line ministries before granting the license.
+
+Prompt 19
+What is the procedure for export of restricted items?
+
+Ans
+Applicants must file an online application in ANF 2N with the prescribed documents. DGFT processes these based on policy guidelines and line ministry recommendations.
+
+Prompt 20
+How are import/export licenses issued?
+
+Ans
+Licenses for restricted items are issued electronically by the DGFT RA, with a validity period as specified in the license. The exporter/importer must fulfill conditions mentioned in the license.
+
+Prompt 21
+How can licenses be amended or revalidated?
+Metadata: {'source': 'data\\Txt_files\\HnadBook(HB) Prompts.txt', 'file_path': 'data\\Txt_files\\HnadBook(HB) Prompts.txt', 'file_type': '.txt', 'source_id': 'data\\Txt_files\\HnadBook(HB) Prompts.txt', 'chunk_index': 6, 'char_count': 717, 'word_count': 110, 'chunk_start': 4226, 'chunk_end': 4945}
+
+=== CHUNK 831 ===
+Content: Ans
+Requests for amendment/revalidation of licenses must be submitted online through the DGFT portal. RAs may grant revalidation as per the HBP guidelines.
+
+Prompt 22
+What is the policy for import of second-hand goods?
+
+Ans
+Import of second-hand capital goods is generally allowed without age restrictions. However, used electronics and IT goods require authorization under the E-Waste Management Rules.
+
+Prompt 23
+What are the procedures for import/export through courier or post?
+
+Ans
+Imports and exports through courier/post are allowed subject to policy conditions and are primarily governed by the Courier Imports and Exports (Electronic Declaration and Processing) Regulations.
+
+Prompt 24
+What is the validity period of an import/export license issued by DGFT?
+Metadata: {'source': 'data\\Txt_files\\HnadBook(HB) Prompts.txt', 'file_path': 'data\\Txt_files\\HnadBook(HB) Prompts.txt', 'file_type': '.txt', 'source_id': 'data\\Txt_files\\HnadBook(HB) Prompts.txt', 'chunk_index': 7, 'char_count': 766, 'word_count': 112, 'chunk_start': 4945, 'chunk_end': 5713}
+
+=== CHUNK 832 ===
+Content: Ans
+Unless otherwise specified, the validity is typically 18 months. For capital goods, the period may extend to 24 months.
+
+Prompt 25
+Can a license be transferred to another party?
+
+Ans
+No, licenses issued for restricted items are non-transferable unless explicitly stated in the license or permitted under specific policy provisions.
+
+Prompt 26
+What is the objective of Developing Districts as Export Hubs policy under HBP 2023?
+
+Ans
+The objective is to convert each district into an export hub by identifying products with export potential, addressing bottlenecks, supporting local exporters, and promoting local manufacturing and services through collaboration with state and district administrations.
+
+Prompt 27
+What is the role of District Export Promotion Committees (DEPCs)?
+Metadata: {'source': 'data\\Txt_files\\HnadBook(HB) Prompts.txt', 'file_path': 'data\\Txt_files\\HnadBook(HB) Prompts.txt', 'file_type': '.txt', 'source_id': 'data\\Txt_files\\HnadBook(HB) Prompts.txt', 'chunk_index': 8, 'char_count': 782, 'word_count': 115, 'chunk_start': 5713, 'chunk_end': 6497}
+
+=== CHUNK 833 ===
+Content: Ans
+DEPCs are institutional mechanisms at the district level to prepare and implement District Export Action Plans. They are chaired by the District Collector and co-chaired by the DGFT RA.
+
+Prompt 28
+What are the typical members of a DEPC?
+
+Ans
+Members include officials like District Collector, DGFT RA, GM DIC, representatives from MSME, Export Promotion Councils, quality bodies, trade associations, sector ministries, and NABARD among others.
+
+Prompt 29
+What are the functions of a DEPC?
+
+Ans
+Functions include preparing District Export Action Plans, benchmarking export performance, identifying products/services, mapping trade infrastructure, addressing bottlenecks, coordinating training, acting as facilitators and grievance redressal, and supporting events like buyer-seller meets.
+Metadata: {'source': 'data\\Txt_files\\HnadBook(HB) Prompts.txt', 'file_path': 'data\\Txt_files\\HnadBook(HB) Prompts.txt', 'file_type': '.txt', 'source_id': 'data\\Txt_files\\HnadBook(HB) Prompts.txt', 'chunk_index': 9, 'char_count': 791, 'word_count': 108, 'chunk_start': 6497, 'chunk_end': 7290}
+
+=== CHUNK 834 ===
+Content: Prompt 30
+What is a District Export Action Plan (DEAP)?
+
+Ans
+A DEAP is a strategy document for each district outlining support for local industries, logistics improvement, use of Market Access Initiative scheme, and data-driven goals to boost exports.
+
+Prompt 31
+What should a District Export Action Plan contain?
+
+Ans
+It should include the district and industry profile, export potential products/services, infrastructure and policy interventions, incentives, training needs, export data analysis, and strategies with quantifiable targets.
+
+Prompt 32
+What is the purpose of the State Export Promotion Committees (SEPC)?
+Metadata: {'source': 'data\\Txt_files\\HnadBook(HB) Prompts.txt', 'file_path': 'data\\Txt_files\\HnadBook(HB) Prompts.txt', 'file_type': '.txt', 'source_id': 'data\\Txt_files\\HnadBook(HB) Prompts.txt', 'chunk_index': 10, 'char_count': 620, 'word_count': 89, 'chunk_start': 7290, 'chunk_end': 7912}
+
+=== CHUNK 835 ===
+Content: Ans
+SEPCs, chaired by the State Chief Secretary, prepare and monitor State Export Promotion Strategies, address issues at the state level, and support DEPCs in districts. DGFT RA acts as co-convener.
+
+Prompt 33
+Who is the Nodal DGFT Regional Authority and what is their role?
+
+Ans
+Nodal DGFT RAs are assigned districts within their jurisdiction to manage all activities under the Export Hubs initiative and update progress of DEAP implementation.
+
+Prompt 34
+What is the purpose of the online monitoring system for District Export Action Plans?
+
+Ans
+It enables uploading and tracking of district-wise export potential and implementation status. Information is maintained by DGFT RAs and made available to the public.
+
+Prompt 35
+What are District Outreach Programs?
+Metadata: {'source': 'data\\Txt_files\\HnadBook(HB) Prompts.txt', 'file_path': 'data\\Txt_files\\HnadBook(HB) Prompts.txt', 'file_type': '.txt', 'source_id': 'data\\Txt_files\\HnadBook(HB) Prompts.txt', 'chunk_index': 11, 'char_count': 763, 'word_count': 118, 'chunk_start': 7912, 'chunk_end': 8677}
+
+=== CHUNK 836 ===
+Content: Ans
+These are awareness and training activities organized by DGFT RAs in collaboration with state and district agencies to promote exports. Publicity ensures broad participation by potential exporters.
+
+Prompt 36
+What is the Advance Authorisation Scheme under HBP 2023?
+
+Ans
+The Advance Authorisation Scheme allows duty-free import of inputs for manufacturing export products. It can be issued to manufacturer or merchant exporters with supporting manufacturers.
+
+Prompt 37
+What are the methods to apply for Advance Authorisation?
+
+Ans
+Applications can be made under SION, self-declaration, norms fixation by Norms Committee, or Self-Ratification Scheme depending on the exporterâ€™s eligibility.
+
+Prompt 38
+What is the minimum value addition required under Advance Authorisation?
+Metadata: {'source': 'data\\Txt_files\\HnadBook(HB) Prompts.txt', 'file_path': 'data\\Txt_files\\HnadBook(HB) Prompts.txt', 'file_type': '.txt', 'source_id': 'data\\Txt_files\\HnadBook(HB) Prompts.txt', 'chunk_index': 12, 'char_count': 780, 'word_count': 109, 'chunk_start': 8677, 'chunk_end': 9459}
+
+=== CHUNK 837 ===
+Content: Ans
+Minimum value addition is 15% for most products, 50% for tea, 25% for spices, unless otherwise specified.
+
+Prompt 39
+What is the validity of Advance Authorisation?
+
+Ans
+Validity is 12 months for imports and 18 months for export obligation completion, extendable under specified conditions.
+
+Prompt 40
+What is the process for issuing Advance Authorisation for annual requirement?
+
+Ans
+Annual requirement authorisation is available to status holders with past export performance, based on FOB value and/or CIF value of previous authorisations.
+
+Prompt 41
+How are exports allowed under Advance Authorisation?
+
+Ans
+Exports must be physical or as deemed exports. Third party exports and exports through job workers are permitted with proper declaration and documentation.
+Metadata: {'source': 'data\\Txt_files\\HnadBook(HB) Prompts.txt', 'file_path': 'data\\Txt_files\\HnadBook(HB) Prompts.txt', 'file_type': '.txt', 'source_id': 'data\\Txt_files\\HnadBook(HB) Prompts.txt', 'chunk_index': 13, 'char_count': 770, 'word_count': 114, 'chunk_start': 9459, 'chunk_end': 10231}
+
+=== CHUNK 838 ===
+Content: Prompt 42
+What is the process to obtain redemption of Advance Authorisation?
+
+Ans
+On fulfillment of export obligation, request for redemption is filed online with DGFT. RA verifies shipping bills, eBRCs, and supporting documents.
+
+Prompt 43
+What is the Duty-Free Import Authorisation (DFIA)?
+
+Ans
+DFIA allows duty-free import of inputs used in manufacturing export products, issued post-export based on SION and valid for one-time transfer.
+
+Prompt 44
+Is transferability allowed under DFIA?
+
+Ans
+Yes, once the export obligation is fulfilled, DFIA can be endorsed as transferable, and it allows only Basic Customs Duty exemption.
+
+Prompt 45
+What is the Self-Ratification Scheme?
+Metadata: {'source': 'data\\Txt_files\\HnadBook(HB) Prompts.txt', 'file_path': 'data\\Txt_files\\HnadBook(HB) Prompts.txt', 'file_type': '.txt', 'source_id': 'data\\Txt_files\\HnadBook(HB) Prompts.txt', 'chunk_index': 14, 'char_count': 677, 'word_count': 101, 'chunk_start': 10231, 'chunk_end': 10910}
+
+=== CHUNK 839 ===
+Content: Ans
+It permits certain eligible exporters to get Advance Authorisation based on self-declared norms in the absence of SION/Adhoc Norms. Available only to 2-star and above status holders or AEOs.
+
+Prompt 46
+What is the EPCG Scheme as per Chapter 5 of HBP 2023?
+
+Ans
+The Export Promotion Capital Goods (EPCG) Scheme enables import of capital goods at zero customs duty for producing quality goods and services to enhance Indiaâ€™s export competitiveness.
+
+Prompt 47
+How can one apply for an EPCG Authorisation?
+
+Ans
+An application in ANF 5A can be filed by the exporterâ€™s Registered Office, Head Office, Branch Office or Manufacturing Unit to the concerned RA along with required documents.
+
+Prompt 48
+What is the role of the Chartered Engineer in EPCG Authorisation?
+Metadata: {'source': 'data\\Txt_files\\HnadBook(HB) Prompts.txt', 'file_path': 'data\\Txt_files\\HnadBook(HB) Prompts.txt', 'file_type': '.txt', 'source_id': 'data\\Txt_files\\HnadBook(HB) Prompts.txt', 'chunk_index': 15, 'char_count': 767, 'word_count': 124, 'chunk_start': 10910, 'chunk_end': 11679}
+
+=== CHUNK 840 ===
+Content: Ans
+A Chartered Engineer issues a Nexus Certificate (CEC) certifying the linkage between capital goods and export products. They must operate within their domain of expertise.
+
+Prompt 49
+What is the requirement for Certificate of Installation of Capital Goods?
+
+Ans
+Authorisation holders must submit a certificate from Customs or a Chartered Engineer within 6 months of import completion, extendable by 12 months with a fee of â‚¹5,000.
+
+Prompt 50
+What is the port of registration for EPCG Authorisation?
+
+Ans
+EPCG Authorisation is issued with a single import port as per para 4.35 of HBP. Exports can be made from any listed port.
+
+Prompt 51
+Can capital goods be procured from SEZ under EPCG Scheme?
+Metadata: {'source': 'data\\Txt_files\\HnadBook(HB) Prompts.txt', 'file_path': 'data\\Txt_files\\HnadBook(HB) Prompts.txt', 'file_type': '.txt', 'source_id': 'data\\Txt_files\\HnadBook(HB) Prompts.txt', 'chunk_index': 16, 'char_count': 700, 'word_count': 114, 'chunk_start': 11679, 'chunk_end': 12381}
+
+=== CHUNK 841 ===
+Content: Ans
+Yes, procurement is allowed through a Certificate of Supplies from SEZ issued by RA, with specific details about SEZ supplier and EPCG holder unit.
+
+Prompt 52
+Is indigenous sourcing of capital goods allowed under EPCG?
+
+Ans
+Yes, EPCG holders can source capital goods domestically via Invalidation Letter or Advance Release Order and avail deemed export benefits.
+
+Prompt 53
+What are the conditions for fulfilling Export Obligation (EO)?
+
+Ans
+Exports must include the names of both EPCG holder and supporting manufacturer. In third-party exports, evidence must show manufacturing by EPCG holder and realization of proceeds in their account.
+
+Prompt 54
+What is the block-wise export obligation fulfillment requirement?
+Metadata: {'source': 'data\\Txt_files\\HnadBook(HB) Prompts.txt', 'file_path': 'data\\Txt_files\\HnadBook(HB) Prompts.txt', 'file_type': '.txt', 'source_id': 'data\\Txt_files\\HnadBook(HB) Prompts.txt', 'chunk_index': 17, 'char_count': 720, 'word_count': 108, 'chunk_start': 12381, 'chunk_end': 13103}
+
+=== CHUNK 842 ===
+Content: Ans
+50% of EO must be fulfilled in the first 4 years, and the remaining in the 5th and 6th year from the date of authorisation issue.
+
+Prompt 55
+What is the penalty for late submission of block-wise EO or annual EO report?
+
+Ans
+A composition fee of 2% of duty saved (pro rata), or late fees (â‚¹10,000â€“â‚¹15,000) depending on delay. Annual EO report late fee is â‚¹5,000 per authorisation.
+
+Prompt 56
+What is the purpose of Chapter 6 in HBP 2023?
+
+Ans
+Chapter 6 outlines procedures for Export Oriented Units (EOUs), Electronics Hardware Technology Parks (EHTPs), Software Technology Parks (STPs), and Bio-Technology Parks (BTPs) under the FTP scheme.
+
+Prompt 57
+How is an EOU/EHTP/STP/BTP unit approved?
+Metadata: {'source': 'data\\Txt_files\\HnadBook(HB) Prompts.txt', 'file_path': 'data\\Txt_files\\HnadBook(HB) Prompts.txt', 'file_type': '.txt', 'source_id': 'data\\Txt_files\\HnadBook(HB) Prompts.txt', 'chunk_index': 18, 'char_count': 705, 'word_count': 117, 'chunk_start': 13103, 'chunk_end': 13810}
+
+=== CHUNK 843 ===
+Content: Ans
+Applications must be submitted in ANF 6A. Units are approved by the Unit Approval Committee or respective designated officers depending on the scheme. LoP/LoI is issued post-approval.
+
+Prompt 58
+What is the validity of a Letter of Permission (LoP) or Intent (LoI)?
+
+Ans
+LoP/LoI is valid for 2 years initially, extendable further based on progress, and post commencement of production, it is valid for 5 years.
+
+Prompt 59
+What is the Legal Undertaking (LUT) requirement?
+
+Ans
+Each approved unit must execute an LUT in the prescribed format with the Development Commissioner and must have a permanent email address and digital signature.
+
+Prompt 60
+What goods can be imported by EOUs?
+Metadata: {'source': 'data\\Txt_files\\HnadBook(HB) Prompts.txt', 'file_path': 'data\\Txt_files\\HnadBook(HB) Prompts.txt', 'file_type': '.txt', 'source_id': 'data\\Txt_files\\HnadBook(HB) Prompts.txt', 'chunk_index': 19, 'char_count': 686, 'word_count': 111, 'chunk_start': 13810, 'chunk_end': 14498}
+
+=== CHUNK 844 ===
+Content: Ans
+EOUs can import raw materials, consumables, capital goods (new/second-hand), spare parts, and office equipment, subject to approval.
+
+Prompt 61
+Are units allowed to export goods and services?
+
+Ans
+Yes. Exports can be in physical form, electronically, or through courier. EOUs are also allowed to re-export goods and participate in exhibitions.
+
+Prompt 62
+What are the conditions for import of goods by EOUs?
+
+Ans
+Goods must be imported to the approved premises. Some sectors may supply items directly to farms/quarries. Inputs must follow SION or approved norms.
+
+Prompt 63
+How is Net Foreign Exchange (NFE) calculated for EOUs?
+
+Ans
+NFE = FOB value of exports (A) - CIF value of imports and foreign payments (B). A unit must maintain positive NFE cumulatively over the block period.
+Metadata: {'source': 'data\\Txt_files\\HnadBook(HB) Prompts.txt', 'file_path': 'data\\Txt_files\\HnadBook(HB) Prompts.txt', 'file_type': '.txt', 'source_id': 'data\\Txt_files\\HnadBook(HB) Prompts.txt', 'chunk_index': 20, 'char_count': 787, 'word_count': 126, 'chunk_start': 14498, 'chunk_end': 15287}
+
+=== CHUNK 845 ===
+Content: Prompt 64
+Can EOUs undertake subcontracting?
+
+Ans
+Yes, EOUs can subcontract job work to DTA/EOU/SEZ units under prescribed conditions including return timelines, permissions, and wastage norms.
+
+Prompt 65
+What is the Fast Track Clearance Procedure?
+
+Ans
+Status Holder EOUs are eligible and benefit from simplified procedures like exemption from cargo examination, permission-less leasing, and quicker approvals.
+
+Prompt 66
+What is the policy for Deemed Exports under HBP 2023?
+
+Ans
+The policy for Deemed Exports is defined in Chapter 7 of the Foreign Trade Policy (FTP).
+
+Prompt 67
+How can one claim benefits for deemed exports?
+
+Ans
+Applicants must submit ANF-7A along with required documents to the RA. For supplies to EOUs, claims are filed with the Development Commissioner.
+Metadata: {'source': 'data\\Txt_files\\HnadBook(HB) Prompts.txt', 'file_path': 'data\\Txt_files\\HnadBook(HB) Prompts.txt', 'file_type': '.txt', 'source_id': 'data\\Txt_files\\HnadBook(HB) Prompts.txt', 'chunk_index': 21, 'char_count': 778, 'word_count': 118, 'chunk_start': 15287, 'chunk_end': 16067}
+
+=== CHUNK 846 ===
+Content: Prompt 68
+What are the eligibility criteria for claiming TED/Drawback benefits?
+
+Ans
+Applicants (supplier or recipient) must have an IEC, submit the required certificates, and file claims only after full payment is received via banking channels as per e-BRC.
+
+Prompt 69
+Can sub-contractors claim deemed export benefits?
+
+Ans
+Yes, provided their name is endorsed in the Project Authority Certificate or Contract prior to supply of goods.
+
+Prompt 70
+How is TED refunded for supply of fuel to EOUs?
+
+Ans
+Refund is based on a duty-paid certificate from domestic oil PSUs and is limited to quantities used for production as certified by the DC or Bond authorities.
+
+Prompt 71
+What is the time limit for filing TED/Drawback claims?
+Metadata: {'source': 'data\\Txt_files\\HnadBook(HB) Prompts.txt', 'file_path': 'data\\Txt_files\\HnadBook(HB) Prompts.txt', 'file_type': '.txt', 'source_id': 'data\\Txt_files\\HnadBook(HB) Prompts.txt', 'chunk_index': 22, 'char_count': 725, 'word_count': 117, 'chunk_start': 16067, 'chunk_end': 16794}
+
+=== CHUNK 847 ===
+Content: Ans
+Claims must be filed within 12 months from full payment realization or supply date, depending on the FTP category under Para 7.02.
+
+Prompt 72
+How is the rate of drawback determined?
+
+Ans
+Drawback is allowed as per All Industry Rate (AIR). If not available or too low, a brand rate can be fixed by submitting ANF-7A with supporting documents.
+
+Prompt 73
+What is the process for late or supplementary claims?
+
+Ans
+Such claims are governed by Para 11.02 (late cut) and Para 11.03 (supplementary claims) of the HBP.
+
+Prompt 74
+What is the rule regarding exemption from payment of TED?
+
+Ans
+The procedure prescribed by the Central Excise Authority must be followed wherever TED exemption is applicable.
+
+Prompt 75
+Which additional rules apply to the deemed exports scheme?
+Metadata: {'source': 'data\\Txt_files\\HnadBook(HB) Prompts.txt', 'file_path': 'data\\Txt_files\\HnadBook(HB) Prompts.txt', 'file_type': '.txt', 'source_id': 'data\\Txt_files\\HnadBook(HB) Prompts.txt', 'chunk_index': 23, 'char_count': 771, 'word_count': 129, 'chunk_start': 16794, 'chunk_end': 17567}
+
+=== CHUNK 848 ===
+Content: Ans
+Drawback Rules of 1995 or 2017 apply mutatis mutandis, in addition to procedures in the HBP.
+
+Prompt 76
+Is interest payable for delayed payment of deemed export claims?
+
+Ans
+Yes, if RA fails to pay within 30 days of approval, interest is added automatically. If omitted, applicants can file ANF-7B within 30 days of receipt of principal.
+
+Prompt 77
+What is the internal audit mechanism for deemed exports?
+
+Ans
+Zonal Additional DGFT offices must set up audit teams and conduct post audits as per FTP paragraph 7.10.
+
+Prompt 78
+What is CQCTD under HBP 2023?
+
+Ans
+CQCTD stands for Committee on Quality Complaint & Trade Dispute. It is constituted in 20 DGFT offices to handle quality complaints and trade disputes effectively.
+
+Prompt 79
+How is the jurisdiction of a CQCTD determined?
+Metadata: {'source': 'data\\Txt_files\\HnadBook(HB) Prompts.txt', 'file_path': 'data\\Txt_files\\HnadBook(HB) Prompts.txt', 'file_type': '.txt', 'source_id': 'data\\Txt_files\\HnadBook(HB) Prompts.txt', 'chunk_index': 24, 'char_count': 786, 'word_count': 132, 'chunk_start': 17567, 'chunk_end': 18355}
+
+=== CHUNK 849 ===
+Content: Ans
+Each CQCTD has jurisdiction over specific Regional Authorities (RAs) as designated in the DGFT notification. The jurisdiction is based on geographic coverage.
+
+Prompt 80
+Who are the members of the CQCTD?
+
+Ans
+The CQCTD includes Chairperson (Addl./Joint DGFT), representatives from BIS, APEDA, banks, FIEO or EPCs, Export Inspection Agency, State Industries, MSME, and others co-opted by the Chairperson.
+
+Prompt 81
+How can a quality complaint or trade dispute be filed?
+
+Ans
+Complaints must be submitted online at www.dgft.gov.in under Services > Quality Complaints & Trade Disputes. A Unique Reference Number is generated upon submission.
+
+Prompt 82
+Can supporting documents be submitted with the complaint?
+Metadata: {'source': 'data\\Txt_files\\HnadBook(HB) Prompts.txt', 'file_path': 'data\\Txt_files\\HnadBook(HB) Prompts.txt', 'file_type': '.txt', 'source_id': 'data\\Txt_files\\HnadBook(HB) Prompts.txt', 'chunk_index': 25, 'char_count': 712, 'word_count': 105, 'chunk_start': 18355, 'chunk_end': 19069}
+
+=== CHUNK 850 ===
+Content: Ans
+Yes, supporting documents can be uploaded along with the complaint or added later on through the DGFT online system.
+
+Prompt 83
+What is the role of CQCTD after receiving a complaint?
+
+Ans
+CQCTD takes up the matter with the concerned entity or authorities, tries to resolve it, and updates the status online regularly.
+
+Prompt 84
+What action can be taken against erring Indian entities?
+
+Ans
+Action may be taken under the FT(D&R) Act, 1992 and FT(Regulation) Rules, 1993 if the Indian entity is found at fault.
+
+Prompt 85
+How are Indian Missions involved in trade disputes?
+
+Ans
+Indian Missions take up the matter with concerned foreign authorities and also update the complaint status online.
+
+Prompt 86
+Can the complainant track the status of their complaint?
+Metadata: {'source': 'data\\Txt_files\\HnadBook(HB) Prompts.txt', 'file_path': 'data\\Txt_files\\HnadBook(HB) Prompts.txt', 'file_type': '.txt', 'source_id': 'data\\Txt_files\\HnadBook(HB) Prompts.txt', 'chunk_index': 26, 'char_count': 764, 'word_count': 126, 'chunk_start': 19069, 'chunk_end': 19835}
+
+=== CHUNK 851 ===
+Content: Ans
+Yes, the DGFT website provides a facility to track and view the status of filed complaints or disputes.
+
+Prompt 87
+Is the CQCTD mechanism legally binding?
+
+Ans
+No, it is a conciliatory mechanism. Parties are free to pursue other legal remedies. It does not cover disputes between two Indian or two foreign entities.
+
+Prompt 88
+What is the focus of Chapter 9 in HBP 2023?
+
+Ans
+Chapter 9 focuses on the procedures for implementing the 'Cross Border E-Commerce from India' policy as detailed in Chapter 9 of the Foreign Trade Policy.
+
+Prompt 89
+What is the aim of IT enablement for e-commerce exporters under HBP 2023?
+
+Ans
+The aim is to ensure seamless delivery of Foreign Trade Policy benefits and schemes to e-commerce exporters through suitable IT systems.
+Metadata: {'source': 'data\\Txt_files\\HnadBook(HB) Prompts.txt', 'file_path': 'data\\Txt_files\\HnadBook(HB) Prompts.txt', 'file_type': '.txt', 'source_id': 'data\\Txt_files\\HnadBook(HB) Prompts.txt', 'chunk_index': 27, 'char_count': 761, 'word_count': 129, 'chunk_start': 19835, 'chunk_end': 20598}
+
+=== CHUNK 852 ===
+Content: Prompt 90
+How can an E-Commerce Export Hub (ECEH) be created?
+
+Ans
+To create an ECEH, an application must be submitted to DGFT. A DGFT-led committee, including a member from the Department of Revenue, evaluates and approves the application.
+
+Prompt 91
+Who approves ECEH applications?
+
+Ans
+The DGFT has the authority to approve ECEH applications based on the committee's evaluation.
+
+Prompt 92
+Can DGFT restrict products or markets in ECEHs?
+
+Ans
+Yes, DGFT may specify export products or markets that are not eligible for ECEH operations. A negative list will be notified separately.
+
+Prompt 93
+What is the ECEH developer required to submit annually?
+
+Ans
+The ECEH developer must provide an annual statement of accounts as per DGFT instructions.
+
+Prompt 94
+What oversight measures apply to ECEHs?
+Metadata: {'source': 'data\\Txt_files\\HnadBook(HB) Prompts.txt', 'file_path': 'data\\Txt_files\\HnadBook(HB) Prompts.txt', 'file_type': '.txt', 'source_id': 'data\\Txt_files\\HnadBook(HB) Prompts.txt', 'chunk_index': 28, 'char_count': 795, 'word_count': 127, 'chunk_start': 20598, 'chunk_end': 21395}
+
+=== CHUNK 853 ===
+Content: Ans
+DGFT will notify procedures for supervision and inspection of ECEHs, and an independent evaluation and assessment mechanism may also be developed.
+
+Prompt 95
+What is the objective of Chapter 10 of HBP 2023?
+
+Ans
+To outline the procedures and conditions for export of SCOMET (Special Chemicals, Organisms, Materials, Equipment and Technologies) items from India.
+
+Prompt 96
+What is the procedure for exporting SCOMET items?
+
+Ans
+Applications must be submitted online through DGFTâ€™s website using ANF 10A. Supporting documents like end-use certificate, technical details, and declarations must be provided.
+
+Prompt 97
+What is the role of the Inter-Ministerial Working Group (IMWG)?
+Metadata: {'source': 'data\\Txt_files\\HnadBook(HB) Prompts.txt', 'file_path': 'data\\Txt_files\\HnadBook(HB) Prompts.txt', 'file_type': '.txt', 'source_id': 'data\\Txt_files\\HnadBook(HB) Prompts.txt', 'chunk_index': 29, 'char_count': 685, 'word_count': 101, 'chunk_start': 21395, 'chunk_end': 22082}
+
+=== CHUNK 854 ===
+Content: Ans
+IMWG examines applications for SCOMET export and makes recommendations based on strategic, foreign policy, and national security considerations.
+
+Prompt 98
+What is the validity of a SCOMET export authorisation?
+
+Ans
+A SCOMET export authorisation is valid for 24 months unless otherwise specified. Revalidation can be requested before expiry.
+
+Prompt 99
+What is the General Authorization for Export of Chemicals and related equipment (GAEC)?
+
+Ans
+GAEC permits export of certain SCOMET items to specified countries without referring each case to the IMWG, subject to defined conditions and end-use assurances.
+
+Prompt 100
+What is the procedure for re-export of imported SCOMET items?
+Metadata: {'source': 'data\\Txt_files\\HnadBook(HB) Prompts.txt', 'file_path': 'data\\Txt_files\\HnadBook(HB) Prompts.txt', 'file_type': '.txt', 'source_id': 'data\\Txt_files\\HnadBook(HB) Prompts.txt', 'chunk_index': 30, 'char_count': 685, 'word_count': 101, 'chunk_start': 22082, 'chunk_end': 22769}
+
+=== CHUNK 855 ===
+Content: Ans
+Re-export requires prior permission from DGFT even if items are stored in bonded warehouses or SEZs, unless specifically exempted.
+
+Prompt 101
+Are there any exemptions for SCOMET export authorisations?
+
+Ans
+Yes, export to SEZs or EOUs from DTA does not require SCOMET authorisation but must be reported to the Development Commissioner within one week.
+
+Prompt 102
+How are post-reporting and monthly returns handled under SCOMET?
+
+Ans
+Exporters must submit shipment details to DGFT within 30 days of export and file monthly reports in ANF 10B.
+
+Prompt 103
+What is the consequence of non-compliance with SCOMET procedures?
+
+Ans
+Non-compliance may lead to suspension or cancellation of export authorisation and penal action under FT(D&R) Act and allied laws.
+Metadata: {'source': 'data\\Txt_files\\HnadBook(HB) Prompts.txt', 'file_path': 'data\\Txt_files\\HnadBook(HB) Prompts.txt', 'file_type': '.txt', 'source_id': 'data\\Txt_files\\HnadBook(HB) Prompts.txt', 'chunk_index': 31, 'char_count': 759, 'word_count': 117, 'chunk_start': 22769, 'chunk_end': 23530}
+
+=== CHUNK 856 ===
+Content: Prompt 104
+What is the Self-Declaration Scheme under SCOMET?
+
+Ans
+It allows eligible exporters to self-certify that exported items do not fall under the SCOMET list, provided the exporter has a clean track record and meets specified conditions.
+Metadata: {'source': 'data\\Txt_files\\HnadBook(HB) Prompts.txt', 'file_path': 'data\\Txt_files\\HnadBook(HB) Prompts.txt', 'file_type': '.txt', 'source_id': 'data\\Txt_files\\HnadBook(HB) Prompts.txt', 'chunk_index': 32, 'char_count': 244, 'word_count': 38, 'chunk_start': 23530, 'chunk_end': 23776}
+
+=== CHUNK 857 ===
+Content: WHo is jitin prasada?
+Union Minister of State for Commerce and Industry of India
+who is piyush goyal?
+Minister of Commerce and Industry since 2019.
+Metadata: {'source': 'data\\Txt_files\\Links.txt', 'file_path': 'data\\Txt_files\\Links.txt', 'file_type': '.txt', 'source_id': 'data\\Txt_files\\Links.txt', 'chunk_index': 0, 'char_count': 147, 'word_count': 25, 'chunk_start': 0, 'chunk_end': 149}
+
+=== CHUNK 858 ===
 Content: Directorate General of Foreign Trade | Ministry of
 	Commerce and Industry | Government of India
 
@@ -16660,7 +18956,7 @@ Research
 Public Grievance
 Metadata: {'source': 'https://www.dgft.gov.in/CP/?opt=dgft-ra-details', 'title': 'Directorate General of Foreign Trade | Ministry of\r\n\tCommerce and Industry | Government of India', 'language': 'No language found.', 'source_url': 'https://www.dgft.gov.in/CP/?opt=dgft-ra-details', 'source_type': 'web', 'source_id': 'https://www.dgft.gov.in/CP/?opt=dgft-ra-details', 'chunk_index': 0, 'char_count': 790, 'word_count': 105, 'chunk_start': 0, 'chunk_end': 792}
 
-=== CHUNK 754 ===
+=== CHUNK 859 ===
 Content: Employee Corner
 
 O&M Instructions
@@ -16733,7 +19029,7 @@ Customise your dashboard
 Log In
 Metadata: {'source': 'https://www.dgft.gov.in/CP/?opt=dgft-ra-details', 'title': 'Directorate General of Foreign Trade | Ministry of\r\n\tCommerce and Industry | Government of India', 'language': 'No language found.', 'source_url': 'https://www.dgft.gov.in/CP/?opt=dgft-ra-details', 'source_type': 'web', 'source_id': 'https://www.dgft.gov.in/CP/?opt=dgft-ra-details', 'chunk_index': 1, 'char_count': 742, 'word_count': 92, 'chunk_start': 792, 'chunk_end': 1536}
 
-=== CHUNK 755 ===
+=== CHUNK 860 ===
 Content: to have a personalised dashboard to monitor & control all your applications
 
 Do not have Account?
@@ -16798,7 +19094,7 @@ Other e-Learning Videos
 India Trade Portal
 Metadata: {'source': 'https://www.dgft.gov.in/CP/?opt=dgft-ra-details', 'title': 'Directorate General of Foreign Trade | Ministry of\r\n\tCommerce and Industry | Government of India', 'language': 'No language found.', 'source_url': 'https://www.dgft.gov.in/CP/?opt=dgft-ra-details', 'source_type': 'web', 'source_id': 'https://www.dgft.gov.in/CP/?opt=dgft-ra-details', 'chunk_index': 2, 'char_count': 770, 'word_count': 114, 'chunk_start': 1536, 'chunk_end': 2308}
 
-=== CHUNK 756 ===
+=== CHUNK 861 ===
 Content: E-Commerce Exports Handbook for MSMEs
 
 Handbook on India's Strategic Trade Control Systems (SCOMET)
@@ -16872,7 +19168,7 @@ Ask VAHEI
 View Any IEC
 Metadata: {'source': 'https://www.dgft.gov.in/CP/?opt=dgft-ra-details', 'title': 'Directorate General of Foreign Trade | Ministry of\r\n\tCommerce and Industry | Government of India', 'language': 'No language found.', 'source_url': 'https://www.dgft.gov.in/CP/?opt=dgft-ra-details', 'source_type': 'web', 'source_id': 'https://www.dgft.gov.in/CP/?opt=dgft-ra-details', 'chunk_index': 3, 'char_count': 793, 'word_count': 108, 'chunk_start': 2308, 'chunk_end': 3103}
 
-=== CHUNK 757 ===
+=== CHUNK 862 ===
 Content: Enter Importer/Exporter Code :   *
 
 Enter Firm Name :  *
@@ -16956,7 +19252,7 @@ Login
 Logout
 Metadata: {'source': 'https://www.dgft.gov.in/CP/?opt=dgft-ra-details', 'title': 'Directorate General of Foreign Trade | Ministry of\r\n\tCommerce and Industry | Government of India', 'language': 'No language found.', 'source_url': 'https://www.dgft.gov.in/CP/?opt=dgft-ra-details', 'source_type': 'web', 'source_id': 'https://www.dgft.gov.in/CP/?opt=dgft-ra-details', 'chunk_index': 4, 'char_count': 791, 'word_count': 123, 'chunk_start': 3103, 'chunk_end': 3896}
 
-=== CHUNK 758 ===
+=== CHUNK 863 ===
 Content: Two Factor Authentication
 
 Submit
@@ -16984,7 +19280,7 @@ Telephone No
 Intercom
 
 1
-LOKESH H D
+LOKESH  H D
 Additional DGFT
 RA AHMEDABAD
 LOKESH[dot]HD[at]NIC[dot]IN
@@ -17022,9 +19318,9 @@ Joint DGFT
 RA BENGALURU
 DONA[dot]GHOSH[at]NIC[dot]IN
 080-25537214
-Metadata: {'source': 'https://www.dgft.gov.in/CP/?opt=dgft-ra-details', 'title': 'Directorate General of Foreign Trade | Ministry of\r\n\tCommerce and Industry | Government of India', 'language': 'No language found.', 'source_url': 'https://www.dgft.gov.in/CP/?opt=dgft-ra-details', 'source_type': 'web', 'source_id': 'https://www.dgft.gov.in/CP/?opt=dgft-ra-details', 'chunk_index': 5, 'char_count': 721, 'word_count': 88, 'chunk_start': 3896, 'chunk_end': 4619}
+Metadata: {'source': 'https://www.dgft.gov.in/CP/?opt=dgft-ra-details', 'title': 'Directorate General of Foreign Trade | Ministry of\r\n\tCommerce and Industry | Government of India', 'language': 'No language found.', 'source_url': 'https://www.dgft.gov.in/CP/?opt=dgft-ra-details', 'source_type': 'web', 'source_id': 'https://www.dgft.gov.in/CP/?opt=dgft-ra-details', 'chunk_index': 5, 'char_count': 722, 'word_count': 88, 'chunk_start': 3896, 'chunk_end': 4620}
 
-=== CHUNK 759 ===
+=== CHUNK 864 ===
 Content: 7
 DONA  GHOSH
 Joint DGFT
@@ -17083,9 +19379,9 @@ Prashant S Bokade
 FTDO
 RA BHOPAL
 ps[dot]bokade65[at]gov[dot]in
-Metadata: {'source': 'https://www.dgft.gov.in/CP/?opt=dgft-ra-details', 'title': 'Directorate General of Foreign Trade | Ministry of\r\n\tCommerce and Industry | Government of India', 'language': 'No language found.', 'source_url': 'https://www.dgft.gov.in/CP/?opt=dgft-ra-details', 'source_type': 'web', 'source_id': 'https://www.dgft.gov.in/CP/?opt=dgft-ra-details', 'chunk_index': 6, 'char_count': 708, 'word_count': 79, 'chunk_start': 4619, 'chunk_end': 5329}
+Metadata: {'source': 'https://www.dgft.gov.in/CP/?opt=dgft-ra-details', 'title': 'Directorate General of Foreign Trade | Ministry of\r\n\tCommerce and Industry | Government of India', 'language': 'No language found.', 'source_url': 'https://www.dgft.gov.in/CP/?opt=dgft-ra-details', 'source_type': 'web', 'source_id': 'https://www.dgft.gov.in/CP/?opt=dgft-ra-details', 'chunk_index': 6, 'char_count': 708, 'word_count': 79, 'chunk_start': 4620, 'chunk_end': 5330}
 
-=== CHUNK 760 ===
+=== CHUNK 865 ===
 Content: 16
 RAJALAKSHMI  DEVARAJ
 Additional DGFT
@@ -17147,9 +19443,9 @@ FTDO
 RA CHENNAI
 D[dot]JOHNSON[at]NIC[dot]IN
 044-28283400
-Metadata: {'source': 'https://www.dgft.gov.in/CP/?opt=dgft-ra-details', 'title': 'Directorate General of Foreign Trade | Ministry of\r\n\tCommerce and Industry | Government of India', 'language': 'No language found.', 'source_url': 'https://www.dgft.gov.in/CP/?opt=dgft-ra-details', 'source_type': 'web', 'source_id': 'https://www.dgft.gov.in/CP/?opt=dgft-ra-details', 'chunk_index': 7, 'char_count': 739, 'word_count': 79, 'chunk_start': 5329, 'chunk_end': 6070}
+Metadata: {'source': 'https://www.dgft.gov.in/CP/?opt=dgft-ra-details', 'title': 'Directorate General of Foreign Trade | Ministry of\r\n\tCommerce and Industry | Government of India', 'language': 'No language found.', 'source_url': 'https://www.dgft.gov.in/CP/?opt=dgft-ra-details', 'source_type': 'web', 'source_id': 'https://www.dgft.gov.in/CP/?opt=dgft-ra-details', 'chunk_index': 7, 'char_count': 739, 'word_count': 79, 'chunk_start': 5330, 'chunk_end': 6071}
 
-=== CHUNK 761 ===
+=== CHUNK 866 ===
 Content: 24
 ANAND MOHAN MISHRA
 Joint DGFT
@@ -17212,9 +19508,9 @@ ASHOK KUMAR BHUSHAN
 Deputy DGFT
 RA DELHI
 BHUSHAN[dot]AK7[at]NIC[dot]IN
-Metadata: {'source': 'https://www.dgft.gov.in/CP/?opt=dgft-ra-details', 'title': 'Directorate General of Foreign Trade | Ministry of\r\n\tCommerce and Industry | Government of India', 'language': 'No language found.', 'source_url': 'https://www.dgft.gov.in/CP/?opt=dgft-ra-details', 'source_type': 'web', 'source_id': 'https://www.dgft.gov.in/CP/?opt=dgft-ra-details', 'chunk_index': 8, 'char_count': 771, 'word_count': 85, 'chunk_start': 6070, 'chunk_end': 6843}
+Metadata: {'source': 'https://www.dgft.gov.in/CP/?opt=dgft-ra-details', 'title': 'Directorate General of Foreign Trade | Ministry of\r\n\tCommerce and Industry | Government of India', 'language': 'No language found.', 'source_url': 'https://www.dgft.gov.in/CP/?opt=dgft-ra-details', 'source_type': 'web', 'source_id': 'https://www.dgft.gov.in/CP/?opt=dgft-ra-details', 'chunk_index': 8, 'char_count': 771, 'word_count': 85, 'chunk_start': 6071, 'chunk_end': 6844}
 
-=== CHUNK 762 ===
+=== CHUNK 867 ===
 Content: 34
 SUKHDEV  BANERJEE
 Deputy DGFT
@@ -17286,9 +19582,9 @@ V RAJU RAMAN
 Assistant DGFT
 RA DELHI
 V[dot]RAJURAMAN[at]NIC[dot]IN
-Metadata: {'source': 'https://www.dgft.gov.in/CP/?opt=dgft-ra-details', 'title': 'Directorate General of Foreign Trade | Ministry of\r\n\tCommerce and Industry | Government of India', 'language': 'No language found.', 'source_url': 'https://www.dgft.gov.in/CP/?opt=dgft-ra-details', 'source_type': 'web', 'source_id': 'https://www.dgft.gov.in/CP/?opt=dgft-ra-details', 'chunk_index': 9, 'char_count': 790, 'word_count': 91, 'chunk_start': 6843, 'chunk_end': 7635}
+Metadata: {'source': 'https://www.dgft.gov.in/CP/?opt=dgft-ra-details', 'title': 'Directorate General of Foreign Trade | Ministry of\r\n\tCommerce and Industry | Government of India', 'language': 'No language found.', 'source_url': 'https://www.dgft.gov.in/CP/?opt=dgft-ra-details', 'source_type': 'web', 'source_id': 'https://www.dgft.gov.in/CP/?opt=dgft-ra-details', 'chunk_index': 9, 'char_count': 790, 'word_count': 91, 'chunk_start': 6844, 'chunk_end': 7636}
 
-=== CHUNK 763 ===
+=== CHUNK 868 ===
 Content: 44
 G  SHEELA
 FTDO
@@ -17360,9 +19656,9 @@ AJAI KUMAR SRIVASTAVA
 FTDO
 RA GUWAHATI
 AJAIK[dot]SRIVASTAVA[at]NIC[dot]IN
-Metadata: {'source': 'https://www.dgft.gov.in/CP/?opt=dgft-ra-details', 'title': 'Directorate General of Foreign Trade | Ministry of\r\n\tCommerce and Industry | Government of India', 'language': 'No language found.', 'source_url': 'https://www.dgft.gov.in/CP/?opt=dgft-ra-details', 'source_type': 'web', 'source_id': 'https://www.dgft.gov.in/CP/?opt=dgft-ra-details', 'chunk_index': 10, 'char_count': 744, 'word_count': 87, 'chunk_start': 7635, 'chunk_end': 8381}
+Metadata: {'source': 'https://www.dgft.gov.in/CP/?opt=dgft-ra-details', 'title': 'Directorate General of Foreign Trade | Ministry of\r\n\tCommerce and Industry | Government of India', 'language': 'No language found.', 'source_url': 'https://www.dgft.gov.in/CP/?opt=dgft-ra-details', 'source_type': 'web', 'source_id': 'https://www.dgft.gov.in/CP/?opt=dgft-ra-details', 'chunk_index': 10, 'char_count': 744, 'word_count': 87, 'chunk_start': 7636, 'chunk_end': 8382}
 
-=== CHUNK 764 ===
+=== CHUNK 869 ===
 Content: 55
 SHYAM CHARAN KISKU
 FTDO
@@ -17424,9 +19720,9 @@ PRAVEEN  KUMAR
 Joint DGFT
 RA INDORE
 PRAVEEN[dot]KUMAR82[at]NIC[dot]IN
-Metadata: {'source': 'https://www.dgft.gov.in/CP/?opt=dgft-ra-details', 'title': 'Directorate General of Foreign Trade | Ministry of\r\n\tCommerce and Industry | Government of India', 'language': 'No language found.', 'source_url': 'https://www.dgft.gov.in/CP/?opt=dgft-ra-details', 'source_type': 'web', 'source_id': 'https://www.dgft.gov.in/CP/?opt=dgft-ra-details', 'chunk_index': 11, 'char_count': 721, 'word_count': 80, 'chunk_start': 8381, 'chunk_end': 9104}
+Metadata: {'source': 'https://www.dgft.gov.in/CP/?opt=dgft-ra-details', 'title': 'Directorate General of Foreign Trade | Ministry of\r\n\tCommerce and Industry | Government of India', 'language': 'No language found.', 'source_url': 'https://www.dgft.gov.in/CP/?opt=dgft-ra-details', 'source_type': 'web', 'source_id': 'https://www.dgft.gov.in/CP/?opt=dgft-ra-details', 'chunk_index': 11, 'char_count': 721, 'word_count': 80, 'chunk_start': 8382, 'chunk_end': 9105}
 
-=== CHUNK 765 ===
+=== CHUNK 870 ===
 Content: 64
 SUVIDH PRABODHKUMAR SHAH
 Joint DGFT
@@ -17492,9 +19788,9 @@ RA KANPUR
 RAJAN[dot]JOSHI[at]NIC[dot]IN
 
 123
-Metadata: {'source': 'https://www.dgft.gov.in/CP/?opt=dgft-ra-details', 'title': 'Directorate General of Foreign Trade | Ministry of\r\n\tCommerce and Industry | Government of India', 'language': 'No language found.', 'source_url': 'https://www.dgft.gov.in/CP/?opt=dgft-ra-details', 'source_type': 'web', 'source_id': 'https://www.dgft.gov.in/CP/?opt=dgft-ra-details', 'chunk_index': 12, 'char_count': 752, 'word_count': 87, 'chunk_start': 9104, 'chunk_end': 9858}
+Metadata: {'source': 'https://www.dgft.gov.in/CP/?opt=dgft-ra-details', 'title': 'Directorate General of Foreign Trade | Ministry of\r\n\tCommerce and Industry | Government of India', 'language': 'No language found.', 'source_url': 'https://www.dgft.gov.in/CP/?opt=dgft-ra-details', 'source_type': 'web', 'source_id': 'https://www.dgft.gov.in/CP/?opt=dgft-ra-details', 'chunk_index': 12, 'char_count': 752, 'word_count': 87, 'chunk_start': 9105, 'chunk_end': 9859}
 
-=== CHUNK 766 ===
+=== CHUNK 871 ===
 Content: 74
 RAKESH  KUMAR
 Assistant DGFT
@@ -17558,9 +19854,9 @@ RA KOLKATA
 VISHNU[dot]SHYAMLI[at]GOV[dot]IN
 25506297/6949
 13
-Metadata: {'source': 'https://www.dgft.gov.in/CP/?opt=dgft-ra-details', 'title': 'Directorate General of Foreign Trade | Ministry of\r\n\tCommerce and Industry | Government of India', 'language': 'No language found.', 'source_url': 'https://www.dgft.gov.in/CP/?opt=dgft-ra-details', 'source_type': 'web', 'source_id': 'https://www.dgft.gov.in/CP/?opt=dgft-ra-details', 'chunk_index': 13, 'char_count': 766, 'word_count': 86, 'chunk_start': 9858, 'chunk_end': 10626}
+Metadata: {'source': 'https://www.dgft.gov.in/CP/?opt=dgft-ra-details', 'title': 'Directorate General of Foreign Trade | Ministry of\r\n\tCommerce and Industry | Government of India', 'language': 'No language found.', 'source_url': 'https://www.dgft.gov.in/CP/?opt=dgft-ra-details', 'source_type': 'web', 'source_id': 'https://www.dgft.gov.in/CP/?opt=dgft-ra-details', 'chunk_index': 13, 'char_count': 766, 'word_count': 86, 'chunk_start': 9859, 'chunk_end': 10627}
 
-=== CHUNK 767 ===
+=== CHUNK 872 ===
 Content: 84
 HIMANSHU  DHAR PANDEY
 Deputy DGFT
@@ -17622,9 +19918,9 @@ VIVEK KUMAR  SABHARWAL
 Assistant DGFT
 RA LUDHIANA
 VK[dot]SABHARWAL[at]NIC[dot]IN
-Metadata: {'source': 'https://www.dgft.gov.in/CP/?opt=dgft-ra-details', 'title': 'Directorate General of Foreign Trade | Ministry of\r\n\tCommerce and Industry | Government of India', 'language': 'No language found.', 'source_url': 'https://www.dgft.gov.in/CP/?opt=dgft-ra-details', 'source_type': 'web', 'source_id': 'https://www.dgft.gov.in/CP/?opt=dgft-ra-details', 'chunk_index': 14, 'char_count': 748, 'word_count': 87, 'chunk_start': 10626, 'chunk_end': 11376}
+Metadata: {'source': 'https://www.dgft.gov.in/CP/?opt=dgft-ra-details', 'title': 'Directorate General of Foreign Trade | Ministry of\r\n\tCommerce and Industry | Government of India', 'language': 'No language found.', 'source_url': 'https://www.dgft.gov.in/CP/?opt=dgft-ra-details', 'source_type': 'web', 'source_id': 'https://www.dgft.gov.in/CP/?opt=dgft-ra-details', 'chunk_index': 14, 'char_count': 748, 'word_count': 87, 'chunk_start': 10627, 'chunk_end': 11377}
 
-=== CHUNK 768 ===
+=== CHUNK 873 ===
 Content: 94
 PAWAN  KUMAR
 FTDO
@@ -17686,9 +19982,9 @@ DEVENDER  SINGH
 Deputy DGFT
 RA MUMBAI
 DS[dot]AHLAWAT[at]NIC[dot]IN
-Metadata: {'source': 'https://www.dgft.gov.in/CP/?opt=dgft-ra-details', 'title': 'Directorate General of Foreign Trade | Ministry of\r\n\tCommerce and Industry | Government of India', 'language': 'No language found.', 'source_url': 'https://www.dgft.gov.in/CP/?opt=dgft-ra-details', 'source_type': 'web', 'source_id': 'https://www.dgft.gov.in/CP/?opt=dgft-ra-details', 'chunk_index': 15, 'char_count': 747, 'word_count': 81, 'chunk_start': 11376, 'chunk_end': 12125}
+Metadata: {'source': 'https://www.dgft.gov.in/CP/?opt=dgft-ra-details', 'title': 'Directorate General of Foreign Trade | Ministry of\r\n\tCommerce and Industry | Government of India', 'language': 'No language found.', 'source_url': 'https://www.dgft.gov.in/CP/?opt=dgft-ra-details', 'source_type': 'web', 'source_id': 'https://www.dgft.gov.in/CP/?opt=dgft-ra-details', 'chunk_index': 15, 'char_count': 747, 'word_count': 81, 'chunk_start': 11377, 'chunk_end': 12126}
 
-=== CHUNK 769 ===
+=== CHUNK 874 ===
 Content: 104
 GOPAL KRISHNA MISHRA
 Deputy DGFT
@@ -17748,9 +20044,9 @@ NARESH NARAYAN KAPSE
 FTDO
 RA MUMBAI
 NARESH[dot]KAPSE[at]GOV[dot]IN
-Metadata: {'source': 'https://www.dgft.gov.in/CP/?opt=dgft-ra-details', 'title': 'Directorate General of Foreign Trade | Ministry of\r\n\tCommerce and Industry | Government of India', 'language': 'No language found.', 'source_url': 'https://www.dgft.gov.in/CP/?opt=dgft-ra-details', 'source_type': 'web', 'source_id': 'https://www.dgft.gov.in/CP/?opt=dgft-ra-details', 'chunk_index': 16, 'char_count': 745, 'word_count': 82, 'chunk_start': 12125, 'chunk_end': 12872}
+Metadata: {'source': 'https://www.dgft.gov.in/CP/?opt=dgft-ra-details', 'title': 'Directorate General of Foreign Trade | Ministry of\r\n\tCommerce and Industry | Government of India', 'language': 'No language found.', 'source_url': 'https://www.dgft.gov.in/CP/?opt=dgft-ra-details', 'source_type': 'web', 'source_id': 'https://www.dgft.gov.in/CP/?opt=dgft-ra-details', 'chunk_index': 16, 'char_count': 745, 'word_count': 82, 'chunk_start': 12126, 'chunk_end': 12873}
 
-=== CHUNK 770 ===
+=== CHUNK 875 ===
 Content: 114
 PLATO BRUMAN LOBO
 FTDO
@@ -17810,9 +20106,9 @@ Snehal V Dhokey
 Assistant DGFT
 RA NAGPUR
 snehaldhokey[dot]06[at]gov[dot]in
-Metadata: {'source': 'https://www.dgft.gov.in/CP/?opt=dgft-ra-details', 'title': 'Directorate General of Foreign Trade | Ministry of\r\n\tCommerce and Industry | Government of India', 'language': 'No language found.', 'source_url': 'https://www.dgft.gov.in/CP/?opt=dgft-ra-details', 'source_type': 'web', 'source_id': 'https://www.dgft.gov.in/CP/?opt=dgft-ra-details', 'chunk_index': 17, 'char_count': 768, 'word_count': 82, 'chunk_start': 12872, 'chunk_end': 13642}
+Metadata: {'source': 'https://www.dgft.gov.in/CP/?opt=dgft-ra-details', 'title': 'Directorate General of Foreign Trade | Ministry of\r\n\tCommerce and Industry | Government of India', 'language': 'No language found.', 'source_url': 'https://www.dgft.gov.in/CP/?opt=dgft-ra-details', 'source_type': 'web', 'source_id': 'https://www.dgft.gov.in/CP/?opt=dgft-ra-details', 'chunk_index': 17, 'char_count': 768, 'word_count': 82, 'chunk_start': 12873, 'chunk_end': 13643}
 
-=== CHUNK 771 ===
+=== CHUNK 876 ===
 Content: 124
 JAI  PAL
 Joint DGFT
@@ -17880,9 +20176,9 @@ PUSHPA CHANDAN GANGAWANE
 FTDO
 RA PUNE
 PUSHPA[dot]G[at]NIC[dot]IN
-Metadata: {'source': 'https://www.dgft.gov.in/CP/?opt=dgft-ra-details', 'title': 'Directorate General of Foreign Trade | Ministry of\r\n\tCommerce and Industry | Government of India', 'language': 'No language found.', 'source_url': 'https://www.dgft.gov.in/CP/?opt=dgft-ra-details', 'source_type': 'web', 'source_id': 'https://www.dgft.gov.in/CP/?opt=dgft-ra-details', 'chunk_index': 18, 'char_count': 755, 'word_count': 87, 'chunk_start': 13642, 'chunk_end': 14399}
+Metadata: {'source': 'https://www.dgft.gov.in/CP/?opt=dgft-ra-details', 'title': 'Directorate General of Foreign Trade | Ministry of\r\n\tCommerce and Industry | Government of India', 'language': 'No language found.', 'source_url': 'https://www.dgft.gov.in/CP/?opt=dgft-ra-details', 'source_type': 'web', 'source_id': 'https://www.dgft.gov.in/CP/?opt=dgft-ra-details', 'chunk_index': 18, 'char_count': 755, 'word_count': 87, 'chunk_start': 13643, 'chunk_end': 14400}
 
-=== CHUNK 772 ===
+=== CHUNK 877 ===
 Content: 135
 ROHIT  SONI
 Joint DGFT
@@ -17910,7 +20206,7 @@ RA SRINAGAR
 UTPAL[dot]ACHARYA[at]NIC[dot]IN
 
 139
-LOKESH H D
+LOKESH  H D
 Additional DGFT
 RA SURAT
 LOKESH[dot]HD[at]NIC[dot]IN
@@ -17951,9 +20247,9 @@ SATYADEV  DOMMETY
 FTDO
 RA SURAT
 SATYADEV[dot]D[at]GOV[dot]IN
-Metadata: {'source': 'https://www.dgft.gov.in/CP/?opt=dgft-ra-details', 'title': 'Directorate General of Foreign Trade | Ministry of\r\n\tCommerce and Industry | Government of India', 'language': 'No language found.', 'source_url': 'https://www.dgft.gov.in/CP/?opt=dgft-ra-details', 'source_type': 'web', 'source_id': 'https://www.dgft.gov.in/CP/?opt=dgft-ra-details', 'chunk_index': 19, 'char_count': 795, 'word_count': 90, 'chunk_start': 14399, 'chunk_end': 15196}
+Metadata: {'source': 'https://www.dgft.gov.in/CP/?opt=dgft-ra-details', 'title': 'Directorate General of Foreign Trade | Ministry of\r\n\tCommerce and Industry | Government of India', 'language': 'No language found.', 'source_url': 'https://www.dgft.gov.in/CP/?opt=dgft-ra-details', 'source_type': 'web', 'source_id': 'https://www.dgft.gov.in/CP/?opt=dgft-ra-details', 'chunk_index': 19, 'char_count': 796, 'word_count': 90, 'chunk_start': 14400, 'chunk_end': 15198}
 
-=== CHUNK 773 ===
+=== CHUNK 878 ===
 Content: 145
 ANUPAM  KUMAR
 Joint DGFT
@@ -18012,9 +20308,9 @@ PRAKASH  SINGH
 FTDO
 RA VISAKHAPATNAM
 PRAKAS[dot]SINGH72[at]NIC[dot]IN
-Metadata: {'source': 'https://www.dgft.gov.in/CP/?opt=dgft-ra-details', 'title': 'Directorate General of Foreign Trade | Ministry of\r\n\tCommerce and Industry | Government of India', 'language': 'No language found.', 'source_url': 'https://www.dgft.gov.in/CP/?opt=dgft-ra-details', 'source_type': 'web', 'source_id': 'https://www.dgft.gov.in/CP/?opt=dgft-ra-details', 'chunk_index': 20, 'char_count': 755, 'word_count': 80, 'chunk_start': 15196, 'chunk_end': 15953}
+Metadata: {'source': 'https://www.dgft.gov.in/CP/?opt=dgft-ra-details', 'title': 'Directorate General of Foreign Trade | Ministry of\r\n\tCommerce and Industry | Government of India', 'language': 'No language found.', 'source_url': 'https://www.dgft.gov.in/CP/?opt=dgft-ra-details', 'source_type': 'web', 'source_id': 'https://www.dgft.gov.in/CP/?opt=dgft-ra-details', 'chunk_index': 20, 'char_count': 755, 'word_count': 80, 'chunk_start': 15198, 'chunk_end': 15955}
 
-=== CHUNK 774 ===
+=== CHUNK 879 ===
 Content: Directorate General of Foreign Trade | Ministry of
 	Commerce and Industry | Government of India
 
@@ -18086,7 +20382,7 @@ Research
 Public Grievance
 Metadata: {'source': 'https://www.dgft.gov.in/CP/?opt=dgft-hq-details', 'title': 'Directorate General of Foreign Trade | Ministry of\r\n\tCommerce and Industry | Government of India', 'language': 'No language found.', 'source_url': 'https://www.dgft.gov.in/CP/?opt=dgft-hq-details', 'source_type': 'web', 'source_id': 'https://www.dgft.gov.in/CP/?opt=dgft-hq-details', 'chunk_index': 0, 'char_count': 790, 'word_count': 105, 'chunk_start': 0, 'chunk_end': 792}
 
-=== CHUNK 775 ===
+=== CHUNK 880 ===
 Content: Employee Corner
 
 O&M Instructions
@@ -18159,7 +20455,7 @@ Customise your dashboard
 Log In
 Metadata: {'source': 'https://www.dgft.gov.in/CP/?opt=dgft-hq-details', 'title': 'Directorate General of Foreign Trade | Ministry of\r\n\tCommerce and Industry | Government of India', 'language': 'No language found.', 'source_url': 'https://www.dgft.gov.in/CP/?opt=dgft-hq-details', 'source_type': 'web', 'source_id': 'https://www.dgft.gov.in/CP/?opt=dgft-hq-details', 'chunk_index': 1, 'char_count': 736, 'word_count': 91, 'chunk_start': 792, 'chunk_end': 1530}
 
-=== CHUNK 776 ===
+=== CHUNK 881 ===
 Content: to have a personalised dashboard to monitor & control all your applications
 
 Do not have Account?
@@ -18224,7 +20520,7 @@ Other e-Learning Videos
 India Trade Portal
 Metadata: {'source': 'https://www.dgft.gov.in/CP/?opt=dgft-hq-details', 'title': 'Directorate General of Foreign Trade | Ministry of\r\n\tCommerce and Industry | Government of India', 'language': 'No language found.', 'source_url': 'https://www.dgft.gov.in/CP/?opt=dgft-hq-details', 'source_type': 'web', 'source_id': 'https://www.dgft.gov.in/CP/?opt=dgft-hq-details', 'chunk_index': 2, 'char_count': 770, 'word_count': 114, 'chunk_start': 1530, 'chunk_end': 2302}
 
-=== CHUNK 777 ===
+=== CHUNK 882 ===
 Content: E-Commerce Exports Handbook for MSMEs
 
 Handbook on India's Strategic Trade Control Systems (SCOMET)
@@ -18295,7 +20591,7 @@ About DGFT
 DGFT HQ Details
 Metadata: {'source': 'https://www.dgft.gov.in/CP/?opt=dgft-hq-details', 'title': 'Directorate General of Foreign Trade | Ministry of\r\n\tCommerce and Industry | Government of India', 'language': 'No language found.', 'source_url': 'https://www.dgft.gov.in/CP/?opt=dgft-hq-details', 'source_type': 'web', 'source_id': 'https://www.dgft.gov.in/CP/?opt=dgft-hq-details', 'chunk_index': 3, 'char_count': 793, 'word_count': 107, 'chunk_start': 2302, 'chunk_end': 3097}
 
-=== CHUNK 778 ===
+=== CHUNK 883 ===
 Content: DGFT HQ Details
 
 Directorate General of Foreign Trade
@@ -18345,11 +20641,11 @@ Vanijya Bhawan
 ADDITIONAL DGFT
 Metadata: {'source': 'https://www.dgft.gov.in/CP/?opt=dgft-hq-details', 'title': 'Directorate General of Foreign Trade | Ministry of\r\n\tCommerce and Industry | Government of India', 'language': 'No language found.', 'source_url': 'https://www.dgft.gov.in/CP/?opt=dgft-hq-details', 'source_type': 'web', 'source_id': 'https://www.dgft.gov.in/CP/?opt=dgft-hq-details', 'chunk_index': 4, 'char_count': 764, 'word_count': 115, 'chunk_start': 3097, 'chunk_end': 3863}
 
-=== CHUNK 779 ===
+=== CHUNK 884 ===
 Content: 2
 Ms. Shubhra
 Additional DGFT
-(i) Policy, Chapter-2 of FTP;(ii) Import Policy;(iii) ITC (HS) Code related Matters;(iv) Import Licensing;(v) Inter Ministerial Committee Meetings under the Ministries/Departments of Food;(vi) Vigilance Division;(vii) Chapter - 4 of FTP;(viii) Chapter 4 of FTP (AA, Gems & Jewellery, DFIA), Interest Subvention, pending DEPB cases
+(i)Chapter-2 of FTP;(ii)Import Policy;(iii)ITC (HS) Code related Matters;(iv)Import Licensing;(v)Inter Ministerial Committee Meetings under the Ministries/Departments of Food;(vi)Chapter-4 of FTP;(vii)Chapter-4 of FTP (AA, Gems & Jewellery, DFIA), Interest Subvention, pending DEPB cases
 23038718
 shubhra[dot]ag[at]nic[dot]in
 6
@@ -18363,33 +20659,33 @@ DEO
 
 Vanijya Bhawan
 8720
-Metadata: {'source': 'https://www.dgft.gov.in/CP/?opt=dgft-hq-details', 'title': 'Directorate General of Foreign Trade | Ministry of\r\n\tCommerce and Industry | Government of India', 'language': 'No language found.', 'source_url': 'https://www.dgft.gov.in/CP/?opt=dgft-hq-details', 'source_type': 'web', 'source_id': 'https://www.dgft.gov.in/CP/?opt=dgft-hq-details', 'chunk_index': 5, 'char_count': 472, 'word_count': 62, 'chunk_start': 3863, 'chunk_end': 4337}
+Metadata: {'source': 'https://www.dgft.gov.in/CP/?opt=dgft-hq-details', 'title': 'Directorate General of Foreign Trade | Ministry of\r\n\tCommerce and Industry | Government of India', 'language': 'No language found.', 'source_url': 'https://www.dgft.gov.in/CP/?opt=dgft-hq-details', 'source_type': 'web', 'source_id': 'https://www.dgft.gov.in/CP/?opt=dgft-hq-details', 'chunk_index': 5, 'char_count': 429, 'word_count': 49, 'chunk_start': 3863, 'chunk_end': 4294}
 
-=== CHUNK 780 ===
+=== CHUNK 885 ===
 Content: 3
 Shri Hardeep Singh
 Additional DGFT
-(i) Chapter 5 of FTP (EPCG scheme) & Relaxation in cases relating to EPCG authorization;(ii) All Audit matters;(iii) All cash related matters of DGFT & Budget Allocation & Monitoring of Expenditure;(iv) Fixation of norms of Engineering & Electronic Items (NC-1 and NC-2);(v) General Administration, Procurement & distribution of stationery items;(vi) Record;(vii) Library;(viii) Official Language Implementation;(ix) Litigation;(x) Quality Complaints & Trade Disputes
+(i)Chapter 5 of FTP (EPCG scheme) & Relaxation in cases relating to EPCG authorization;(ii)All Audit matters;(iii)Fixation of norms of Engineering & Electronic Items (NC-1 and NC-2);(iv)General Administration, Procurement & distribution of stationery items;(v)Record;(vi)Library;(vii)Official Language Implementation;(viii)Litigation;(ix)Quality Complaints & Trade Disputes
 23038712
 hardeep[dot]singh[at]nic[dot]in
 4
 Vanijya Bhawan
 8712/ 8713
-Metadata: {'source': 'https://www.dgft.gov.in/CP/?opt=dgft-hq-details', 'title': 'Directorate General of Foreign Trade | Ministry of\r\n\tCommerce and Industry | Government of India', 'language': 'No language found.', 'source_url': 'https://www.dgft.gov.in/CP/?opt=dgft-hq-details', 'source_type': 'web', 'source_id': 'https://www.dgft.gov.in/CP/?opt=dgft-hq-details', 'chunk_index': 6, 'char_count': 573, 'word_count': 74, 'chunk_start': 4337, 'chunk_end': 4912}
+Metadata: {'source': 'https://www.dgft.gov.in/CP/?opt=dgft-hq-details', 'title': 'Directorate General of Foreign Trade | Ministry of\r\n\tCommerce and Industry | Government of India', 'language': 'No language found.', 'source_url': 'https://www.dgft.gov.in/CP/?opt=dgft-hq-details', 'source_type': 'web', 'source_id': 'https://www.dgft.gov.in/CP/?opt=dgft-hq-details', 'chunk_index': 6, 'char_count': 479, 'word_count': 52, 'chunk_start': 4294, 'chunk_end': 4775}
 
-=== CHUNK 781 ===
+=== CHUNK 886 ===
 Content: 4
 Shri Abhinav Gupta
 Additional DGFT
-(i) Export Policy and Licensing of Restricted Items of Export (Non-SCOMET);(ii) NC-7;(iii) EGTF I & II;(iv) RTI;(v) R&I;(vi) PMO References;(vii) Grievance Related Work;(viii) Viksit Bharat Initiative;(ix) GST related work;(x) E-Samiksha
+(i)Export Policy and Licensing of Restricted Items of Export (Non-SCOMET);(ii)NC-7;(iii)EGTF I & II;(iv)RTI;(v)R&I;(vi)PMO References;(vii)Grievance Related Work;(viii)Viksit Bharat Initiative;(ix)GST related work;(x)E-Samiksha;(xi)Vigilance Division;(xii)All cash related matters of DGFT & Budget Allocation & Monitoring of Expenditure
 23038735
 abhinav[dot]gupta[at]gov[dot]in
 2
 Vanijya Bhawan
 8735
-Metadata: {'source': 'https://www.dgft.gov.in/CP/?opt=dgft-hq-details', 'title': 'Directorate General of Foreign Trade | Ministry of\r\n\tCommerce and Industry | Government of India', 'language': 'No language found.', 'source_url': 'https://www.dgft.gov.in/CP/?opt=dgft-hq-details', 'source_type': 'web', 'source_id': 'https://www.dgft.gov.in/CP/?opt=dgft-hq-details', 'chunk_index': 7, 'char_count': 337, 'word_count': 42, 'chunk_start': 4912, 'chunk_end': 5251}
+Metadata: {'source': 'https://www.dgft.gov.in/CP/?opt=dgft-hq-details', 'title': 'Directorate General of Foreign Trade | Ministry of\r\n\tCommerce and Industry | Government of India', 'language': 'No language found.', 'source_url': 'https://www.dgft.gov.in/CP/?opt=dgft-hq-details', 'source_type': 'web', 'source_id': 'https://www.dgft.gov.in/CP/?opt=dgft-hq-details', 'chunk_index': 7, 'char_count': 436, 'word_count': 45, 'chunk_start': 4775, 'chunk_end': 5213}
 
-=== CHUNK 782 ===
+=== CHUNK 887 ===
 Content: 5
 Shri Rakesh Kumar
 Additional DGFT
@@ -18407,9 +20703,9 @@ DEO
 
 Vanijya Bhawan
 8717
-Metadata: {'source': 'https://www.dgft.gov.in/CP/?opt=dgft-hq-details', 'title': 'Directorate General of Foreign Trade | Ministry of\r\n\tCommerce and Industry | Government of India', 'language': 'No language found.', 'source_url': 'https://www.dgft.gov.in/CP/?opt=dgft-hq-details', 'source_type': 'web', 'source_id': 'https://www.dgft.gov.in/CP/?opt=dgft-hq-details', 'chunk_index': 8, 'char_count': 640, 'word_count': 88, 'chunk_start': 5251, 'chunk_end': 5893}
+Metadata: {'source': 'https://www.dgft.gov.in/CP/?opt=dgft-hq-details', 'title': 'Directorate General of Foreign Trade | Ministry of\r\n\tCommerce and Industry | Government of India', 'language': 'No language found.', 'source_url': 'https://www.dgft.gov.in/CP/?opt=dgft-hq-details', 'source_type': 'web', 'source_id': 'https://www.dgft.gov.in/CP/?opt=dgft-hq-details', 'chunk_index': 8, 'char_count': 640, 'word_count': 88, 'chunk_start': 5213, 'chunk_end': 5855}
 
-=== CHUNK 783 ===
+=== CHUNK 888 ===
 Content: 6
 Shri Lokesh H. D.
 Additional DGFT
@@ -18438,7 +20734,7 @@ Vanijya Bhawan
 8725/8726
 
 Shri Shiv Prakash
-Steno Grade D
+PA
 
 23038726
 
@@ -18446,9 +20742,9 @@ Vanijya Bhawan
 8726
 
 DIRECTOR
-Metadata: {'source': 'https://www.dgft.gov.in/CP/?opt=dgft-hq-details', 'title': 'Directorate General of Foreign Trade | Ministry of\r\n\tCommerce and Industry | Government of India', 'language': 'No language found.', 'source_url': 'https://www.dgft.gov.in/CP/?opt=dgft-hq-details', 'source_type': 'web', 'source_id': 'https://www.dgft.gov.in/CP/?opt=dgft-hq-details', 'chunk_index': 9, 'char_count': 690, 'word_count': 84, 'chunk_start': 5893, 'chunk_end': 6585}
+Metadata: {'source': 'https://www.dgft.gov.in/CP/?opt=dgft-hq-details', 'title': 'Directorate General of Foreign Trade | Ministry of\r\n\tCommerce and Industry | Government of India', 'language': 'No language found.', 'source_url': 'https://www.dgft.gov.in/CP/?opt=dgft-hq-details', 'source_type': 'web', 'source_id': 'https://www.dgft.gov.in/CP/?opt=dgft-hq-details', 'chunk_index': 9, 'char_count': 679, 'word_count': 82, 'chunk_start': 5855, 'chunk_end': 6536}
 
-=== CHUNK 784 ===
+=== CHUNK 889 ===
 Content: 8
 Shri Sarbeswar Majhi
 Director
@@ -18478,9 +20774,9 @@ Udyog Bhawan
 396
 
 JOINT DGFT
-Metadata: {'source': 'https://www.dgft.gov.in/CP/?opt=dgft-hq-details', 'title': 'Directorate General of Foreign Trade | Ministry of\r\n\tCommerce and Industry | Government of India', 'language': 'No language found.', 'source_url': 'https://www.dgft.gov.in/CP/?opt=dgft-hq-details', 'source_type': 'web', 'source_id': 'https://www.dgft.gov.in/CP/?opt=dgft-hq-details', 'chunk_index': 10, 'char_count': 583, 'word_count': 74, 'chunk_start': 6585, 'chunk_end': 7170}
+Metadata: {'source': 'https://www.dgft.gov.in/CP/?opt=dgft-hq-details', 'title': 'Directorate General of Foreign Trade | Ministry of\r\n\tCommerce and Industry | Government of India', 'language': 'No language found.', 'source_url': 'https://www.dgft.gov.in/CP/?opt=dgft-hq-details', 'source_type': 'web', 'source_id': 'https://www.dgft.gov.in/CP/?opt=dgft-hq-details', 'chunk_index': 10, 'char_count': 583, 'word_count': 74, 'chunk_start': 6536, 'chunk_end': 7121}
 
-=== CHUNK 785 ===
+=== CHUNK 890 ===
 Content: 10
 Shri Randheep Thakur
 Joint DGFT
@@ -18509,9 +20805,9 @@ sanjeevs[dot]edu[at]nic[dot]in
 111
 Vanijya Bhawan
 8737
-Metadata: {'source': 'https://www.dgft.gov.in/CP/?opt=dgft-hq-details', 'title': 'Directorate General of Foreign Trade | Ministry of\r\n\tCommerce and Industry | Government of India', 'language': 'No language found.', 'source_url': 'https://www.dgft.gov.in/CP/?opt=dgft-hq-details', 'source_type': 'web', 'source_id': 'https://www.dgft.gov.in/CP/?opt=dgft-hq-details', 'chunk_index': 11, 'char_count': 650, 'word_count': 73, 'chunk_start': 7170, 'chunk_end': 7822}
+Metadata: {'source': 'https://www.dgft.gov.in/CP/?opt=dgft-hq-details', 'title': 'Directorate General of Foreign Trade | Ministry of\r\n\tCommerce and Industry | Government of India', 'language': 'No language found.', 'source_url': 'https://www.dgft.gov.in/CP/?opt=dgft-hq-details', 'source_type': 'web', 'source_id': 'https://www.dgft.gov.in/CP/?opt=dgft-hq-details', 'chunk_index': 11, 'char_count': 650, 'word_count': 73, 'chunk_start': 7121, 'chunk_end': 7773}
 
-=== CHUNK 786 ===
+=== CHUNK 891 ===
 Content: 12
 Smt Suminder Kaur
 Joint DGFT
@@ -18547,9 +20843,9 @@ kh[dot]reddy[at]gov[dot]in
 16
 Vanijya Bhawan
 8729
-Metadata: {'source': 'https://www.dgft.gov.in/CP/?opt=dgft-hq-details', 'title': 'Directorate General of Foreign Trade | Ministry of\r\n\tCommerce and Industry | Government of India', 'language': 'No language found.', 'source_url': 'https://www.dgft.gov.in/CP/?opt=dgft-hq-details', 'source_type': 'web', 'source_id': 'https://www.dgft.gov.in/CP/?opt=dgft-hq-details', 'chunk_index': 12, 'char_count': 635, 'word_count': 74, 'chunk_start': 7822, 'chunk_end': 8459}
+Metadata: {'source': 'https://www.dgft.gov.in/CP/?opt=dgft-hq-details', 'title': 'Directorate General of Foreign Trade | Ministry of\r\n\tCommerce and Industry | Government of India', 'language': 'No language found.', 'source_url': 'https://www.dgft.gov.in/CP/?opt=dgft-hq-details', 'source_type': 'web', 'source_id': 'https://www.dgft.gov.in/CP/?opt=dgft-hq-details', 'chunk_index': 12, 'char_count': 635, 'word_count': 74, 'chunk_start': 7773, 'chunk_end': 8410}
 
-=== CHUNK 787 ===
+=== CHUNK 892 ===
 Content: 15
 Shri Satya Raja Sekhar G
 Joint DGFT
@@ -18591,9 +20887,9 @@ dilip[dot]kumar72[at]nic[dot]in
 E-1024
 Vanijya Bhawan
 8777
-Metadata: {'source': 'https://www.dgft.gov.in/CP/?opt=dgft-hq-details', 'title': 'Directorate General of Foreign Trade | Ministry of\r\n\tCommerce and Industry | Government of India', 'language': 'No language found.', 'source_url': 'https://www.dgft.gov.in/CP/?opt=dgft-hq-details', 'source_type': 'web', 'source_id': 'https://www.dgft.gov.in/CP/?opt=dgft-hq-details', 'chunk_index': 13, 'char_count': 737, 'word_count': 97, 'chunk_start': 8459, 'chunk_end': 9198}
+Metadata: {'source': 'https://www.dgft.gov.in/CP/?opt=dgft-hq-details', 'title': 'Directorate General of Foreign Trade | Ministry of\r\n\tCommerce and Industry | Government of India', 'language': 'No language found.', 'source_url': 'https://www.dgft.gov.in/CP/?opt=dgft-hq-details', 'source_type': 'web', 'source_id': 'https://www.dgft.gov.in/CP/?opt=dgft-hq-details', 'chunk_index': 13, 'char_count': 737, 'word_count': 97, 'chunk_start': 8410, 'chunk_end': 9149}
 
-=== CHUNK 788 ===
+=== CHUNK 893 ===
 Content: 19
 Shri Sanjay Kumar Tiwari
 Deputy DGFT
@@ -18642,9 +20938,9 @@ pratibha[dot]kumari[at]nic[dot]in
 US-11
 Vanijya Bhawan
 8759
-Metadata: {'source': 'https://www.dgft.gov.in/CP/?opt=dgft-hq-details', 'title': 'Directorate General of Foreign Trade | Ministry of\r\n\tCommerce and Industry | Government of India', 'language': 'No language found.', 'source_url': 'https://www.dgft.gov.in/CP/?opt=dgft-hq-details', 'source_type': 'web', 'source_id': 'https://www.dgft.gov.in/CP/?opt=dgft-hq-details', 'chunk_index': 14, 'char_count': 783, 'word_count': 95, 'chunk_start': 9198, 'chunk_end': 9983}
+Metadata: {'source': 'https://www.dgft.gov.in/CP/?opt=dgft-hq-details', 'title': 'Directorate General of Foreign Trade | Ministry of\r\n\tCommerce and Industry | Government of India', 'language': 'No language found.', 'source_url': 'https://www.dgft.gov.in/CP/?opt=dgft-hq-details', 'source_type': 'web', 'source_id': 'https://www.dgft.gov.in/CP/?opt=dgft-hq-details', 'chunk_index': 14, 'char_count': 783, 'word_count': 95, 'chunk_start': 9149, 'chunk_end': 9934}
 
-=== CHUNK 789 ===
+=== CHUNK 894 ===
 Content: 24
 Shri Ranjeet Kumar Roy
 Deputy DGFT
@@ -18674,9 +20970,9 @@ anita[dot]t13[at]nic[dot]in
 G-12
 Vanijya Bhawan
 8760
-Metadata: {'source': 'https://www.dgft.gov.in/CP/?opt=dgft-hq-details', 'title': 'Directorate General of Foreign Trade | Ministry of\r\n\tCommerce and Industry | Government of India', 'language': 'No language found.', 'source_url': 'https://www.dgft.gov.in/CP/?opt=dgft-hq-details', 'source_type': 'web', 'source_id': 'https://www.dgft.gov.in/CP/?opt=dgft-hq-details', 'chunk_index': 15, 'char_count': 722, 'word_count': 82, 'chunk_start': 9983, 'chunk_end': 10707}
+Metadata: {'source': 'https://www.dgft.gov.in/CP/?opt=dgft-hq-details', 'title': 'Directorate General of Foreign Trade | Ministry of\r\n\tCommerce and Industry | Government of India', 'language': 'No language found.', 'source_url': 'https://www.dgft.gov.in/CP/?opt=dgft-hq-details', 'source_type': 'web', 'source_id': 'https://www.dgft.gov.in/CP/?opt=dgft-hq-details', 'chunk_index': 15, 'char_count': 722, 'word_count': 82, 'chunk_start': 9934, 'chunk_end': 10658}
 
-=== CHUNK 790 ===
+=== CHUNK 895 ===
 Content: 27
 Smt. Laxmi Devi
 Deputy DGFT
@@ -18725,9 +21021,9 @@ ramesh[dot]1970[at]gov[dot]in?
 US-13
 Vanijya Bhawan
 8761
-Metadata: {'source': 'https://www.dgft.gov.in/CP/?opt=dgft-hq-details', 'title': 'Directorate General of Foreign Trade | Ministry of\r\n\tCommerce and Industry | Government of India', 'language': 'No language found.', 'source_url': 'https://www.dgft.gov.in/CP/?opt=dgft-hq-details', 'source_type': 'web', 'source_id': 'https://www.dgft.gov.in/CP/?opt=dgft-hq-details', 'chunk_index': 16, 'char_count': 670, 'word_count': 80, 'chunk_start': 10707, 'chunk_end': 11379}
+Metadata: {'source': 'https://www.dgft.gov.in/CP/?opt=dgft-hq-details', 'title': 'Directorate General of Foreign Trade | Ministry of\r\n\tCommerce and Industry | Government of India', 'language': 'No language found.', 'source_url': 'https://www.dgft.gov.in/CP/?opt=dgft-hq-details', 'source_type': 'web', 'source_id': 'https://www.dgft.gov.in/CP/?opt=dgft-hq-details', 'chunk_index': 16, 'char_count': 670, 'word_count': 80, 'chunk_start': 10658, 'chunk_end': 11330}
 
-=== CHUNK 791 ===
+=== CHUNK 896 ===
 Content: 32
 Shri Gokul Ram Meena
 Deputy DGFT
@@ -18758,13 +21054,13 @@ Vanijya Bhawan
 8767
 
 DEPUTY DIRECTOR
-Metadata: {'source': 'https://www.dgft.gov.in/CP/?opt=dgft-hq-details', 'title': 'Directorate General of Foreign Trade | Ministry of\r\n\tCommerce and Industry | Government of India', 'language': 'No language found.', 'source_url': 'https://www.dgft.gov.in/CP/?opt=dgft-hq-details', 'source_type': 'web', 'source_id': 'https://www.dgft.gov.in/CP/?opt=dgft-hq-details', 'chunk_index': 17, 'char_count': 513, 'word_count': 56, 'chunk_start': 11379, 'chunk_end': 11894}
+Metadata: {'source': 'https://www.dgft.gov.in/CP/?opt=dgft-hq-details', 'title': 'Directorate General of Foreign Trade | Ministry of\r\n\tCommerce and Industry | Government of India', 'language': 'No language found.', 'source_url': 'https://www.dgft.gov.in/CP/?opt=dgft-hq-details', 'source_type': 'web', 'source_id': 'https://www.dgft.gov.in/CP/?opt=dgft-hq-details', 'chunk_index': 17, 'char_count': 513, 'word_count': 56, 'chunk_start': 11330, 'chunk_end': 11845}
 
-=== CHUNK 792 ===
+=== CHUNK 897 ===
 Content: 35
 Shri Ajay Kumar
 Deputy Director
-Fixation of norms of Food/ Marine/ Miscellaneous Items (NC-6), EGTF-I Division, Board of Trade (BOT), Port Officer's Meeting (POM), eSamiksha
+(i)Fixation of norms of Food/ Marine/ Miscellaneous Items (NC-6);(ii)EGTF-I Division;(iii)Board of Trade (BOT);(iv)Port Officer's Meeting (POM);(iv) eSamiksha
 23038753 (Vanijya bhawan), 23061562 With Intercom (Udyog Bhawan)
 ajay[dot]dhiman88[at]gov[dot]in
 US- 18/ 402
@@ -18774,19 +21070,19 @@ Vanijya Bhawan/Udyog Bhawan
 36
 Shri Manoj Kumar Meena
 Deputy Director
-EGTF-I, Fixation of norms chemical & allied products (NC-4)
+(i)EGTF-I;(ii)Fixation of norms chemical & allied products (NC-4)
 23038727 (Vanijya Bhawan), 23061562 With Intercom (Udyog Bhawan)
 manoj[dot]meena84[at]gov[dot]in
 US- 17/ 402
 Vanijya Bhawan/ Udyog Bhawan
 8727 (Vanijya Bhawan)/ 343 (Udyog Bhawan)
-Metadata: {'source': 'https://www.dgft.gov.in/CP/?opt=dgft-hq-details', 'title': 'Directorate General of Foreign Trade | Ministry of\r\n\tCommerce and Industry | Government of India', 'language': 'No language found.', 'source_url': 'https://www.dgft.gov.in/CP/?opt=dgft-hq-details', 'source_type': 'web', 'source_id': 'https://www.dgft.gov.in/CP/?opt=dgft-hq-details', 'chunk_index': 18, 'char_count': 638, 'word_count': 85, 'chunk_start': 11894, 'chunk_end': 12534}
+Metadata: {'source': 'https://www.dgft.gov.in/CP/?opt=dgft-hq-details', 'title': 'Directorate General of Foreign Trade | Ministry of\r\n\tCommerce and Industry | Government of India', 'language': 'No language found.', 'source_url': 'https://www.dgft.gov.in/CP/?opt=dgft-hq-details', 'source_type': 'web', 'source_id': 'https://www.dgft.gov.in/CP/?opt=dgft-hq-details', 'chunk_index': 18, 'char_count': 661, 'word_count': 81, 'chunk_start': 11845, 'chunk_end': 12508}
 
-=== CHUNK 793 ===
+=== CHUNK 898 ===
 Content: 37
 Ms. Ishita Gupta
 Deputy Director (Stats)
-Foreign Trade Statistics, MIS/Publication, Trade Analysis Dashboard, Open Data Platform
+(i)Foreign Trade Statistics;(ii)MIS/Publication;(iii)Trade Analysis Dashboard;(iv)Open Data Platform
 23038776
 ishita[dot]gupta[at]gov[dot]in
 E-1023
@@ -18798,7 +21094,7 @@ ASSISTANT DGFT
 38
 Shri Sudhir Kumar Sharma
 Assistant DGFT
-Licensing of restricted items (Import Cell for Restricted Items), Licensing of Marble related issues (Import Policy and Licensing of Marble)
+(i)Licensing of restricted items (Import Cell for Restricted Items);(ii)Licensing of Marble related issues (Import Policy and Licensing of Marble)
 23038749
 sudhir[dot]sharma67[at]nic[dot]in
 SU-18
@@ -18808,19 +21104,19 @@ Vanijya Bhawan
 39
 Shri H.C. Joshi
 Assistant DGFT
-Budget Allocation & Monitoring of Expenditure, In Addition to his present work allocation will hold Charge of PC-6 Section
+(i)Budget Allocation & Monitoring of Expenditure;(ii)Additional Charge-PC-6 Section
 23061562 With Intercom
 hc[dot]joshi[at]nic[dot]in
 487-A
 Udyog Bhawan
 217
-Metadata: {'source': 'https://www.dgft.gov.in/CP/?opt=dgft-hq-details', 'title': 'Directorate General of Foreign Trade | Ministry of\r\n\tCommerce and Industry | Government of India', 'language': 'No language found.', 'source_url': 'https://www.dgft.gov.in/CP/?opt=dgft-hq-details', 'source_type': 'web', 'source_id': 'https://www.dgft.gov.in/CP/?opt=dgft-hq-details', 'chunk_index': 19, 'char_count': 699, 'word_count': 91, 'chunk_start': 12534, 'chunk_end': 13235}
+Metadata: {'source': 'https://www.dgft.gov.in/CP/?opt=dgft-hq-details', 'title': 'Directorate General of Foreign Trade | Ministry of\r\n\tCommerce and Industry | Government of India', 'language': 'No language found.', 'source_url': 'https://www.dgft.gov.in/CP/?opt=dgft-hq-details', 'source_type': 'web', 'source_id': 'https://www.dgft.gov.in/CP/?opt=dgft-hq-details', 'chunk_index': 19, 'char_count': 679, 'word_count': 76, 'chunk_start': 12508, 'chunk_end': 13189}
 
-=== CHUNK 794 ===
+=== CHUNK 899 ===
 Content: 40
 Shri Deepak S Nagdeve
 Assistant Director (Stats)
-Foreign Trade Statistics, MIS/Publication, Trade Analysis Dashboard, Open Data Platform Section
+(i)Foreign Trade Statistics;(ii)MIS/Publication;(iii)Trade Analysis Dashboard;(iv)Open Data Platform Section
 23038773
 deepak[dot]nagdeve[at]gov[dot]in
 e-1020
@@ -18852,7 +21148,7 @@ Vanijya Bhawan
 43
 Ms. Anju Kamal
 FTDO
-DGCI&S, State Cell/WTO, MIS-STAT.Unit
+(i)DGCI&S;(ii)State Cell/WTO;(iii)MIS-STAT.Unit
 23038799
 kamal[dot]anju[at]nic[dot]in
 S-1002
@@ -18862,15 +21158,15 @@ Vanijya Bhawan
 44
 Shri Arvind Kumar Singh
 FTDO
-HRD-II, APS Wing of GTPO
+(i)HRD-II;(ii)APS Wing of GTPO
 
 kr[dot]asingh[at]gov[dot]in
 S-1004
 Vanijya Bhawan
 1607
-Metadata: {'source': 'https://www.dgft.gov.in/CP/?opt=dgft-hq-details', 'title': 'Directorate General of Foreign Trade | Ministry of\r\n\tCommerce and Industry | Government of India', 'language': 'No language found.', 'source_url': 'https://www.dgft.gov.in/CP/?opt=dgft-hq-details', 'source_type': 'web', 'source_id': 'https://www.dgft.gov.in/CP/?opt=dgft-hq-details', 'chunk_index': 20, 'char_count': 767, 'word_count': 94, 'chunk_start': 13235, 'chunk_end': 14004}
+Metadata: {'source': 'https://www.dgft.gov.in/CP/?opt=dgft-hq-details', 'title': 'Directorate General of Foreign Trade | Ministry of\r\n\tCommerce and Industry | Government of India', 'language': 'No language found.', 'source_url': 'https://www.dgft.gov.in/CP/?opt=dgft-hq-details', 'source_type': 'web', 'source_id': 'https://www.dgft.gov.in/CP/?opt=dgft-hq-details', 'chunk_index': 20, 'char_count': 796, 'word_count': 88, 'chunk_start': 13189, 'chunk_end': 13987}
 
-=== CHUNK 795 ===
+=== CHUNK 900 ===
 Content: 45
 Shri Gajendra Singh
 FTDO
@@ -18884,7 +21180,7 @@ Udyog Bhawan
 46
 Shri Anurag Chauhan
 FTDO
-Export cell (SCOMET) & DEH & O&M
+(i)Export cell (SCOMET);(ii)DEH;(iii)O&M
 23038739
 anurag[dot]91[at]gov[dot]in
 G-09
@@ -18903,7 +21199,7 @@ Udyog Bhawan
 48
 Shri Joy Prakash
 FTDO
-EPCG and FTP
+(i)EPCG;(ii)FTP
 23038782
 joyprakash[dot]70[at]nic[dot]in
 S-0005
@@ -18933,29 +21229,29 @@ Vanijya Bhawan
 51
 Shri Sandeep Kumar
 FTDO
-PC-4 & Logistics
+(i)PC-4;(ii)Logistics
 23038787
 sandeepkumar[dot]17[at]gov[dot]in
 S-0010
 Vanijya Bhawan
 8787
-Metadata: {'source': 'https://www.dgft.gov.in/CP/?opt=dgft-hq-details', 'title': 'Directorate General of Foreign Trade | Ministry of\r\n\tCommerce and Industry | Government of India', 'language': 'No language found.', 'source_url': 'https://www.dgft.gov.in/CP/?opt=dgft-hq-details', 'source_type': 'web', 'source_id': 'https://www.dgft.gov.in/CP/?opt=dgft-hq-details', 'chunk_index': 21, 'char_count': 751, 'word_count': 95, 'chunk_start': 14004, 'chunk_end': 14757}
+Metadata: {'source': 'https://www.dgft.gov.in/CP/?opt=dgft-hq-details', 'title': 'Directorate General of Foreign Trade | Ministry of\r\n\tCommerce and Industry | Government of India', 'language': 'No language found.', 'source_url': 'https://www.dgft.gov.in/CP/?opt=dgft-hq-details', 'source_type': 'web', 'source_id': 'https://www.dgft.gov.in/CP/?opt=dgft-hq-details', 'chunk_index': 21, 'char_count': 767, 'word_count': 87, 'chunk_start': 13987, 'chunk_end': 14756}
 
-=== CHUNK 796 ===
+=== CHUNK 901 ===
 Content: 52
 Shri Ajay Chaudhary
 FTDO
 HRD-1
 23038833
 chaudharyajay[dot]edu[at]nic[dot]in
-S-1009
+E-1016
 Vanijya Bhawan
 8833
 
 53
 Shri Manish Sirohi
 FTDO
-PC-2, PSIA
+(i)PC-2;(ii)PSIA
 23038996
 manish[dot]sirohi[at]nic[dot]in
 S-0015
@@ -18965,7 +21261,7 @@ Vanijya Bhawan
 54
 Shri Md. Anwarul Haque Ansari
 FTDO
-QCTD, ECA-1&2
+(i)QCTD;(ii)ECA-1&2
 23061562
 anwarulh[dot]ansari[at]nic[dot]in
 489
@@ -18989,14 +21285,14 @@ k[dot]bodra[at]nic[dot]in
 57
 Shri Kailash Kumar
 FTDO
-R&I and Library
+(i)R&I;(ii)Library
 
 kailash[dot]kr[at]nic[dot]in
 
 58
 Shri Harshvardhan Shyam
 FTDO
-EG&TF / Trade Connect
+(i)EG&TF;(ii)Trade Connect
 23038764
 harshvardhan[dot]shyam[at]nic[dot]in
 G-16
@@ -19012,9 +21308,9 @@ bijendra[dot]singh82[at]gov[dot]in
 1003
 Vanijya Bhawan
 9581
-Metadata: {'source': 'https://www.dgft.gov.in/CP/?opt=dgft-hq-details', 'title': 'Directorate General of Foreign Trade | Ministry of\r\n\tCommerce and Industry | Government of India', 'language': 'No language found.', 'source_url': 'https://www.dgft.gov.in/CP/?opt=dgft-hq-details', 'source_type': 'web', 'source_id': 'https://www.dgft.gov.in/CP/?opt=dgft-hq-details', 'chunk_index': 22, 'char_count': 757, 'word_count': 90, 'chunk_start': 14757, 'chunk_end': 15516}
+Metadata: {'source': 'https://www.dgft.gov.in/CP/?opt=dgft-hq-details', 'title': 'Directorate General of Foreign Trade | Ministry of\r\n\tCommerce and Industry | Government of India', 'language': 'No language found.', 'source_url': 'https://www.dgft.gov.in/CP/?opt=dgft-hq-details', 'source_type': 'web', 'source_id': 'https://www.dgft.gov.in/CP/?opt=dgft-hq-details', 'chunk_index': 22, 'char_count': 777, 'word_count': 84, 'chunk_start': 14756, 'chunk_end': 15535}
 
-=== CHUNK 797 ===
+=== CHUNK 902 ===
 Content: 60
 Shri Santosh Tripathi
 FTDO
@@ -19038,11 +21334,12 @@ Vanijya Bhawan
 62
 Ms. Jinny Bhardwaj
 FTDO
-Training Division, RTI
-
+(i)Training Division;(ii)RTI
+23038738
 jinbhar[at]nic[dot]in
 
 Vanijya Bhawan
+8738
 
 63
 Shri Shashi Kant Kumar
@@ -19087,9 +21384,9 @@ Vanijya Bhawan
 Shri Dipak Kumar Sarkar
 FTDO
 Cash
-Metadata: {'source': 'https://www.dgft.gov.in/CP/?opt=dgft-hq-details', 'title': 'Directorate General of Foreign Trade | Ministry of\r\n\tCommerce and Industry | Government of India', 'language': 'No language found.', 'source_url': 'https://www.dgft.gov.in/CP/?opt=dgft-hq-details', 'source_type': 'web', 'source_id': 'https://www.dgft.gov.in/CP/?opt=dgft-hq-details', 'chunk_index': 23, 'char_count': 778, 'word_count': 92, 'chunk_start': 15516, 'chunk_end': 16296}
+Metadata: {'source': 'https://www.dgft.gov.in/CP/?opt=dgft-hq-details', 'title': 'Directorate General of Foreign Trade | Ministry of\r\n\tCommerce and Industry | Government of India', 'language': 'No language found.', 'source_url': 'https://www.dgft.gov.in/CP/?opt=dgft-hq-details', 'source_type': 'web', 'source_id': 'https://www.dgft.gov.in/CP/?opt=dgft-hq-details', 'chunk_index': 23, 'char_count': 797, 'word_count': 93, 'chunk_start': 15535, 'chunk_end': 16334}
 
-=== CHUNK 798 ===
+=== CHUNK 903 ===
 Content: dipakkumar[dot]sarkar[at]gov[dot]in
 490
 Udyog Bhawan
@@ -19107,7 +21404,7 @@ Udyog Bhawan
 69
 Shri Uttam Kumar Jana
 FTDO
-Litigation & NC-4
+(i)Litigation;(ii)NC-4
 23061562
 uttam[dot]jana[at]nic[dot]in
 
@@ -19117,7 +21414,7 @@ Udyog Bhawan
 70
 Shri Munish Kumar
 FTDO
-PC-3, Training Division & Mission Karmayogi
+(i)PC-3;(ii)Training Division;(iii)Mission Karmayogi
 23038788
 munish[dot]kumar79[at]nic[dot]in
 S-0011
@@ -19129,21 +21426,11 @@ STATISTICAL OFFICER
 71
 Shri Har Sai
 Statistical Officer
-Foreign Trade Statistics, MIS/Publication, Trade Analysis Dashboard, Open Data Platform
+(i)Foreign Trade Statistics;(ii)MIS/Publication;(iii)Trade Analysis Dashboard;(iv)Open Data Platform
 23038802
 harsai[dot]30[at]nic[dot]in
 S-1016
 Vanijya Bhawan
 8802
-
-72
-Shri S K Rawat
-Statistical Officer
-Foreign Trade Statistics, MIS/Publication, Trade Analysis Dashboard, Open Data Platform
-23038803
-sunil[dot]rawat[at]nic[dot]in
-S-1015
-Vanijya Bhawan
-8803
-Metadata: {'source': 'https://www.dgft.gov.in/CP/?opt=dgft-hq-details', 'title': 'Directorate General of Foreign Trade | Ministry of\r\n\tCommerce and Industry | Government of India', 'language': 'No language found.', 'source_url': 'https://www.dgft.gov.in/CP/?opt=dgft-hq-details', 'source_type': 'web', 'source_id': 'https://www.dgft.gov.in/CP/?opt=dgft-hq-details', 'chunk_index': 24, 'char_count': 794, 'word_count': 94, 'chunk_start': 16296, 'chunk_end': 17092}
+Metadata: {'source': 'https://www.dgft.gov.in/CP/?opt=dgft-hq-details', 'title': 'Directorate General of Foreign Trade | Ministry of\r\n\tCommerce and Industry | Government of India', 'language': 'No language found.', 'source_url': 'https://www.dgft.gov.in/CP/?opt=dgft-hq-details', 'source_type': 'web', 'source_id': 'https://www.dgft.gov.in/CP/?opt=dgft-hq-details', 'chunk_index': 24, 'char_count': 628, 'word_count': 63, 'chunk_start': 16334, 'chunk_end': 16964}
 
