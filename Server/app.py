@@ -23,6 +23,7 @@ class QueryInput(BaseModel):
 
 class BotResponse(BaseModel):
     response: str
+    followups: list[str] = []
 
 @app.post("/chat", response_model=BotResponse)
 async def post_user_query(input_data: QueryInput):
@@ -33,16 +34,23 @@ async def post_user_query(input_data: QueryInput):
     user_input = input_data.query.strip()
 
     if user_input.lower() in ["exit", "quit"]:
-        return {"response": "Session terminated. Thank you for using VAHEI 2.0."}
+        return {"response": "Session terminated. Thank you for using VAHEI 2.0.", "followups": []}
 
     # Handle special commands (debug, stats, etc.)
     special_response = chatbot.handle_special_commands(user_input)
     if special_response:
-        return {"response": special_response}
+        return {"response": special_response, "followups": []}
 
     # Generate response from RAG pipeline
     response = chatbot.generate_response(user_input)
-    return {"response": response}
+    
+    # Generate follow-up suggestions
+    followups = chatbot.suggest_followups(user_input, response)
+    if followups is None:
+        followups = []
+    
+    return {"response": response, "followups": followups}
+
 
 @app.get("/health")
 async def health_check():

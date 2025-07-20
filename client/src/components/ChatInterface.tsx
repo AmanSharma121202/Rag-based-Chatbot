@@ -14,7 +14,7 @@ interface Message {
 }
 
 interface ChatInterfaceProps {
-  onSendMessage?: (message: string) => Promise<string>;
+  onSendMessage?: (message: string) => Promise<{ response: string; followups: string[] }>;
 }
 
 const ChatInterface: React.FC<ChatInterfaceProps> = ({ onSendMessage }) => {
@@ -29,6 +29,9 @@ const ChatInterface: React.FC<ChatInterfaceProps> = ({ onSendMessage }) => {
   const [inputValue, setInputValue] = useState('');
   const [isLoading, setIsLoading] = useState(false);
   const [isMinimized, setIsMinimized] = useState(false);
+
+  const [followupQuestions, setFollowupQuestions] = useState<string[]>([]);
+
   const messagesEndRef = useRef<HTMLDivElement>(null);
 
   const scrollToBottom = () => {
@@ -55,9 +58,12 @@ const ChatInterface: React.FC<ChatInterfaceProps> = ({ onSendMessage }) => {
 
     try {
       let botResponse = "Thank you for your message. I'm here to help with Foreign Trade Policy queries.";
+      let followups: string[] = [];
       
       if (onSendMessage) {
-        botResponse = await onSendMessage(inputValue);
+        const result = await onSendMessage(inputValue);
+        botResponse = result.response;
+        followups = result.followups || [];
       }
 
       const botMessage: Message = {
@@ -68,6 +74,7 @@ const ChatInterface: React.FC<ChatInterfaceProps> = ({ onSendMessage }) => {
       };
 
       setMessages(prev => [...prev, botMessage]);
+      setFollowupQuestions(followups);
     } catch (error) {
       console.error('Error sending message:', error);
       const errorMessage: Message = {
@@ -77,6 +84,7 @@ const ChatInterface: React.FC<ChatInterfaceProps> = ({ onSendMessage }) => {
         timestamp: new Date()
       };
       setMessages(prev => [...prev, errorMessage]);
+      setFollowupQuestions([]);
     }
 
     setIsLoading(false);
@@ -88,6 +96,17 @@ const ChatInterface: React.FC<ChatInterfaceProps> = ({ onSendMessage }) => {
       handleSendMessage();
     }
   };
+
+
+  const handleUserQuery = (query: string) => {
+    setInputValue(query);
+    setFollowupQuestions([]); // Clear current followups when user selects one
+    // Automatically send the query
+    setTimeout(() => {
+      handleSendMessage();
+    }, 100);
+  };
+
 
   return (
     <div className={`fixed bottom-4 right-4 z-50 transition-all duration-300 ${
@@ -212,7 +231,13 @@ const ChatInterface: React.FC<ChatInterfaceProps> = ({ onSendMessage }) => {
             <div className="flex space-x-2">
               <Input
                 value={inputValue}
-                onChange={(e) => setInputValue(e.target.value)}
+                onChange={(e) => {
+                  setInputValue(e.target.value);
+                  // Clear followups when user starts typing a new message
+                  if (e.target.value !== inputValue && followupQuestions.length > 0) {
+                    setFollowupQuestions([]);
+                  }
+                }}
                 onKeyPress={handleKeyPress}
                 placeholder="Type your message..."
                 className="flex-1"
@@ -227,17 +252,43 @@ const ChatInterface: React.FC<ChatInterfaceProps> = ({ onSendMessage }) => {
               </Button>
             </div>
             
+
+            {/* Followup Questions */}
+            {followupQuestions.length > 0 && (
+              <div className="mt-3">
+                <p className="text-xs text-gray-500 mb-2">Quick questions:</p>
+                <div className="flex flex-wrap gap-2">
+                  {followupQuestions.slice(0, 3).map((q, index) => (
+                    <Button
+                      key={index}
+                      onClick={() => handleUserQuery(q)}
+                      variant="outline"
+                      size="sm"
+                      className="text-xs px-2 py-1 h-auto bg-white hover:bg-purple-50 hover:border-purple-300 border-gray-300 text-gray-700 hover:text-purple-700 transition-colors duration-200 max-w-full text-left whitespace-normal"
+                      disabled={isLoading}
+                      title={q} // Show full text on hover
+                    >
+                      <div className="prose prose-sm max-w-none text-inherit">
+                        <ReactMarkdown
+                          components={{
+                            p: ({ children }) => <span>{children}</span>,
+                            strong: ({ children }) => <strong className="font-semibold">{children}</strong>,
+                            em: ({ children }) => <em className="italic">{children}</em>,
+                            code: ({ children }) => <code className="bg-gray-200 px-1 py-0.5 rounded text-xs">{children}</code>,
+                          }}
+                        >
+                          {q.length > 50 ? `${q.substring(0, 47)}...` : q}
+                        </ReactMarkdown>
+                      </div>
+                    </Button>
+                  ))}
+                </div>
+              </div>
+            )}
+            
+            
             {/* Footer */}
             <div className="mt-3 text-center">
-              <p className="text-xs text-gray-500 mb-1">Was I helpful?</p>
-              <div className="flex justify-center space-x-2">
-                <Button variant="outline" size="sm" className="text-xs px-3 py-1 h-6">
-                  Yes
-                </Button>
-                <Button variant="outline" size="sm" className="text-xs px-3 py-1 h-6">
-                  No
-                </Button>
-              </div>
               <p className="text-xs text-gray-400 mt-2 leading-tight">
                 *Responses provided by chatbot are informative in nature. No legal claims can be made on the basis of chatbot responses. Users should refer policy documents for legal position.
               </p>

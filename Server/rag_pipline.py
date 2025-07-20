@@ -4,8 +4,7 @@ import logging
 from dotenv import load_dotenv
 from langchain_google_genai import GoogleGenerativeAIEmbeddings
 from langchain_community.vectorstores import Chroma
-from langchain_community.llms import ollama
-from langchain_huggingface import HuggingFaceEndpoint,ChatHuggingFace
+from langchain_core.output_parsers import StrOutputParser
 from langchain.chains.combine_documents import create_stuff_documents_chain
 from langchain.chains import create_history_aware_retriever, create_retrieval_chain
 from langchain_core.prompts import ChatPromptTemplate, MessagesPlaceholder
@@ -14,6 +13,12 @@ from langchain_core.chat_history import BaseChatMessageHistory
 from langchain_core.runnables.history import RunnableWithMessageHistory
 from langchain_core.documents import Document
 from typing import List, Dict, Any
+from langchain_core.runnables import RunnableMap
+from langchain_core.runnables.base import RunnableLambda
+
+import os
+from langchain_community.llms import Ollama
+
 
 # Set up logging
 logging.basicConfig(level=logging.INFO)
@@ -26,6 +31,7 @@ if not GOOGLE_KEY:
     raise EnvironmentError("Missing Google API Key. Set GOOGLE_API_KEY or GEMINI_API_KEY in your .env")
 os.environ["GOOGLE_API_KEY"] = GOOGLE_KEY
 
+
 class EnhancedRetriever:
     """Enhanced retriever with semantic chunking integration"""
     
@@ -36,7 +42,8 @@ class EnhancedRetriever:
         self.vector_store = None
         self.retriever = None
         self._initialize_vector_store()
-    
+
+
     def _initialize_vector_store(self):
         """Initialize the vector store and retriever"""
         try:
@@ -51,7 +58,7 @@ class EnhancedRetriever:
             self.retriever = self.vector_store.as_retriever(
                 search_type="mmr",  # Maximum Marginal Relevance for diversity
                 search_kwargs={
-                    "k": 5,  # Retrieve more chunks initially
+                    "k": 7,  # Retrieve more chunks initially
                     "fetch_k": 10,  # Fetch more for MMR selection
                     "lambda_mult": 0.7  # Balance between relevance and diversity
                 }
@@ -60,7 +67,8 @@ class EnhancedRetriever:
         except Exception as e:
             logger.error(f"Failed to initialize vector store: {e}")
             raise
-    
+
+
     def get_retriever_with_source_filtering(self, source_types: List[str] = None) -> Any:
         """Get retriever with optional source type filtering"""
         if source_types:
@@ -78,7 +86,8 @@ class EnhancedRetriever:
             return filtered_retriever
         logger.info("Returning default retriever (no source filtering)")
         return self.retriever
-    
+
+
     def debug_retrieval(self, query: str, k: int = 3) -> List[Dict[str, Any]]:
         """Debug function to inspect retrieved documents"""
         logger.info(f"Running debug retrieval for query: '{query}' with k={k}")
@@ -99,20 +108,14 @@ class EnhancedRetriever:
                 }
             })
         return debug_info
+    
+
 
 # Initialize the enhanced retriever
 enhanced_retriever = EnhancedRetriever()
 retriever = enhanced_retriever.retriever
 
-# LLM instance
-llm = HuggingFaceEndpoint(
-    repo_id="microsoft/Phi-3-mini-4k-instruct",
-    task="text-generation",
-    max_new_tokens=512,
-    do_sample=False,
-    repetition_penalty=1.03,
-)
-
+llm = Ollama(model="gemma2:9b")
 
 ######### Enhanced Prompts ##########
 
@@ -140,15 +143,7 @@ system_prompt = (
 " OUTPUT FORMAT"
 "**Answer:**"
 "{{your well-structured answer or fallback message here}}"
-
-"**Follow-up Questions:**"
-"1. {{Relevant short follow-up based on topic}}"
-"2. {{Another helpful question user may ask next}}"
-"3. {{Additional related question to continue the inquiry}}"
-
-"follow-up questions should be relevant to the topic and help guide the user to more information, but do not suggest follow-ups if the answer is not found in the context."
-"If the you are unable to answer the question then dont suggest any follow-up questions."
-
+   
 " BEST PRACTICES"
 "- Avoid repeating users question unless needed for clarity."
 "- Do not invent policy numbers or form names."
@@ -190,13 +185,69 @@ qa_prompt = ChatPromptTemplate.from_messages([
     ("human", "{input}"),
 ])
 
+# Enhanced follow-up question generation prompt
+followup_prompt = ChatPromptTemplate.from_messages([
+    ("system", 
+     "Based on the context, suggest 2 highly relevant follow-up questions the user might ask next. "
+     "Questions should be short and informative. Do not repeat the original question. "
+     "Only include questions if the context is relevant."),
+    ("human", "Context:\n{context}\nOriginal Question:\n{input}")
+])
+
+
 ####### Enhanced Retrieval + Generation Chains ##########
 
 # Create enhanced history-aware retriever
-history_aware_retriever = create_history_aware_retriever(llm, retriever, contextualize_q_prompt)
+history_aware_retriever = create_history_aware_retriever(
+    llm=llm,
+    retriever=retriever,
+    prompt=contextualize_q_prompt  # <-- fixed here!
+)
+
+# Function to generate follow-up questions based on context
+followup_chain = followup_prompt | llm | StrOutputParser()
+
+# Function to generate follow-up questions based on context
+def retrieve_and_split_docs(inputs: dict) -> dict:
+    all_docs = history_aware_retriever.invoke(inputs)
+    primary_docs = all_docs[:5]
+    followup_docs = all_docs[5:7]
+    return {"primary_docs": primary_docs, "followup_docs": followup_docs}
+
+split_docs_chain = RunnableLambda(retrieve_and_split_docs)
+
+def generate_followups(query, docs):
+    if not docs:
+        return []
+    context_text = "\n\n".join([doc.page_content for doc in docs])
+    return followup_chain.invoke({"context": context_text, "input": query}).split("\n")
+
+def rag_with_followups(input_text: str, chat_history: List[dict]) -> dict:
+    inputs = {"input": input_text, "chat_history": chat_history}
+    doc_dict = split_docs_chain.invoke(inputs)
+
+    # Generate answer from top 5
+    answer = question_answer_chain.invoke({
+        "input": input_text,
+        "chat_history": chat_history,
+        "context": doc_dict["primary_docs"]
+    })
+
+    # Check if answer is fallback
+    fallback = "I cannot find sufficient information" in answer
+
+    followups = []
+    if not fallback:
+        followups = generate_followups(input_text, doc_dict["followup_docs"])
+
+    return {
+        "answer": answer,
+        "followup_questions": followups
+    }
 
 # Create the question-answering chain
 question_answer_chain = create_stuff_documents_chain(llm, qa_prompt)
+
 
 # Enhanced debug function with better formatting
 def debug_retriever(inputs):
@@ -236,8 +287,10 @@ def debug_similarity_search(query: str, k: int = 3):
         print("-" * 40)
     return debug_info
 
+
 # Create the retrieval chain
 rag_chain_hist = create_retrieval_chain(history_aware_retriever, question_answer_chain)
+
 
 ######### Enhanced Session Management ##########
 
@@ -262,8 +315,8 @@ class SessionManager:
 
 session_manager = SessionManager()
 
-####### Enhanced Guardrail System #######
 
+####### Enhanced Guardrail System #######
 def enhanced_context_guard(inputs: dict, output: dict) -> dict:
     """Enhanced guardrail with better context validation"""
     answer = output.get("answer", "")
@@ -288,6 +341,7 @@ def enhanced_context_guard(inputs: dict, output: dict) -> dict:
     
     return output
 
+
 ####### Enhanced Conversational RAG Chain #######
 
 # Create the enhanced conversational RAG chain
@@ -298,6 +352,7 @@ conversational_rag_chain = RunnableWithMessageHistory(
     history_messages_key="chat_history",
     output_messages_key="answer",
 )
+
 
 ####### Utility Functions #######
 
@@ -340,5 +395,6 @@ __all__ = [
     "debug_retriever",
     "debug_similarity_search",
     "get_collection_stats",
-    "search_by_metadata"
+    "search_by_metadata",
+    "rag_with_followups"
 ]

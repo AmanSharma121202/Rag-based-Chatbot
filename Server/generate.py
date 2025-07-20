@@ -11,6 +11,7 @@ from rag_pipline import (
     debug_retriever,
     debug_similarity_search,
     get_collection_stats,
+    rag_with_followups,
 )
 
 # Set up logging
@@ -147,6 +148,46 @@ class ChatbotInterface:
             logger.error(f"Error generating response: {e}")
             return "I apologize, but I encountered an error while processing your request. Please try again."
     
+    def suggest_followups(self, user_input: str, response: str) -> Optional[list[str]]:
+        """Suggest follow-up questions based on current context"""
+        try:
+            # Use the working rag_with_followups function
+            from rag_pipline import rag_with_followups
+            
+            # Get the current session's chat history
+            session_history = session_manager.get_session_history(self.session_id)
+            chat_history = []
+            
+            # Convert session history to the expected format
+            for message in session_history.messages:
+                if hasattr(message, 'type'):
+                    chat_history.append({
+                        "role": "human" if message.type == "human" else "ai",
+                        "content": message.content
+                    })
+            
+            # Generate response with follow-ups
+            result = rag_with_followups(user_input, chat_history)
+            followups = result.get('followup_questions', [])
+            
+            # Clean up the follow-ups (remove empty lines and formatting)
+            cleaned_followups = []
+            for followup in followups:
+                followup = followup.strip()
+                if followup and not followup.startswith('Here are') and not followup.isdigit() and followup != "Let me know if you'd like more follow-up questions!":
+                    # Remove numbering like "1. " or "2. "
+                    if followup and len(followup) > 3 and followup[1:3] == '. ':
+                        followup = followup[3:].strip()
+                    if followup and followup.startswith('**') and followup.endswith('**'):
+                        followup = followup[2:-2].strip()
+                    if followup:
+                        cleaned_followups.append(followup)
+            
+            return cleaned_followups[:3]  # Return max 3 follow-ups
+        except Exception as e:
+            logger.warning(f"Follow-up suggestion error: {e}")
+            return None
+
     def handle_special_commands(self, user_input: str) -> Optional[str]:
         """Handle special commands like debug, stats, etc."""
         command = user_input.lower().strip()
@@ -262,12 +303,20 @@ Tips:
                 print("🤔 Thinking...")
                 bot_response = self.generate_response(user_input)
                 print(f"🤖 Bot: {bot_response}\n")
+                # Suggest follow-up questions
+                followups = self.suggest_followups(user_input, bot_response)
+                if followups:
+                    print("💡 Follow-up suggestions:")
+                    for i, f in enumerate(followups, 1):
+                        print(f"   {i}. {f}")
+                    print()  
                 
                 # Offer text-to-speech
-                if self.voice_manager.voice_available:
-                    play_audio = input("🔊 Play audio response? (y/n): ").strip().lower()
-                    if play_audio == "y":
-                        self.voice_manager.speak_text(bot_response)
+                if self.voice_manager.voice_available and followups:
+                    play_fup_audio = input("🔊 Read follow-up suggestions aloud? (y/n): ").strip().lower()
+                    if play_fup_audio == "y":
+                        fup_text = "Here are some suggested follow-up questions: " + ", ".join(followups)
+                        self.voice_manager.speak_text(fup_text)
                 
             except KeyboardInterrupt:
                 print("\n\n👋 Goodbye! Session ended by user.")

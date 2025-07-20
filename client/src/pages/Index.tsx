@@ -6,7 +6,7 @@ const Index = () => {
   const [showChat, setShowChat] = useState(false); // 👈 control visibility
 
   const API_ENDPOINT = "http://127.0.0.1:8000/chat";
-  const handleSendMessage = async (message: string): Promise<string> => {
+  const handleSendMessage = async (message: string): Promise<{ response: string; followups: string[] }> => {
     try {
       const res = await fetch(API_ENDPOINT, {
         method: "POST",
@@ -21,10 +21,16 @@ const Index = () => {
       }
 
       const data = await res.json();
-      return data.response || "No response from backend.";
+      return {
+        response: data.response || "No response from backend.",
+        followups: data.followups || []
+      };
     } catch (err) {
       console.error("Backend error:", err);
-      return "Failed to connect to backend. Please make sure the server is running.";
+      return {
+        response: "Failed to connect to backend. Please make sure the server is running.",
+        followups: []
+      };
     }
   };
 
