@@ -73,6 +73,7 @@ class EnhancedRetriever:
                     "fetch_k": 10,  # Fetch more for MMR selection
                     "lambda_mult": 0.7  # Balance between relevance and diversity
                 }
+                
             )
             logger.info("Vector store and retriever initialized successfully")
         except Exception as e:
@@ -122,20 +123,6 @@ enhanced_retriever = EnhancedRetriever()
 retriever = enhanced_retriever.retriever
 
 
-# Alternative for remote inference (uncomment to use):
-# @retry(stop=stop_after_attempt(3), wait=wait_exponential(multiplier=1, min=4, max=10))
-# def initialize_llm():
-#     return HuggingFaceHub(
-#         repo_id="mistralai/Mixtral-8x7B-Instruct-v0.1",
-#         model_kwargs={"temperature": 0.1, "max_length": 500},
-#         huggingfacehub_api_token=HUGGINGFACEHUB_API_TOKEN
-#     )
-# try:
-#     llm = initialize_llm()
-#     logger.info("Successfully initialized Hugging Face Hub model: mistralai/Mixtral-8x7B-Instruct-v0.1")
-# except Exception as e:
-#     logger.error(f"Failed to initialize Hugging Face Hub model: {e}")
-#     raise
 
 
 # Enhanced system prompt that works better with semantic chunks
