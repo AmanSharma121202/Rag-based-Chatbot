@@ -19542,6 +19542,14 @@ AASHIMA[dot]25[at]NIC[dot]IN
 106
 
 38
+HEERA  LALA
+Assistant DGFT
+RA DELHI
+HEERA[dot]DGFT[at]NIC[dot]IN
+
+117
+
+39
 Hemant  Kumar
 Assistant DGFT
 RA DELHI
@@ -19549,7 +19557,7 @@ hkzero[dot]7[at]gov[dot]in
 23379118
 103
 
-39
+40
 HEMLATA  HEDAU
 Assistant DGFT
 RA DELHI
@@ -19557,79 +19565,71 @@ H[dot]HEDAU[at]NIC[dot]IN
 
 127
 
-40
+41
 RAJIV   GOYAL
 Assistant DGFT
 RA DELHI
 RAJIV[dot]GOEL68[at]NIC[dot]IN
 
-41
+42
 RANJANA  JAIN
 Assistant DGFT (OL)
 RA DELHI
 RANJANA[dot]JAIN[at]NIC[dot]IN
 
-42
+43
 RIMA  AWASTHI
 Assistant DGFT
 RA DELHI
 REEMA[dot]AWASTHI[at]NIC[dot]IN
 
 120
+Metadata: {'source': 'https://www.dgft.gov.in/CP/?opt=dgft-ra-details', 'title': 'Directorate General of Foreign Trade | Ministry of\r\n\tCommerce and Industry | Government of India', 'language': 'No language found.', 'source_url': 'https://www.dgft.gov.in/CP/?opt=dgft-ra-details', 'source_type': 'web', 'source_id': 'https://www.dgft.gov.in/CP/?opt=dgft-ra-details', 'chunk_index': 9, 'char_count': 793, 'word_count': 91, 'chunk_start': 6844, 'chunk_end': 7639}
 
-43
+=== CHUNK 868 ===
+Content: 44
 V RAJU RAMAN
 Assistant DGFT
 RA DELHI
 V[dot]RAJURAMAN[at]NIC[dot]IN
-Metadata: {'source': 'https://www.dgft.gov.in/CP/?opt=dgft-ra-details', 'title': 'Directorate General of Foreign Trade | Ministry of\r\n\tCommerce and Industry | Government of India', 'language': 'No language found.', 'source_url': 'https://www.dgft.gov.in/CP/?opt=dgft-ra-details', 'source_type': 'web', 'source_id': 'https://www.dgft.gov.in/CP/?opt=dgft-ra-details', 'chunk_index': 9, 'char_count': 790, 'word_count': 91, 'chunk_start': 6844, 'chunk_end': 7636}
 
-=== CHUNK 868 ===
-Content: 44
+45
+VANITA  RELAN
+Assistant DGFT
+RA DELHI
+VANITA[dot]RELAN[at]NIC[dot]IN
+
+115
+
+46
 G  SHEELA
 FTDO
 RA DELHI
 G[dot]SHEELA[at]NIC[dot]IN
 
-45
-HEERA  LALA
-FTDO
-RA DELHI
-HEERA[dot]DGFT[at]NIC[dot]IN
-
-117
-
-46
+47
 MAHAVIR  NATH
 FTDO
 RA DELHI
 MAHAVIR[dot]NATH[at]NIC[dot]IN
 
-47
+48
 PROMILA  KAPOOR
 FTDO
 RA DELHI
 PROMILLA[dot]K[at]NIC[dot]IN
 
-48
+49
 RAKESH SINGH RAWAT
 FTDO
 RA DELHI
 RS[dot]RAWAT68[at]NIC[dot]IN
 
-49
+50
 SUNITA  JOSHI
 FTDO
 RA DELHI
 SUNITA[dot]JOSHI[at]NIC[dot]IN
-
-50
-VANITA  RELAN
-FTDO
-RA DELHI
-VANITA[dot]RELAN[at]NIC[dot]IN
-
-115
 
 51
 VEENA RANI GUPTA
@@ -19656,7 +19656,7 @@ AJAI KUMAR SRIVASTAVA
 FTDO
 RA GUWAHATI
 AJAIK[dot]SRIVASTAVA[at]NIC[dot]IN
-Metadata: {'source': 'https://www.dgft.gov.in/CP/?opt=dgft-ra-details', 'title': 'Directorate General of Foreign Trade | Ministry of\r\n\tCommerce and Industry | Government of India', 'language': 'No language found.', 'source_url': 'https://www.dgft.gov.in/CP/?opt=dgft-ra-details', 'source_type': 'web', 'source_id': 'https://www.dgft.gov.in/CP/?opt=dgft-ra-details', 'chunk_index': 10, 'char_count': 744, 'word_count': 87, 'chunk_start': 7636, 'chunk_end': 8382}
+Metadata: {'source': 'https://www.dgft.gov.in/CP/?opt=dgft-ra-details', 'title': 'Directorate General of Foreign Trade | Ministry of\r\n\tCommerce and Industry | Government of India', 'language': 'No language found.', 'source_url': 'https://www.dgft.gov.in/CP/?opt=dgft-ra-details', 'source_type': 'web', 'source_id': 'https://www.dgft.gov.in/CP/?opt=dgft-ra-details', 'chunk_index': 10, 'char_count': 761, 'word_count': 89, 'chunk_start': 7639, 'chunk_end': 8402}
 
 === CHUNK 869 ===
 Content: 55
@@ -19720,7 +19720,7 @@ PRAVEEN  KUMAR
 Joint DGFT
 RA INDORE
 PRAVEEN[dot]KUMAR82[at]NIC[dot]IN
-Metadata: {'source': 'https://www.dgft.gov.in/CP/?opt=dgft-ra-details', 'title': 'Directorate General of Foreign Trade | Ministry of\r\n\tCommerce and Industry | Government of India', 'language': 'No language found.', 'source_url': 'https://www.dgft.gov.in/CP/?opt=dgft-ra-details', 'source_type': 'web', 'source_id': 'https://www.dgft.gov.in/CP/?opt=dgft-ra-details', 'chunk_index': 11, 'char_count': 721, 'word_count': 80, 'chunk_start': 8382, 'chunk_end': 9105}
+Metadata: {'source': 'https://www.dgft.gov.in/CP/?opt=dgft-ra-details', 'title': 'Directorate General of Foreign Trade | Ministry of\r\n\tCommerce and Industry | Government of India', 'language': 'No language found.', 'source_url': 'https://www.dgft.gov.in/CP/?opt=dgft-ra-details', 'source_type': 'web', 'source_id': 'https://www.dgft.gov.in/CP/?opt=dgft-ra-details', 'chunk_index': 11, 'char_count': 721, 'word_count': 80, 'chunk_start': 8402, 'chunk_end': 9125}
 
 === CHUNK 870 ===
 Content: 64
@@ -19752,76 +19752,88 @@ ABHISHEK[dot]SHARMA[at]NIC[dot]IN
 36
 
 68
+MD MOIN  AFAQUE
+Joint DGFT
+RA JAIPUR
+AFAQUE[dot]MOIN[at]GOV[dot]IN
+
+69
 KAILASH CHAND MEENA
 Assistant DGFT
 RA JAIPUR
 MEENA[dot]KAILASH[at]NIC[dot]IN
 
-69
+70
 PRADIP KUMAR SHARMA
 FTDO
 RA JAIPUR
 PK[dot]SHARMA66[at]NIC[dot]IN
 
-70
+71
 RAM  PRAKASH
 FTDO
 RA JAIPUR
 RAM[dot]PRAKASH70[at]NIC[dot]IN
 
-71
+72
 UTPAL KUMAR ACHARYA
 Joint DGFT
 RA JAMMU
 UTPAL[dot]ACHARYA[at]NIC[dot]IN
 
-72
+73
+VIVEK KUMAR  SABHARWAL
+Assistant DGFT
+RA JAMMU
+VK[dot]SABHARWAL[at]NIC[dot]IN
+Metadata: {'source': 'https://www.dgft.gov.in/CP/?opt=dgft-ra-details', 'title': 'Directorate General of Foreign Trade | Ministry of\r\n\tCommerce and Industry | Government of India', 'language': 'No language found.', 'source_url': 'https://www.dgft.gov.in/CP/?opt=dgft-ra-details', 'source_type': 'web', 'source_id': 'https://www.dgft.gov.in/CP/?opt=dgft-ra-details', 'chunk_index': 12, 'char_count': 754, 'word_count': 87, 'chunk_start': 9125, 'chunk_end': 9881}
+
+=== CHUNK 871 ===
+Content: 74
 Rajiv Kumar  Soni 
 Joint DGFT
 RA KANPUR
 rajiv[dot]soni[at]nic[dot]in
 
-73
+75
 RAJAN   JOSHI
 Assistant DGFT
 RA KANPUR
 RAJAN[dot]JOSHI[at]NIC[dot]IN
 
 123
-Metadata: {'source': 'https://www.dgft.gov.in/CP/?opt=dgft-ra-details', 'title': 'Directorate General of Foreign Trade | Ministry of\r\n\tCommerce and Industry | Government of India', 'language': 'No language found.', 'source_url': 'https://www.dgft.gov.in/CP/?opt=dgft-ra-details', 'source_type': 'web', 'source_id': 'https://www.dgft.gov.in/CP/?opt=dgft-ra-details', 'chunk_index': 12, 'char_count': 752, 'word_count': 87, 'chunk_start': 9105, 'chunk_end': 9859}
 
-=== CHUNK 871 ===
-Content: 74
+76
 RAKESH  KUMAR
 Assistant DGFT
 RA KANPUR
 RAKESH[dot]KUMAR66[at]NIC[dot]IN
 
-75
+77
 SUJEET KUMAR NIRALA
 FTDO
 RA KANPUR
 S[dot]NIRALA[at]NIC[dot]IN
 
-76
+78
 SRIDHAR  DHARAMARAJAN
 Additional DGFT
 RA KOCHI
 SRIDHAR[dot]D[at]NIC[dot]IN
 
-77
+79
 HASSAN USAID ASSAIN
 Deputy DGFT
 RA KOCHI
 hassan[dot]usaid[at]gov[dot]in
 
-78
+80
 KUMARI SREELATHA R.
 FTDO
 RA KOCHI
 LATHA[dot]REGHU[at]NIC[dot]IN
 
-79
+81
 MINI  DILEEP
 FTDO
 RA KOCHI
@@ -19829,53 +19841,53 @@ MINI[dot]DILEEP[at]NIC[dot]IN
 04842427397
 104
 
-80
+82
 HARDEEP   SINGH
 Additional DGFT
 RA KOLKATA
 HARDEEP[dot]SINGH[at]NIC[dot]IN
 
-81
+83
 DR. SAMPATH  KUMAR
 Joint DGFT
 RA KOLKATA
 sampath[dot]r[at]nic[dot]in
+Metadata: {'source': 'https://www.dgft.gov.in/CP/?opt=dgft-ra-details', 'title': 'Directorate General of Foreign Trade | Ministry of\r\n\tCommerce and Industry | Government of India', 'language': 'No language found.', 'source_url': 'https://www.dgft.gov.in/CP/?opt=dgft-ra-details', 'source_type': 'web', 'source_id': 'https://www.dgft.gov.in/CP/?opt=dgft-ra-details', 'chunk_index': 13, 'char_count': 743, 'word_count': 85, 'chunk_start': 9881, 'chunk_end': 10626}
 
-82
+=== CHUNK 872 ===
+Content: 84
 Lakshmi Kanta Halder
 Joint DGFT
 RA KOLKATA
 lakshmikanta[dot]halder[at]gov[dot]in
 
-83
+85
 VISHNU  KANT
 Joint DGFT
 RA KOLKATA
 VISHNU[dot]SHYAMLI[at]GOV[dot]IN
 25506297/6949
 13
-Metadata: {'source': 'https://www.dgft.gov.in/CP/?opt=dgft-ra-details', 'title': 'Directorate General of Foreign Trade | Ministry of\r\n\tCommerce and Industry | Government of India', 'language': 'No language found.', 'source_url': 'https://www.dgft.gov.in/CP/?opt=dgft-ra-details', 'source_type': 'web', 'source_id': 'https://www.dgft.gov.in/CP/?opt=dgft-ra-details', 'chunk_index': 13, 'char_count': 766, 'word_count': 86, 'chunk_start': 9859, 'chunk_end': 10627}
 
-=== CHUNK 872 ===
-Content: 84
+86
 HIMANSHU  DHAR PANDEY
 Deputy DGFT
 RA KOLKATA
 HIMANSHU[dot]DP[at]NIC[dot]IN
 
-85
+87
 RAMJI LAL MEENA
 Deputy DGFT
 RA KOLKATA
 RL[dot]MEENA65[at]NIC[dot]IN
 
-86
+88
 DEEPAK KUMAR PANDA
 Assistant DGFT (OL)
 RA KOLKATA
 DEEPAKKR[dot]PANDA[at]NIC[dot]IN
 
-87
+89
 R  KUMAR
 Assistant DGFT
 RA KOLKATA
@@ -19883,251 +19895,257 @@ R[dot]KUMAR68[at]NIC[dot]IN
 044-28283400
 204
 
-88
+90
 B SAJI KUMAR
 FTDO
 RA KOLKATA
 SAJI[dot]KUMAR[at]GOV[dot]IN
 
-89
+91
 SHYAM CHARAN KISKU
 FTDO
 RA KOLKATA
 SHYAM[dot]KISKU[at]GOV[dot]IN
 
-90
+92
 SURESH CHANDRA ROUT
 FTDO
 RA KOLKATA
 SURESH[dot]ROUT[at]NIC[dot]IN
 
-91
+93
 SUSANTA  SEN
 FTDO
 RA KOLKATA
 susanta[dot]sen[at]gov[dot]in
+Metadata: {'source': 'https://www.dgft.gov.in/CP/?opt=dgft-ra-details', 'title': 'Directorate General of Foreign Trade | Ministry of\r\n\tCommerce and Industry | Government of India', 'language': 'No language found.', 'source_url': 'https://www.dgft.gov.in/CP/?opt=dgft-ra-details', 'source_type': 'web', 'source_id': 'https://www.dgft.gov.in/CP/?opt=dgft-ra-details', 'chunk_index': 14, 'char_count': 758, 'word_count': 88, 'chunk_start': 10626, 'chunk_end': 11386}
 
-92
+=== CHUNK 873 ===
+Content: 94
 UTPAL KUMAR ACHARYA
 Joint DGFT
 RA LUDHIANA
 UTPAL[dot]ACHARYA[at]NIC[dot]IN
 
-93
+95
 VIVEK KUMAR  SABHARWAL
 Assistant DGFT
 RA LUDHIANA
 VK[dot]SABHARWAL[at]NIC[dot]IN
-Metadata: {'source': 'https://www.dgft.gov.in/CP/?opt=dgft-ra-details', 'title': 'Directorate General of Foreign Trade | Ministry of\r\n\tCommerce and Industry | Government of India', 'language': 'No language found.', 'source_url': 'https://www.dgft.gov.in/CP/?opt=dgft-ra-details', 'source_type': 'web', 'source_id': 'https://www.dgft.gov.in/CP/?opt=dgft-ra-details', 'chunk_index': 14, 'char_count': 748, 'word_count': 87, 'chunk_start': 10627, 'chunk_end': 11377}
 
-=== CHUNK 873 ===
-Content: 94
+96
 PAWAN  KUMAR
 FTDO
 RA LUDHIANA
 PAWANKR[dot]D[at]NIC[dot]IN
 
-95
+97
 R.K.  MISHRA
 Additional DGFT
 RA MUMBAI
 rk[dot]mishra70[at]gov[dot]in
 
-96
+98
 Rakesh  Kumar
 Additional DGFT
 RA MUMBAI
 r[dot]kumar73[at]nic[dot]in
 
-97
+99
 ALOK  KUMAR
 Director
 RA MUMBAI
 alok[dot]kumar81[at]nic[dot]in
 
-98
+100
 AMIT  SHARMA
 Joint DGFT
 RA MUMBAI
 A[dot]SHARMA25[at]NIC[dot]IN
 
-99
+101
 PRAVEEN  KUMAR
 Joint DGFT
 RA MUMBAI
 PRAVEEN[dot]KUMAR82[at]NIC[dot]IN
 
-100
+102
 RAMESH CHANABASAPPA HOLEYACHI
 Joint DGFT
 RA MUMBAI
 HOLEYACHI[dot]RAMESH[at]NIC[dot]IN
 
-101
+103
 Ashwin  Golapkar
 Deputy DGFT
 RA MUMBAI
 ashwin[dot]golapkar[at]gov[dot]in
 25506297
 15
+Metadata: {'source': 'https://www.dgft.gov.in/CP/?opt=dgft-ra-details', 'title': 'Directorate General of Foreign Trade | Ministry of\r\n\tCommerce and Industry | Government of India', 'language': 'No language found.', 'source_url': 'https://www.dgft.gov.in/CP/?opt=dgft-ra-details', 'source_type': 'web', 'source_id': 'https://www.dgft.gov.in/CP/?opt=dgft-ra-details', 'chunk_index': 15, 'char_count': 759, 'word_count': 83, 'chunk_start': 11386, 'chunk_end': 12147}
 
-102
+=== CHUNK 874 ===
+Content: 104
 BACKIYAVELU  MUTHARUSU
 Deputy DGFT
 RA MUMBAI
 BACKIYAVELU[dot]M[at]GOV[dot]IN
 
-103
+105
 DEVENDER  SINGH
 Deputy DGFT
 RA MUMBAI
 DS[dot]AHLAWAT[at]NIC[dot]IN
-Metadata: {'source': 'https://www.dgft.gov.in/CP/?opt=dgft-ra-details', 'title': 'Directorate General of Foreign Trade | Ministry of\r\n\tCommerce and Industry | Government of India', 'language': 'No language found.', 'source_url': 'https://www.dgft.gov.in/CP/?opt=dgft-ra-details', 'source_type': 'web', 'source_id': 'https://www.dgft.gov.in/CP/?opt=dgft-ra-details', 'chunk_index': 15, 'char_count': 747, 'word_count': 81, 'chunk_start': 11377, 'chunk_end': 12126}
 
-=== CHUNK 874 ===
-Content: 104
+106
 GOPAL KRISHNA MISHRA
 Deputy DGFT
 RA MUMBAI
 MISHRA[dot]GK[at]NIC[dot]IN
 
-105
+107
 VISHWAJEET GAJANAN CHIMANKAR
 Deputy DGFT
 RA MUMBAI
 V[dot]CHIMANKAR[at]GOV[dot]IN
 
-106
+108
 DEVA   NAND
 Assistant DGFT
 RA MUMBAI
 DEVANAND[dot]DGFT[at]NIC[dot]IN
 
-107
+109
 JAGDISH NARAYAN MEENA
 Assistant DGFT
 RA MUMBAI
 JN[dot]MEENA[at]NIC[dot]IN
 
-108
+110
+NARESH NARAYAN KAPSE
+Assistant DGFT
+RA MUMBAI
+NARESH[dot]KAPSE[at]GOV[dot]IN
+
+111
+PLATO BRUMAN LOBO
+Assistant DGFT
+RA MUMBAI
+PLATO[dot]LOBO30[at]GOV[dot]IN
+
+112
+VENKATESH NARAYAN  RAO
+Assistant DGFT
+RA MUMBAI
+VENKATESHWAR[dot]RAO[at]NIC[dot]IN
+
+113
 AJAY ONKARDEV KORLA
 FTDO
 RA MUMBAI
 AJAY[dot]KORLA[at]GOV[dot]IN
+Metadata: {'source': 'https://www.dgft.gov.in/CP/?opt=dgft-ra-details', 'title': 'Directorate General of Foreign Trade | Ministry of\r\n\tCommerce and Industry | Government of India', 'language': 'No language found.', 'source_url': 'https://www.dgft.gov.in/CP/?opt=dgft-ra-details', 'source_type': 'web', 'source_id': 'https://www.dgft.gov.in/CP/?opt=dgft-ra-details', 'chunk_index': 16, 'char_count': 785, 'word_count': 86, 'chunk_start': 12147, 'chunk_end': 12934}
 
-109
+=== CHUNK 875 ===
+Content: 114
 BABU SHIVRAM WHATKAR
 FTDO
 RA MUMBAI
 BABU[dot]WHATKAR65[at]GOV[dot]IN
 
-110
+115
 BHALCHANDRA WAMAN KAMBLE
 FTDO
 RA MUMBAI
 BW[dot]KAMBLE[at]GOV[dot]IN
 
-111
+116
 CHANDRAKANT RAMA GAWARI
 FTDO
 RA MUMBAI
 CHANDRAKANT[dot]GAWARI[at]NIC[dot]IN
 
-112
+117
 KISHORI  PAI
 FTDO
 RA MUMBAI
 KISHORI[dot]PAI[at]GOV[dot]IN
 
-113
-NARESH NARAYAN KAPSE
-FTDO
-RA MUMBAI
-NARESH[dot]KAPSE[at]GOV[dot]IN
-Metadata: {'source': 'https://www.dgft.gov.in/CP/?opt=dgft-ra-details', 'title': 'Directorate General of Foreign Trade | Ministry of\r\n\tCommerce and Industry | Government of India', 'language': 'No language found.', 'source_url': 'https://www.dgft.gov.in/CP/?opt=dgft-ra-details', 'source_type': 'web', 'source_id': 'https://www.dgft.gov.in/CP/?opt=dgft-ra-details', 'chunk_index': 16, 'char_count': 745, 'word_count': 82, 'chunk_start': 12126, 'chunk_end': 12873}
-
-=== CHUNK 875 ===
-Content: 114
+118
 PLATO BRUMAN LOBO
-FTDO
+Assistant DGFT
 RA MUMBAI
 PLATO[dot]LOBO30[at]GOV[dot]IN
 
-115
+119
 PRAMOD ANANDRAO TAWARE
 FTDO
 RA MUMBAI
 PRAMOD[dot]TAWARE[at]GOV[dot]IN
 
-116
+120
 PRASHANT SUDAM MORE
 FTDO
 RA MUMBAI
 PRASHANT[dot]MORE11[at]GOV[dot]IN
 
-117
+121
 PRIYA SUNILKUMAR MENDIRATTA
 FTDO
 RA MUMBAI
 MENDIRATTA[dot]PRIYA[at]GOV[dot]IN
 
-118
+122
 PUTHAN VETTIL SURESHKUMAR NARAYANAN
 FTDO
 RA MUMBAI
 PVSURESH[dot]19[at]GOV[dot]IN
 
-119
+123
 SUDHA SURESH KUMAR
 FTDO
 RA MUMBAI
 SUDHA[dot]KUMAR66[at]GOV[dot]IN
+Metadata: {'source': 'https://www.dgft.gov.in/CP/?opt=dgft-ra-details', 'title': 'Directorate General of Foreign Trade | Ministry of\r\n\tCommerce and Industry | Government of India', 'language': 'No language found.', 'source_url': 'https://www.dgft.gov.in/CP/?opt=dgft-ra-details', 'source_type': 'web', 'source_id': 'https://www.dgft.gov.in/CP/?opt=dgft-ra-details', 'chunk_index': 17, 'char_count': 757, 'word_count': 81, 'chunk_start': 12934, 'chunk_end': 13693}
 
-120
+=== CHUNK 876 ===
+Content: 124
 SURESH BALKRUSHNA DHAPODKAR
 FTDO
 RA MUMBAI
 SB[dot]DHAPODKAR[at]NIC[dot]IN
 
-121
-VENKATESH NARAYAN  RAO
-FTDO
-RA MUMBAI
-VENKATESHWAR[dot]RAO[at]NIC[dot]IN
-
-122
+125
 PRAVEEN  KUMAR
 Joint DGFT
 RA NAGPUR
 PRAVEEN[dot]KUMAR82[at]NIC[dot]IN
 
-123
+126
 Snehal V Dhokey
 Assistant DGFT
 RA NAGPUR
 snehaldhokey[dot]06[at]gov[dot]in
-Metadata: {'source': 'https://www.dgft.gov.in/CP/?opt=dgft-ra-details', 'title': 'Directorate General of Foreign Trade | Ministry of\r\n\tCommerce and Industry | Government of India', 'language': 'No language found.', 'source_url': 'https://www.dgft.gov.in/CP/?opt=dgft-ra-details', 'source_type': 'web', 'source_id': 'https://www.dgft.gov.in/CP/?opt=dgft-ra-details', 'chunk_index': 17, 'char_count': 768, 'word_count': 82, 'chunk_start': 12873, 'chunk_end': 13643}
 
-=== CHUNK 876 ===
-Content: 124
+127
 JAI  PAL
 Joint DGFT
 RA PANIPAT
 JAI[dot]PAL84[at]NIC[dot]IN
 
-125
+128
 MANJEET  BHATOYA
 Joint DGFT
 RA PANIPAT
 MANJEET[dot]MB[at]NIC[dot]IN
 
-126
+129
 VISHAL  SHARMA
 Joint DGFT
 RA PANIPAT
 vishal[dot]sharma25[at]nic[dot]in
 
-127
+130
 HEMLATA  HEDAU
 Assistant DGFT
 RA PANIPAT
@@ -20135,57 +20153,57 @@ H[dot]HEDAU[at]NIC[dot]IN
 
 127
 
-128
+131
 DOLLY  KALRA
 FTDO
 RA PANIPAT
 DOLLY[dot]KALRA[at]NIC[dot]IN
 
-129
+132
 SANT  LAL
 FTDO
 RA PANIPAT
 LAL[dot]SANT[at]NIC[dot]IN
 
-130
+133
 VISHWAS  B N
 Joint DGFT
 RA PUNE
 VISHWAS[dot]BN[at]NIC[dot]IN
 
-131
+134
 HAROON  BILAL
 Deputy DGFT
 RA PUNE
 HAROON[dot]BILAL[at]NIC[dot]IN
+Metadata: {'source': 'https://www.dgft.gov.in/CP/?opt=dgft-ra-details', 'title': 'Directorate General of Foreign Trade | Ministry of\r\n\tCommerce and Industry | Government of India', 'language': 'No language found.', 'source_url': 'https://www.dgft.gov.in/CP/?opt=dgft-ra-details', 'source_type': 'web', 'source_id': 'https://www.dgft.gov.in/CP/?opt=dgft-ra-details', 'chunk_index': 18, 'char_count': 780, 'word_count': 89, 'chunk_start': 13693, 'chunk_end': 14475}
 
-132
+=== CHUNK 877 ===
+Content: 135
 KRISHNADAS  NAIR
 FTDO
 RA PUNE
 KRISHNA[dot]DAS65[at]GOV[dot]IN
 
-133
+136
 PRASHANT SUDAM MORE
 FTDO
 RA PUNE
 PRASHANT[dot]MORE11[at]GOV[dot]IN
 
-134
+137
 PUSHPA CHANDAN GANGAWANE
 FTDO
 RA PUNE
 PUSHPA[dot]G[at]NIC[dot]IN
-Metadata: {'source': 'https://www.dgft.gov.in/CP/?opt=dgft-ra-details', 'title': 'Directorate General of Foreign Trade | Ministry of\r\n\tCommerce and Industry | Government of India', 'language': 'No language found.', 'source_url': 'https://www.dgft.gov.in/CP/?opt=dgft-ra-details', 'source_type': 'web', 'source_id': 'https://www.dgft.gov.in/CP/?opt=dgft-ra-details', 'chunk_index': 18, 'char_count': 755, 'word_count': 87, 'chunk_start': 13643, 'chunk_end': 14400}
 
-=== CHUNK 877 ===
-Content: 135
+138
 ROHIT  SONI
 Joint DGFT
 RA RAJKOT
 ROHIT[dot]SONI88[at]NIC[dot]IN
 
-136
+139
 DINESH NARANBHAI CHAWDA
 FTDO
 RA RAJKOT
@@ -20193,40 +20211,48 @@ DINESH[dot]CHAWDA[at]GOV[dot]IN
 
 25
 
-137
+140
 ASHOK KUMAR BHUSHAN
 Deputy DGFT
 RA SRINAGAR
 BHUSHAN[dot]AK7[at]NIC[dot]IN
 
-138
+141
 UTPAL KUMAR ACHARYA
 Joint DGFT
 RA SRINAGAR
 UTPAL[dot]ACHARYA[at]NIC[dot]IN
 
-139
+142
+VIVEK KUMAR  SABHARWAL
+Assistant DGFT
+RA SRINAGAR
+VK[dot]SABHARWAL[at]NIC[dot]IN
+
+143
 LOKESH  H D
 Additional DGFT
 RA SURAT
 LOKESH[dot]HD[at]NIC[dot]IN
 079-25506791
 
-140
+144
 Abhimaniu  Sharma
 Joint DGFT
 RA SURAT
 abhimaniu[dot]sharma[at]nic[dot]in
 0261-2423381
 21
+Metadata: {'source': 'https://www.dgft.gov.in/CP/?opt=dgft-ra-details', 'title': 'Directorate General of Foreign Trade | Ministry of\r\n\tCommerce and Industry | Government of India', 'language': 'No language found.', 'source_url': 'https://www.dgft.gov.in/CP/?opt=dgft-ra-details', 'source_type': 'web', 'source_id': 'https://www.dgft.gov.in/CP/?opt=dgft-ra-details', 'chunk_index': 19, 'char_count': 778, 'word_count': 87, 'chunk_start': 14475, 'chunk_end': 15255}
 
-141
+=== CHUNK 878 ===
+Content: 145
 PRAVEEN  KUMAR
 Joint DGFT
 RA SURAT
 PRAVEEN[dot]KUMAR82[at]NIC[dot]IN
 
-142
+146
 DASHRATH TUKARAM PARATE
 Deputy DGFT
 RA SURAT
@@ -20234,7 +20260,7 @@ DT[dot]PARATE[at]NIC[dot]IN
 0261-2423381
 22
 
-143
+147
 DINESH NARANBHAI CHAWDA
 FTDO
 RA SURAT
@@ -20242,52 +20268,52 @@ DINESH[dot]CHAWDA[at]GOV[dot]IN
 
 25
 
-144
+148
 SATYADEV  DOMMETY
 FTDO
 RA SURAT
 SATYADEV[dot]D[at]GOV[dot]IN
-Metadata: {'source': 'https://www.dgft.gov.in/CP/?opt=dgft-ra-details', 'title': 'Directorate General of Foreign Trade | Ministry of\r\n\tCommerce and Industry | Government of India', 'language': 'No language found.', 'source_url': 'https://www.dgft.gov.in/CP/?opt=dgft-ra-details', 'source_type': 'web', 'source_id': 'https://www.dgft.gov.in/CP/?opt=dgft-ra-details', 'chunk_index': 19, 'char_count': 796, 'word_count': 90, 'chunk_start': 14400, 'chunk_end': 15198}
 
-=== CHUNK 878 ===
-Content: 145
+149
 ANUPAM  KUMAR
 Joint DGFT
 RA VADODARA
 ANUPAM[dot]KUMAR84[at]NIC[dot]IN
 
-146
+150
 PREMKUMAR MURALIDHAR SONKUSARE
 FTDO
 RA VADODARA
 PM[dot]SONKUSRE[at]NIC[dot]IN
 
-147
+151
 Rajiv Kumar  Soni 
 Joint DGFT
 RA VARANASI
 rajiv[dot]soni[at]nic[dot]in
 
-148
+152
 BRIJ KISHOR DUBEY
 FTDO
 RA VARANASI
 BK[dot]DUBEY[at]NIC[dot]IN
 
-149
+153
 Rakesh  Kumar
 Additional DGFT
 RA VISAKHAPATNAM
 r[dot]kumar73[at]nic[dot]in
 
-150
+154
 Palani Phani Kiran
 Deputy DGFT
 RA VISAKHAPATNAM
 sp[dot]phanikiran[at]gov[dot]in
 044-28283400
+Metadata: {'source': 'https://www.dgft.gov.in/CP/?opt=dgft-ra-details', 'title': 'Directorate General of Foreign Trade | Ministry of\r\n\tCommerce and Industry | Government of India', 'language': 'No language found.', 'source_url': 'https://www.dgft.gov.in/CP/?opt=dgft-ra-details', 'source_type': 'web', 'source_id': 'https://www.dgft.gov.in/CP/?opt=dgft-ra-details', 'chunk_index': 20, 'char_count': 790, 'word_count': 86, 'chunk_start': 15255, 'chunk_end': 16047}
 
-151
+=== CHUNK 879 ===
+Content: 155
 RAMESH  B N
 Joint DGFT
 RA VISAKHAPATNAM
@@ -20295,7 +20321,7 @@ RAMESH[dot]BN[at]NIC[dot]IN
 08912550067
 0891274146
 
-152
+156
 Amal  Bahuleyan K
 Assistant DGFT
 RA VISAKHAPATNAM
@@ -20303,14 +20329,14 @@ amal[dot]bahuleyan[dot]k[at]gov[dot]in
 28283400
 232
 
-153
+157
 PRAKASH  SINGH
 FTDO
 RA VISAKHAPATNAM
 PRAKAS[dot]SINGH72[at]NIC[dot]IN
-Metadata: {'source': 'https://www.dgft.gov.in/CP/?opt=dgft-ra-details', 'title': 'Directorate General of Foreign Trade | Ministry of\r\n\tCommerce and Industry | Government of India', 'language': 'No language found.', 'source_url': 'https://www.dgft.gov.in/CP/?opt=dgft-ra-details', 'source_type': 'web', 'source_id': 'https://www.dgft.gov.in/CP/?opt=dgft-ra-details', 'chunk_index': 20, 'char_count': 755, 'word_count': 80, 'chunk_start': 15198, 'chunk_end': 15955}
+Metadata: {'source': 'https://www.dgft.gov.in/CP/?opt=dgft-ra-details', 'title': 'Directorate General of Foreign Trade | Ministry of\r\n\tCommerce and Industry | Government of India', 'language': 'No language found.', 'source_url': 'https://www.dgft.gov.in/CP/?opt=dgft-ra-details', 'source_type': 'web', 'source_id': 'https://www.dgft.gov.in/CP/?opt=dgft-ra-details', 'chunk_index': 21, 'char_count': 276, 'word_count': 29, 'chunk_start': 16047, 'chunk_end': 16325}
 
-=== CHUNK 879 ===
+=== CHUNK 880 ===
 Content: Directorate General of Foreign Trade | Ministry of
 	Commerce and Industry | Government of India
 
@@ -20382,7 +20408,7 @@ Research
 Public Grievance
 Metadata: {'source': 'https://www.dgft.gov.in/CP/?opt=dgft-hq-details', 'title': 'Directorate General of Foreign Trade | Ministry of\r\n\tCommerce and Industry | Government of India', 'language': 'No language found.', 'source_url': 'https://www.dgft.gov.in/CP/?opt=dgft-hq-details', 'source_type': 'web', 'source_id': 'https://www.dgft.gov.in/CP/?opt=dgft-hq-details', 'chunk_index': 0, 'char_count': 790, 'word_count': 105, 'chunk_start': 0, 'chunk_end': 792}
 
-=== CHUNK 880 ===
+=== CHUNK 881 ===
 Content: Employee Corner
 
 O&M Instructions
@@ -20455,7 +20481,7 @@ Customise your dashboard
 Log In
 Metadata: {'source': 'https://www.dgft.gov.in/CP/?opt=dgft-hq-details', 'title': 'Directorate General of Foreign Trade | Ministry of\r\n\tCommerce and Industry | Government of India', 'language': 'No language found.', 'source_url': 'https://www.dgft.gov.in/CP/?opt=dgft-hq-details', 'source_type': 'web', 'source_id': 'https://www.dgft.gov.in/CP/?opt=dgft-hq-details', 'chunk_index': 1, 'char_count': 736, 'word_count': 91, 'chunk_start': 792, 'chunk_end': 1530}
 
-=== CHUNK 881 ===
+=== CHUNK 882 ===
 Content: to have a personalised dashboard to monitor & control all your applications
 
 Do not have Account?
@@ -20520,7 +20546,7 @@ Other e-Learning Videos
 India Trade Portal
 Metadata: {'source': 'https://www.dgft.gov.in/CP/?opt=dgft-hq-details', 'title': 'Directorate General of Foreign Trade | Ministry of\r\n\tCommerce and Industry | Government of India', 'language': 'No language found.', 'source_url': 'https://www.dgft.gov.in/CP/?opt=dgft-hq-details', 'source_type': 'web', 'source_id': 'https://www.dgft.gov.in/CP/?opt=dgft-hq-details', 'chunk_index': 2, 'char_count': 770, 'word_count': 114, 'chunk_start': 1530, 'chunk_end': 2302}
 
-=== CHUNK 882 ===
+=== CHUNK 883 ===
 Content: E-Commerce Exports Handbook for MSMEs
 
 Handbook on India's Strategic Trade Control Systems (SCOMET)
@@ -20591,7 +20617,7 @@ About DGFT
 DGFT HQ Details
 Metadata: {'source': 'https://www.dgft.gov.in/CP/?opt=dgft-hq-details', 'title': 'Directorate General of Foreign Trade | Ministry of\r\n\tCommerce and Industry | Government of India', 'language': 'No language found.', 'source_url': 'https://www.dgft.gov.in/CP/?opt=dgft-hq-details', 'source_type': 'web', 'source_id': 'https://www.dgft.gov.in/CP/?opt=dgft-hq-details', 'chunk_index': 3, 'char_count': 793, 'word_count': 107, 'chunk_start': 2302, 'chunk_end': 3097}
 
-=== CHUNK 883 ===
+=== CHUNK 884 ===
 Content: DGFT HQ Details
 
 Directorate General of Foreign Trade
@@ -20641,7 +20667,7 @@ Vanijya Bhawan
 ADDITIONAL DGFT
 Metadata: {'source': 'https://www.dgft.gov.in/CP/?opt=dgft-hq-details', 'title': 'Directorate General of Foreign Trade | Ministry of\r\n\tCommerce and Industry | Government of India', 'language': 'No language found.', 'source_url': 'https://www.dgft.gov.in/CP/?opt=dgft-hq-details', 'source_type': 'web', 'source_id': 'https://www.dgft.gov.in/CP/?opt=dgft-hq-details', 'chunk_index': 4, 'char_count': 764, 'word_count': 115, 'chunk_start': 3097, 'chunk_end': 3863}
 
-=== CHUNK 884 ===
+=== CHUNK 885 ===
 Content: 2
 Ms. Shubhra
 Additional DGFT
@@ -20661,7 +20687,7 @@ Vanijya Bhawan
 8720
 Metadata: {'source': 'https://www.dgft.gov.in/CP/?opt=dgft-hq-details', 'title': 'Directorate General of Foreign Trade | Ministry of\r\n\tCommerce and Industry | Government of India', 'language': 'No language found.', 'source_url': 'https://www.dgft.gov.in/CP/?opt=dgft-hq-details', 'source_type': 'web', 'source_id': 'https://www.dgft.gov.in/CP/?opt=dgft-hq-details', 'chunk_index': 5, 'char_count': 429, 'word_count': 49, 'chunk_start': 3863, 'chunk_end': 4294}
 
-=== CHUNK 885 ===
+=== CHUNK 886 ===
 Content: 3
 Shri Hardeep Singh
 Additional DGFT
@@ -20673,7 +20699,7 @@ Vanijya Bhawan
 8712/ 8713
 Metadata: {'source': 'https://www.dgft.gov.in/CP/?opt=dgft-hq-details', 'title': 'Directorate General of Foreign Trade | Ministry of\r\n\tCommerce and Industry | Government of India', 'language': 'No language found.', 'source_url': 'https://www.dgft.gov.in/CP/?opt=dgft-hq-details', 'source_type': 'web', 'source_id': 'https://www.dgft.gov.in/CP/?opt=dgft-hq-details', 'chunk_index': 6, 'char_count': 479, 'word_count': 52, 'chunk_start': 4294, 'chunk_end': 4775}
 
-=== CHUNK 886 ===
+=== CHUNK 887 ===
 Content: 4
 Shri Abhinav Gupta
 Additional DGFT
@@ -20685,7 +20711,7 @@ Vanijya Bhawan
 8735
 Metadata: {'source': 'https://www.dgft.gov.in/CP/?opt=dgft-hq-details', 'title': 'Directorate General of Foreign Trade | Ministry of\r\n\tCommerce and Industry | Government of India', 'language': 'No language found.', 'source_url': 'https://www.dgft.gov.in/CP/?opt=dgft-hq-details', 'source_type': 'web', 'source_id': 'https://www.dgft.gov.in/CP/?opt=dgft-hq-details', 'chunk_index': 7, 'char_count': 436, 'word_count': 45, 'chunk_start': 4775, 'chunk_end': 5213}
 
-=== CHUNK 887 ===
+=== CHUNK 888 ===
 Content: 5
 Shri Rakesh Kumar
 Additional DGFT
@@ -20705,7 +20731,7 @@ Vanijya Bhawan
 8717
 Metadata: {'source': 'https://www.dgft.gov.in/CP/?opt=dgft-hq-details', 'title': 'Directorate General of Foreign Trade | Ministry of\r\n\tCommerce and Industry | Government of India', 'language': 'No language found.', 'source_url': 'https://www.dgft.gov.in/CP/?opt=dgft-hq-details', 'source_type': 'web', 'source_id': 'https://www.dgft.gov.in/CP/?opt=dgft-hq-details', 'chunk_index': 8, 'char_count': 640, 'word_count': 88, 'chunk_start': 5213, 'chunk_end': 5855}
 
-=== CHUNK 888 ===
+=== CHUNK 889 ===
 Content: 6
 Shri Lokesh H. D.
 Additional DGFT
@@ -20744,7 +20770,7 @@ Vanijya Bhawan
 DIRECTOR
 Metadata: {'source': 'https://www.dgft.gov.in/CP/?opt=dgft-hq-details', 'title': 'Directorate General of Foreign Trade | Ministry of\r\n\tCommerce and Industry | Government of India', 'language': 'No language found.', 'source_url': 'https://www.dgft.gov.in/CP/?opt=dgft-hq-details', 'source_type': 'web', 'source_id': 'https://www.dgft.gov.in/CP/?opt=dgft-hq-details', 'chunk_index': 9, 'char_count': 679, 'word_count': 82, 'chunk_start': 5855, 'chunk_end': 6536}
 
-=== CHUNK 889 ===
+=== CHUNK 890 ===
 Content: 8
 Shri Sarbeswar Majhi
 Director
@@ -20776,7 +20802,7 @@ Udyog Bhawan
 JOINT DGFT
 Metadata: {'source': 'https://www.dgft.gov.in/CP/?opt=dgft-hq-details', 'title': 'Directorate General of Foreign Trade | Ministry of\r\n\tCommerce and Industry | Government of India', 'language': 'No language found.', 'source_url': 'https://www.dgft.gov.in/CP/?opt=dgft-hq-details', 'source_type': 'web', 'source_id': 'https://www.dgft.gov.in/CP/?opt=dgft-hq-details', 'chunk_index': 10, 'char_count': 583, 'word_count': 74, 'chunk_start': 6536, 'chunk_end': 7121}
 
-=== CHUNK 890 ===
+=== CHUNK 891 ===
 Content: 10
 Shri Randheep Thakur
 Joint DGFT
@@ -20807,7 +20833,7 @@ Vanijya Bhawan
 8737
 Metadata: {'source': 'https://www.dgft.gov.in/CP/?opt=dgft-hq-details', 'title': 'Directorate General of Foreign Trade | Ministry of\r\n\tCommerce and Industry | Government of India', 'language': 'No language found.', 'source_url': 'https://www.dgft.gov.in/CP/?opt=dgft-hq-details', 'source_type': 'web', 'source_id': 'https://www.dgft.gov.in/CP/?opt=dgft-hq-details', 'chunk_index': 11, 'char_count': 650, 'word_count': 73, 'chunk_start': 7121, 'chunk_end': 7773}
 
-=== CHUNK 891 ===
+=== CHUNK 892 ===
 Content: 12
 Smt Suminder Kaur
 Joint DGFT
@@ -20845,7 +20871,7 @@ Vanijya Bhawan
 8729
 Metadata: {'source': 'https://www.dgft.gov.in/CP/?opt=dgft-hq-details', 'title': 'Directorate General of Foreign Trade | Ministry of\r\n\tCommerce and Industry | Government of India', 'language': 'No language found.', 'source_url': 'https://www.dgft.gov.in/CP/?opt=dgft-hq-details', 'source_type': 'web', 'source_id': 'https://www.dgft.gov.in/CP/?opt=dgft-hq-details', 'chunk_index': 12, 'char_count': 635, 'word_count': 74, 'chunk_start': 7773, 'chunk_end': 8410}
 
-=== CHUNK 892 ===
+=== CHUNK 893 ===
 Content: 15
 Shri Satya Raja Sekhar G
 Joint DGFT
@@ -20889,7 +20915,7 @@ Vanijya Bhawan
 8777
 Metadata: {'source': 'https://www.dgft.gov.in/CP/?opt=dgft-hq-details', 'title': 'Directorate General of Foreign Trade | Ministry of\r\n\tCommerce and Industry | Government of India', 'language': 'No language found.', 'source_url': 'https://www.dgft.gov.in/CP/?opt=dgft-hq-details', 'source_type': 'web', 'source_id': 'https://www.dgft.gov.in/CP/?opt=dgft-hq-details', 'chunk_index': 13, 'char_count': 737, 'word_count': 97, 'chunk_start': 8410, 'chunk_end': 9149}
 
-=== CHUNK 893 ===
+=== CHUNK 894 ===
 Content: 19
 Shri Sanjay Kumar Tiwari
 Deputy DGFT
@@ -20940,7 +20966,7 @@ Vanijya Bhawan
 8759
 Metadata: {'source': 'https://www.dgft.gov.in/CP/?opt=dgft-hq-details', 'title': 'Directorate General of Foreign Trade | Ministry of\r\n\tCommerce and Industry | Government of India', 'language': 'No language found.', 'source_url': 'https://www.dgft.gov.in/CP/?opt=dgft-hq-details', 'source_type': 'web', 'source_id': 'https://www.dgft.gov.in/CP/?opt=dgft-hq-details', 'chunk_index': 14, 'char_count': 783, 'word_count': 95, 'chunk_start': 9149, 'chunk_end': 9934}
 
-=== CHUNK 894 ===
+=== CHUNK 895 ===
 Content: 24
 Shri Ranjeet Kumar Roy
 Deputy DGFT
@@ -20972,7 +20998,7 @@ Vanijya Bhawan
 8760
 Metadata: {'source': 'https://www.dgft.gov.in/CP/?opt=dgft-hq-details', 'title': 'Directorate General of Foreign Trade | Ministry of\r\n\tCommerce and Industry | Government of India', 'language': 'No language found.', 'source_url': 'https://www.dgft.gov.in/CP/?opt=dgft-hq-details', 'source_type': 'web', 'source_id': 'https://www.dgft.gov.in/CP/?opt=dgft-hq-details', 'chunk_index': 15, 'char_count': 722, 'word_count': 82, 'chunk_start': 9934, 'chunk_end': 10658}
 
-=== CHUNK 895 ===
+=== CHUNK 896 ===
 Content: 27
 Smt. Laxmi Devi
 Deputy DGFT
@@ -21023,7 +21049,7 @@ Vanijya Bhawan
 8761
 Metadata: {'source': 'https://www.dgft.gov.in/CP/?opt=dgft-hq-details', 'title': 'Directorate General of Foreign Trade | Ministry of\r\n\tCommerce and Industry | Government of India', 'language': 'No language found.', 'source_url': 'https://www.dgft.gov.in/CP/?opt=dgft-hq-details', 'source_type': 'web', 'source_id': 'https://www.dgft.gov.in/CP/?opt=dgft-hq-details', 'chunk_index': 16, 'char_count': 670, 'word_count': 80, 'chunk_start': 10658, 'chunk_end': 11330}
 
-=== CHUNK 896 ===
+=== CHUNK 897 ===
 Content: 32
 Shri Gokul Ram Meena
 Deputy DGFT
@@ -21056,7 +21082,7 @@ Vanijya Bhawan
 DEPUTY DIRECTOR
 Metadata: {'source': 'https://www.dgft.gov.in/CP/?opt=dgft-hq-details', 'title': 'Directorate General of Foreign Trade | Ministry of\r\n\tCommerce and Industry | Government of India', 'language': 'No language found.', 'source_url': 'https://www.dgft.gov.in/CP/?opt=dgft-hq-details', 'source_type': 'web', 'source_id': 'https://www.dgft.gov.in/CP/?opt=dgft-hq-details', 'chunk_index': 17, 'char_count': 513, 'word_count': 56, 'chunk_start': 11330, 'chunk_end': 11845}
 
-=== CHUNK 897 ===
+=== CHUNK 898 ===
 Content: 35
 Shri Ajay Kumar
 Deputy Director
@@ -21078,7 +21104,7 @@ Vanijya Bhawan/ Udyog Bhawan
 8727 (Vanijya Bhawan)/ 343 (Udyog Bhawan)
 Metadata: {'source': 'https://www.dgft.gov.in/CP/?opt=dgft-hq-details', 'title': 'Directorate General of Foreign Trade | Ministry of\r\n\tCommerce and Industry | Government of India', 'language': 'No language found.', 'source_url': 'https://www.dgft.gov.in/CP/?opt=dgft-hq-details', 'source_type': 'web', 'source_id': 'https://www.dgft.gov.in/CP/?opt=dgft-hq-details', 'chunk_index': 18, 'char_count': 661, 'word_count': 81, 'chunk_start': 11845, 'chunk_end': 12508}
 
-=== CHUNK 898 ===
+=== CHUNK 899 ===
 Content: 37
 Ms. Ishita Gupta
 Deputy Director (Stats)
@@ -21112,7 +21138,7 @@ Udyog Bhawan
 217
 Metadata: {'source': 'https://www.dgft.gov.in/CP/?opt=dgft-hq-details', 'title': 'Directorate General of Foreign Trade | Ministry of\r\n\tCommerce and Industry | Government of India', 'language': 'No language found.', 'source_url': 'https://www.dgft.gov.in/CP/?opt=dgft-hq-details', 'source_type': 'web', 'source_id': 'https://www.dgft.gov.in/CP/?opt=dgft-hq-details', 'chunk_index': 19, 'char_count': 679, 'word_count': 76, 'chunk_start': 12508, 'chunk_end': 13189}
 
-=== CHUNK 899 ===
+=== CHUNK 900 ===
 Content: 40
 Shri Deepak S Nagdeve
 Assistant Director (Stats)
@@ -21166,7 +21192,7 @@ Vanijya Bhawan
 1607
 Metadata: {'source': 'https://www.dgft.gov.in/CP/?opt=dgft-hq-details', 'title': 'Directorate General of Foreign Trade | Ministry of\r\n\tCommerce and Industry | Government of India', 'language': 'No language found.', 'source_url': 'https://www.dgft.gov.in/CP/?opt=dgft-hq-details', 'source_type': 'web', 'source_id': 'https://www.dgft.gov.in/CP/?opt=dgft-hq-details', 'chunk_index': 20, 'char_count': 796, 'word_count': 88, 'chunk_start': 13189, 'chunk_end': 13987}
 
-=== CHUNK 900 ===
+=== CHUNK 901 ===
 Content: 45
 Shri Gajendra Singh
 FTDO
@@ -21237,7 +21263,7 @@ Vanijya Bhawan
 8787
 Metadata: {'source': 'https://www.dgft.gov.in/CP/?opt=dgft-hq-details', 'title': 'Directorate General of Foreign Trade | Ministry of\r\n\tCommerce and Industry | Government of India', 'language': 'No language found.', 'source_url': 'https://www.dgft.gov.in/CP/?opt=dgft-hq-details', 'source_type': 'web', 'source_id': 'https://www.dgft.gov.in/CP/?opt=dgft-hq-details', 'chunk_index': 21, 'char_count': 767, 'word_count': 87, 'chunk_start': 13987, 'chunk_end': 14756}
 
-=== CHUNK 901 ===
+=== CHUNK 902 ===
 Content: 52
 Shri Ajay Chaudhary
 FTDO
@@ -21310,7 +21336,7 @@ Vanijya Bhawan
 9581
 Metadata: {'source': 'https://www.dgft.gov.in/CP/?opt=dgft-hq-details', 'title': 'Directorate General of Foreign Trade | Ministry of\r\n\tCommerce and Industry | Government of India', 'language': 'No language found.', 'source_url': 'https://www.dgft.gov.in/CP/?opt=dgft-hq-details', 'source_type': 'web', 'source_id': 'https://www.dgft.gov.in/CP/?opt=dgft-hq-details', 'chunk_index': 22, 'char_count': 777, 'word_count': 84, 'chunk_start': 14756, 'chunk_end': 15535}
 
-=== CHUNK 902 ===
+=== CHUNK 903 ===
 Content: 60
 Shri Santosh Tripathi
 FTDO
@@ -21386,7 +21412,7 @@ FTDO
 Cash
 Metadata: {'source': 'https://www.dgft.gov.in/CP/?opt=dgft-hq-details', 'title': 'Directorate General of Foreign Trade | Ministry of\r\n\tCommerce and Industry | Government of India', 'language': 'No language found.', 'source_url': 'https://www.dgft.gov.in/CP/?opt=dgft-hq-details', 'source_type': 'web', 'source_id': 'https://www.dgft.gov.in/CP/?opt=dgft-hq-details', 'chunk_index': 23, 'char_count': 797, 'word_count': 93, 'chunk_start': 15535, 'chunk_end': 16334}
 
-=== CHUNK 903 ===
+=== CHUNK 904 ===
 Content: dipakkumar[dot]sarkar[at]gov[dot]in
 490
 Udyog Bhawan

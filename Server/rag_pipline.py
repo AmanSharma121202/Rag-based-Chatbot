@@ -1,8 +1,7 @@
-# retrieval_setup.py
 import os
 import logging
 from dotenv import load_dotenv
-from langchain_google_genai import GoogleGenerativeAIEmbeddings
+from langchain_google_genai import GoogleGenerativeAIEmbeddings, ChatGoogleGenerativeAI
 from langchain_community.vectorstores import Chroma
 from langchain_core.output_parsers import StrOutputParser
 from langchain.chains.combine_documents import create_stuff_documents_chain
@@ -15,9 +14,10 @@ from langchain_core.documents import Document
 from typing import List, Dict, Any
 from langchain_core.runnables import RunnableMap
 from langchain_core.runnables.base import RunnableLambda
-
-import os
-from langchain_community.llms import Ollama
+import torch
+from tenacity import retry, stop_after_attempt, wait_exponential
+from langchain_community.llms import HuggingFaceHub
+import google.generativeai as genai
 
 
 # Set up logging
@@ -27,10 +27,22 @@ logger = logging.getLogger(__name__)
 # Load environment variables
 load_dotenv()
 GOOGLE_KEY = os.getenv("GOOGLE_API_KEY") or os.getenv("GEMINI_API_KEY")
-if not GOOGLE_KEY:
-    raise EnvironmentError("Missing Google API Key. Set GOOGLE_API_KEY or GEMINI_API_KEY in your .env")
-os.environ["GOOGLE_API_KEY"] = GOOGLE_KEY
+# HUGGINGFACEHUB_API_TOKEN = os.getenv("HUGGINGFACEHUB_API_TOKEN")
+# if not GOOGLE_KEY:
+#     raise EnvironmentError("Missing Google API Key. Set GOOGLE_API_KEY or GEMINI_API_KEY in your .env")
+# if not HUGGINGFACEHUB_API_TOKEN:
+#     logger.warning("HUGGINGFACEHUB_API_TOKEN not found. Required for remote Hugging Face models.")
 
+os.environ["GOOGLE_API_KEY"] = GOOGLE_KEY
+# os.environ["HUGGINGFACEHUB_API_TOKEN"] = HUGGINGFACEHUB_API_TOKEN
+# Replace the direct genai.GenerativeModel with LangChain wrapper
+
+llm = ChatGoogleGenerativeAI(
+    model="gemini-2.0-flash",
+    temperature=0.2,
+    top_p=0.9,
+    google_api_key=GOOGLE_KEY
+)
 
 class EnhancedRetriever:
     """Enhanced retriever with semantic chunking integration"""
@@ -42,7 +54,6 @@ class EnhancedRetriever:
         self.vector_store = None
         self.retriever = None
         self._initialize_vector_store()
-
 
     def _initialize_vector_store(self):
         """Initialize the vector store and retriever"""
@@ -68,12 +79,10 @@ class EnhancedRetriever:
             logger.error(f"Failed to initialize vector store: {e}")
             raise
 
-
     def get_retriever_with_source_filtering(self, source_types: List[str] = None) -> Any:
         """Get retriever with optional source type filtering"""
         if source_types:
             logger.info(f"Creating filtered retriever for source_types: {source_types}")
-            # Create a filtered retriever
             def filtered_retriever(query: str) -> List[Document]:
                 logger.info(f"Filtered retrieval for query: '{query}' with source_types: {source_types}")
                 docs = self.vector_store.similarity_search(
@@ -86,7 +95,6 @@ class EnhancedRetriever:
             return filtered_retriever
         logger.info("Returning default retriever (no source filtering)")
         return self.retriever
-
 
     def debug_retrieval(self, query: str, k: int = 3) -> List[Dict[str, Any]]:
         """Debug function to inspect retrieved documents"""
@@ -108,23 +116,32 @@ class EnhancedRetriever:
                 }
             })
         return debug_info
-    
-
 
 # Initialize the enhanced retriever
 enhanced_retriever = EnhancedRetriever()
 retriever = enhanced_retriever.retriever
 
-llm = Ollama(model="gemma2:9b")
 
-######### Enhanced Prompts ##########
+# Alternative for remote inference (uncomment to use):
+# @retry(stop=stop_after_attempt(3), wait=wait_exponential(multiplier=1, min=4, max=10))
+# def initialize_llm():
+#     return HuggingFaceHub(
+#         repo_id="mistralai/Mixtral-8x7B-Instruct-v0.1",
+#         model_kwargs={"temperature": 0.1, "max_length": 500},
+#         huggingfacehub_api_token=HUGGINGFACEHUB_API_TOKEN
+#     )
+# try:
+#     llm = initialize_llm()
+#     logger.info("Successfully initialized Hugging Face Hub model: mistralai/Mixtral-8x7B-Instruct-v0.1")
+# except Exception as e:
+#     logger.error(f"Failed to initialize Hugging Face Hub model: {e}")
+#     raise
+
 
 # Enhanced system prompt that works better with semantic chunks
 system_prompt = (
 "You are a highly knowledgeable and policy-compliant assistant specializing in DGFT (Directorate General of Foreign Trade) regulations, policies, and procedures."
-
 "Your sole responsibility is to interpret, clarify, and communicate official information strictly based on the provided **DGFT document context**. You must not infer, assume, or introduce external data."
-
 " TASK INSTRUCTIONS"
 "1. Carefully review the entire `{context}` block containing excerpts from official DGFT notifications, trade circulars, handbooks, or FTP (Foreign Trade Policy)."
 "2. Assess whether the `{input}` (user query) can be **answered precisely and fully** using only the supplied context."
@@ -134,29 +151,23 @@ system_prompt = (
     "-  Reference specific DGFT notifications, policy clauses, chapters, procedures, or form names/numbers if available."
     "-  Avoid complex legal jargon where possible; explain technical terms simply."
     "-  Use a polite, professional tone that builds trust."
-
    "**ELSE IF** the context is **insufficient or unrelated** to the users query:"
-     "-  Respond exactly with: " 
+     "-  Respond exactly with: "
      "- I cannot find sufficient information in the available DGFT documents to answer your question."
      "- Do not attempt to answer based on assumed or external knowledge."
-
 " OUTPUT FORMAT"
 "**Answer:**"
 "{{your well-structured answer or fallback message here}}"
-   
 " BEST PRACTICES"
 "- Avoid repeating users question unless needed for clarity."
 "- Do not invent policy numbers or form names."
 "- Maintain high fidelity to the source context at all times."
 "- Be transparent if information is missing."
-
 " INPUT BLOCK"
 "Context:"
 "{context}"
-
 "Question:"
 "{input}"
- 
 )
 
 # Enhanced contextualization prompt for better question reformulation
@@ -194,20 +205,16 @@ followup_prompt = ChatPromptTemplate.from_messages([
     ("human", "Context:\n{context}\nOriginal Question:\n{input}")
 ])
 
-
-####### Enhanced Retrieval + Generation Chains ##########
-
 # Create enhanced history-aware retriever
 history_aware_retriever = create_history_aware_retriever(
     llm=llm,
     retriever=retriever,
-    prompt=contextualize_q_prompt  # <-- fixed here!
+    prompt=contextualize_q_prompt
 )
 
 # Function to generate follow-up questions based on context
 followup_chain = followup_prompt | llm | StrOutputParser()
 
-# Function to generate follow-up questions based on context
 def retrieve_and_split_docs(inputs: dict) -> dict:
     all_docs = history_aware_retriever.invoke(inputs)
     primary_docs = all_docs[:5]
@@ -225,21 +232,15 @@ def generate_followups(query, docs):
 def rag_with_followups(input_text: str, chat_history: List[dict]) -> dict:
     inputs = {"input": input_text, "chat_history": chat_history}
     doc_dict = split_docs_chain.invoke(inputs)
-
-    # Generate answer from top 5
     answer = question_answer_chain.invoke({
         "input": input_text,
         "chat_history": chat_history,
         "context": doc_dict["primary_docs"]
     })
-
-    # Check if answer is fallback
     fallback = "I cannot find sufficient information" in answer
-
     followups = []
     if not fallback:
         followups = generate_followups(input_text, doc_dict["followup_docs"])
-
     return {
         "answer": answer,
         "followup_questions": followups
@@ -247,7 +248,6 @@ def rag_with_followups(input_text: str, chat_history: List[dict]) -> dict:
 
 # Create the question-answering chain
 question_answer_chain = create_stuff_documents_chain(llm, qa_prompt)
-
 
 # Enhanced debug function with better formatting
 def debug_retriever(inputs):
@@ -287,12 +287,8 @@ def debug_similarity_search(query: str, k: int = 3):
         print("-" * 40)
     return debug_info
 
-
 # Create the retrieval chain
 rag_chain_hist = create_retrieval_chain(history_aware_retriever, question_answer_chain)
-
-
-######### Enhanced Session Management ##########
 
 # Enhanced session store with better management
 class SessionManager:
@@ -315,34 +311,24 @@ class SessionManager:
 
 session_manager = SessionManager()
 
-
-####### Enhanced Guardrail System #######
+# Enhanced guardrail system
 def enhanced_context_guard(inputs: dict, output: dict) -> dict:
     """Enhanced guardrail with better context validation"""
     answer = output.get("answer", "")
     context = inputs.get("context", [])
-    
-    # Check if context is empty or insufficient
     if not context or (isinstance(context, list) and len(context) == 0):
         output["answer"] = "I cannot find sufficient information in the available DGFT documents to answer your question."
         logger.info("Guardrail triggered: No context available")
         return output
-    
-    # Check if answer is too generic (potential hallucination)
     generic_phrases = [
         "in general", "typically", "usually", "most likely", 
         "it is common", "generally speaking"
     ]
-    
     if any(phrase in answer.lower() for phrase in generic_phrases):
         if "according to" not in answer.lower() and "based on" not in answer.lower():
             output["answer"] = "I cannot find sufficient information in the available DGFT documents to answer your question."
             logger.info("Guardrail triggered: Generic answer detected")
-    
     return output
-
-
-####### Enhanced Conversational RAG Chain #######
 
 # Create the enhanced conversational RAG chain
 conversational_rag_chain = RunnableWithMessageHistory(
@@ -353,9 +339,7 @@ conversational_rag_chain = RunnableWithMessageHistory(
     output_messages_key="answer",
 )
 
-
-####### Utility Functions #######
-
+# Utility Functions
 def get_collection_stats():
     """Get statistics about the vector store collection"""
     try:
