@@ -8,4 +8,3 @@ langchain-google-genai
 genai
 langchain_google_vertexai
 tiktoken==0.5.1
-
